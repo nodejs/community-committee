@@ -25,3 +25,4 @@ The Community Committee is an autonomous committee that collaborates alongside t
 - William Kapke([williamkapke](https://github.com/williamkapke))
 - Rod Vagg([rvagg](https://github.com/rvagg))
 - James Snell([jasnell](https://github.com/jasnell))
+- Gregor Martynus([gr2m](https://github.com/gr2m))
