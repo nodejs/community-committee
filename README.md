@@ -17,7 +17,7 @@ Meetings will be broadcast via call, will be announced ahead of time for access,
 
 ## Governance and Current Members
 
-The Community Committee is an autonomous committee that collaborates alongside the TSC and whose governance is strongly influenced by the TSC's example. See [GOVERNANCE.md](./GOVERNANCE.md) to learn more about the group's evolving structure and [CONTRIBUTING.md](./CONTRIBUTING.md) for guidance about the expectations for all contributors to this project.
+The Community Committee is an autonomous committee that collaborates alongside the TSC and whose governance is strongly influenced by the TSC's example. See [GOVERNANCE.MD](./GOVERNANCE.MD) to learn more about the group's evolving structure and [CONTRIBUTING.MD](./CONTRIBUTING.MD) for guidance about the expectations for all contributors to this project.
 
 ### Community Committee Collaborators
 - Tracy Hinds([hackygolucky](https://github.com/hackygolucky))
