@@ -1,4 +1,7 @@
 # Community Committee
+
+tl;dr The Community Committee will tackle tasks for Foundation efforts that fall outside of Node.js Core. This group accountable to the Board is directly accountable to the Board. All new initiatives require Board approval
+
 The Community Committee reflects a formal role and the relevance of the voice of community for the governance of Node.js Foundation.
 
 Community activities, such as ecosystem projects and events, fall outside of the realm of code and documentation that the TSC oversees. Node.js' leadership is instantiated in a Board of Directors. There are are number of organizations that have absolutely contributed to the growth of Node.js--NodeSchool, NodeBots, and thousands of individual meetups. This is not an exhaustive list.The champions of these organizations have very different skillsets, talents, and concerns. The community organizations of Node.js have long been important to the growth and vitality of the project and will be recognized as the Community Committee(CC) as represented on the Board by the existing Individual Membership Board Directors.
