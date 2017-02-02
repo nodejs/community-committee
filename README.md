@@ -1,12 +1,12 @@
 # Community Committee
 The Community Committee reflects a formal voice for the community in the Node.js Foundation.
 
-Community activities, such as ecosystem projects and events, fall outside of core projects that the TSC oversees. The Node.js Foundation's is governed by its Board of Directors. There are are number of outside organizations that have absolutely contributed to the growth of Node.js--NodeSchool, NodeBots, and thousands of individual meetups. This is not an exhaustive list. The champions of these organizations have very different skillsets, talents, and concerns. These community organizations of Node.js have long been important to the growth and vitality of the Node.js ecosystem and should be respresented by the Community Committee(CC) which in turn can represent their interested and aquire support from the Node.js Foundation through its Board of Directors.
+Community activities, such as ecosystem projects and events, fall outside of core projects that the TSC oversees. The Node.js Foundation is governed by its Board of Directors. There are number of outside organizations that have contributed to the growth of Node.js--NodeSchool, NodeBots, and thousands of individual meetups. This is not an exhaustive list. The champions of these organizations have very different skillsets, talents, and concerns. These community organizations of Node.js have long been important to the growth and vitality of the Node.js ecosystem and should be represented by the Community Committee(CC) which in turn can represent their interested and acquire support from the Node.js Foundation through its Board of Directors.
 
 The CC is an automonous group operating adjacent to the TSC but is expected to collaborate with and be inspired by the lessons learned and wins celebrated in the many years of Node.js development. It is the hope that members of the TSC and CC will participate in each others' meetings to provide informed perspectives on the direction of the CC.
 
 ## What is this repo?
-This repository is for bootstrapping the the Community Committee structure. In the future this may turn into a separate org, but for now things are organized entirely in this repository.
+This repository is for bootstrapping the Community Committee structure. In the future this may turn into a separate org, but for now things are organized entirely in this repository.
 
 ## Contributing
 code commits !== the only means to contributions.
