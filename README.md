@@ -1,6 +1,6 @@
 # Community Committee
 
-tl;dr The Community Committee will tackle tasks for Foundation efforts that fall outside of Node.js Core. This group accountable to the Board is directly accountable to the Board. All new initiatives require Board approval
+tl;dr The Community Committee will tackle tasks for Foundation efforts that fall outside of Node.js Core. This group is directly accountable to the Board. All new initiatives require Board approval
 
 The Community Committee reflects a formal role and the relevance of the voice of community for the governance of Node.js Foundation.
 

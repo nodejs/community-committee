@@ -18,9 +18,7 @@ Section 4. Establishment of the Community Committee.
 
 Membership is for 6 months. The group will ask on a regular basis if the expiring members would like to stay on. A member just needs to reply to renew. There is no fixed size of the CC. However, the expected target for Advisers, as defined in Section 10, is between 9 and 12, to ensure adequate coverage of important areas of community expertise, balanced with the ability to make decisions efficiently.
 
-In the case where an individual CC member attends fewer than 20% of the regularly scheduled meetings held within a six month period, and does not communicate with the CC their intention not to attend those
-+meetings, the member shall be asked to consider voluntarily resigning their
-+membership.
+In the case where an individual CC member attends fewer than 25% of the regularly scheduled meetings held within a six month period, does not attend at least one meeting every three months, and does not proactively communicate with the CC their intention not to attend those meetings, the member shall be asked to voluntarily resign their membership. Should a member fail to attend 100% of the meetings within a six month period, the member shall be automatically removed from the TSC. In such cases, the member may ask to continue as an invited observer to TSC meetings.
 
 There is no specific set of requirements or qualifications for CC membership beyond these rules. The CC may add additional members to the CC by a standard CC motion and vote. A CC member may be removed from the CC by voluntary resignation, or by a standard CC motion.
 
@@ -28,9 +26,9 @@ Changes to CC membership should be posted in the agenda, and may be suggested as
 
 No more than one-fourth of the CC members may be affiliated with the same employer or leadership of a community/ecosystem organization. If removal or resignation of a CC member, or a change of employment by a CC member, creates a situation where more than one-fourth of the CC membership shares an employer, then the situation must be immediately remedied by the resignation or removal of one or more CC members affiliated with the over-represented employer(s).
 
-The CC members shall consist of active members of Community Projects as defined in Section 10.
+The CC members shall consist of active members of Community Projects and the two Individual Membership Directors as defined in Section 10.
 
-The CC shall meet regularly using tools that enable participation by the community (e.g. weekly on a Google Hangout On Air, or through any other appropriate means selected by the CC). The meeting shall be directed by the CC Chairperson. Minutes or an appropriate recording shall be taken and made available to the community through accessible public postings.
+The CC shall meet regularly using tools that enable participation by the community (e.g. weekly on a Google Hangout On Air, or through any other appropriate means selected by the CC). The meeting shall be directed by the Individual Membership Directors. Minutes or an appropriate recording shall be taken and made available to the community through accessible public postings.
 
 Section 5. Responsibilities of the CC.
 
@@ -79,6 +77,7 @@ Section 9. Roles
 - The Node.js Foundation community git repository will be maintained by the CC and additional Collaborators who are added by the CC on an ongoing basis.
 - Individuals making significant and valuable contributions, “Contributor(s)”, are made Collaborators and given commit-access to the project. These individuals are identified by the CC and their addition as Collaborators is discussed during the weekly CC meeting. Modifications of the contents of the git repository are made on a collaborative basis as defined in the development process.
 - Collaborators may opt to elevate significant or controversial modifications, or modifications that have not found consensus to the CC for discussion by assigning the cc-agenda tag to a pull request or issue. The CC should serve as the final arbiter where required. The CC will maintain and publish a list of current Collaborators by Project, as well as a development process guide for Collaborators and Contributors looking to participate in the effort.
+- Individual Membership Directors of the Node.js Foundation are the Node.js project’s community voice on the board. There are two individual directors that sit on the Node.js Foundation board and they each serve a two-year term. Each Individual Membership Director is responsible for soliciting feedback and data that represents the wishes of other individual members and the community at large. These directors participate and observe CC meetings in order to deliver monthly updates to the Board of the project. They deliver monthly updates to the CC on what the Board is doing. They have been entrusted with the duty to make decisions based on the information they receive to best represent the community, and can gather input for proposals when relevant and granted permission to do so by the Board.
 
 Section 10. Definitions
 
