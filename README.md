@@ -1,4 +1,7 @@
 # Community Committee
+
+tl;dr The Community Committee will tackle tasks for Foundation efforts that fall outside of Node.js Core. This group is directly accountable to the Board. All new initiatives require Board approval.
+
 The Community Committee reflects a formal voice for the community in the Node.js Foundation.
 
 Community activities, such as ecosystem projects and events, fall outside of core projects that the [TSC](https://github.com/nodejs/TSC) oversees. The Node.js Foundation is governed by its Board of Directors. There are number of outside organizations that have contributed to the growth of Node.js--NodeSchool, NodeBots, and thousands of individual meetups. This is not an exhaustive list. The champions of these organizations have very different skillsets, talents, and concerns. These community organizations of Node.js have long been important to the growth and vitality of the Node.js ecosystem and should be represented by the Community Committee (CC) which in turn can represent their interested and acquire support from the Node.js Foundation through its Board of Directors.
@@ -30,3 +33,5 @@ The Community Committee is an autonomous committee that collaborates alongside t
 - Myles Borins ([MylesBorins](https://github.com/MylesBorins))
 - Ashley Williams ([ashleygwilliams](https://github.com/ashleygwilliams))
 - Gregor Martynus ([gr2m](https://github.com/gr2m))
+- Rachel White ([rachelnicole](https://github.com/rachelnicole))
+- JP Wesselink ([jpwesselink](https://github.com/jpwesselink))
