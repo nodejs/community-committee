@@ -41,7 +41,7 @@ Subject to such policies as may be set by the Board, the CC is responsible for a
 - Project governance and process (including this policy)
 - Recommendations for building and developing community projects that align with needs of Node.js
 - Mediating cultural conflicts between Foundation and/or community projects
-- Serve as Node.js Foundation’s primary community liaison body with external open source projects, consortiums and groups.
+- Facilitation with external open source projects, select consortiums and other outside groups.
 
 Section 6. Node.js Foundation Operations.
 
