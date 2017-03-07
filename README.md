@@ -25,14 +25,14 @@ Meetings will be broadcast via Google Hangouts, will be announced ahead of time 
 The Community Committee is an autonomous committee that collaborates alongside the [TSC](https://github.com/nodejs/TSC) and whose governance is strongly influenced by the [TSC](https://github.com/nodejs/TSC)'s example. See [GOVERNANCE.md](./GOVERNANCE.md) to learn more about the group's evolving structure and [CONTRIBUTING.md](./CONTRIBUTING.md) for guidance about the expectations for all contributors to this project.
 
 ### Community Committee Collaborators
-- Tracy Hinds ([hackygolucky](https://github.com/hackygolucky))
-- Bryan Hughes ([nebrius](https://github.com/nebrius))
-- William Kapke ([williamkapke](https://github.com/williamkapke))
-- Rod Vagg ([rvagg](https://github.com/rvagg))
-- James Snell ([jasnell](https://github.com/jasnell))
-- Myles Borins ([MylesBorins](https://github.com/MylesBorins))
 - Ashley Williams ([ashleygwilliams](https://github.com/ashleygwilliams))
-- Gregor Martynus ([gr2m](https://github.com/gr2m))
+- Bryan Hughes ([nebrius](https://github.com/nebrius))
 - Emily Rose ([emilyrose](https://github.com/emilyrose))
-- Rachel White ([rachelnicole](https://github.com/rachelnicole))
+- Gregor Martynus ([gr2m](https://github.com/gr2m))
+- James Snell ([jasnell](https://github.com/jasnell))
 - JP Wesselink ([jpwesselink](https://github.com/jpwesselink))
+- Myles Borins ([MylesBorins](https://github.com/MylesBorins))
+- Rachel White ([rachelnicole](https://github.com/rachelnicole))
+- Rod Vagg ([rvagg](https://github.com/rvagg))
+- Tracy Hinds ([hackygolucky](https://github.com/hackygolucky))
+- William Kapke ([williamkapke](https://github.com/williamkapke))
