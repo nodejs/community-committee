@@ -29,7 +29,6 @@ The Community Committee is an autonomous committee that collaborates alongside t
 - Bryan Hughes ([nebrius](https://github.com/nebrius))
 - Emily Rose ([emilyrose](https://github.com/emilyrose))
 - Gregor Martynus ([gr2m](https://github.com/gr2m))
-- James Snell ([jasnell](https://github.com/jasnell))
 - JP Wesselink ([jpwesselink](https://github.com/jpwesselink))
 - Myles Borins ([MylesBorins](https://github.com/MylesBorins))
 - Rachel White ([rachelnicole](https://github.com/rachelnicole))
