@@ -24,7 +24,7 @@ Meetings will be broadcast via Google Hangouts, will be announced ahead of time 
 
 The Community Committee is an autonomous committee that collaborates alongside the [TSC](https://github.com/nodejs/TSC) and whose governance is strongly influenced by the [TSC](https://github.com/nodejs/TSC)'s example. See [GOVERNANCE.md](./GOVERNANCE.md) to learn more about the group's evolving structure and [CONTRIBUTING.md](./CONTRIBUTING.md) for guidance about the expectations for all contributors to this project.
 
-### Community Committee Collaborators
+### Community Committee Members
 - Bryan Hughes ([nebrius](https://github.com/nebrius) - **Community Committee Chair**)
 - Ashley Williams ([ashleygwilliams](https://github.com/ashleygwilliams))
 - Emily Rose ([emilyrose](https://github.com/emilyrose))
