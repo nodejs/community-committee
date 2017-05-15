@@ -14,7 +14,7 @@ This repository is for bootstrapping the Community Committee structure. In the f
 ## Contributing
 code commits !== the only means to contributions.
 
-One of the defining characteristics of this committee is to celebrate the work and acheivements of groups and individuals outside of traditional code projects.
+One of the defining characteristics of this committee is to celebrate the work and achievements of groups and individuals outside of traditional code projects.
 
 Please contribute! The best way to do that right now is watching this repo, participating in the issues, and asking questions in [TSC](https://github.com/nodejs/TSC) meetings as they help to advise the formation of this autonomous committee.
 
