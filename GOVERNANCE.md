@@ -41,11 +41,12 @@ Subject to such policies as may be set by the Board, the CC is responsible for a
 - Outreach to community organizations
 - Documentation of community organizations
 - Cultural direction of Node.js Foundation
-- Overseeing Inclusivity WG
+- Overseeing the Inclusivity WG
+- OVerseeing education initiatives for the Node.js Foundation
 - Project governance and process (including this policy)
 - Recommendations for building and developing community projects that align with needs of Node.js
 - Mediating cultural conflicts between Foundation and/or community projects
-- Facilitation with external open source projects, select consortiums and other outside groups.
+- Facilitation with external open source projects, select consortiums and other outside groups
 
 ## Section 6. Node.js Foundation Operations.
 
