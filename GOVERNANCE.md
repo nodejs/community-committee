@@ -30,9 +30,9 @@ The CC may, at its discretion, invite any number of non-voting observers to part
 
 The CC shall meet regularly using tools that enable participation by the community (e.g. weekly on a Google Hangout On Air, or through any other appropriate means selected by the CC). The meeting shall be directed by the Individual Membership Directors. Minutes or an appropriate recording shall be taken and made available to the community through accessible public postings.
 
-CC members are expected to regularly participate in TSC activities.
+CC members are expected to regularly participate in CC activities.
 
-In the case where an individual CC member -- within any three month period -- attends fewer than 25% of the regularly scheduled meetings, does not participate in TSC discussions, and does not participate in CC votes, the member shall be automatically removed from the CC. The member may be invited to continue attending CC meetings as an observer.
+In the case where an individual CC member -- within any three month period -- attends fewer than 25% of the regularly scheduled meetings, does not participate in CC discussions, and does not participate in CC votes, the member shall be automatically removed from the CC. The member may be invited to continue attending CC meetings as an observer.
 
 ## Section 5. Responsibilities of the CC.
 
@@ -42,7 +42,7 @@ Subject to such policies as may be set by the Board, the CC is responsible for a
 - Documentation of community organizations
 - Cultural direction of Node.js Foundation
 - Overseeing the Inclusivity WG
-- OVerseeing education initiatives for the Node.js Foundation
+- Overseeing education initiatives for the Node.js Foundation
 - Project governance and process (including this policy)
 - Recommendations for building and developing community projects that align with needs of Node.js
 - Mediating cultural conflicts between Foundation and/or community projects
