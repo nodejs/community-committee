@@ -36,3 +36,4 @@ The Community Committee is an autonomous committee that collaborates alongside t
 - Tracy Hinds ([hackygolucky](https://github.com/hackygolucky))
 - William Kapke ([williamkapke](https://github.com/williamkapke))
 - Michelle Garrett ([msmichellegar](https://github.com/msmichellegar))
+- Tierney Cyren ([bnb](https://github.com/bnb))
