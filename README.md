@@ -12,7 +12,7 @@ The CC is an automonous group operating adjacent to the [TSC](https://github.com
 This repository is for bootstrapping the Community Committee structure. In the future this may turn into a separate org, but for now things are organized entirely in this repository.
 
 ## Contributing
-code commits !== the only means to contributions.
+Code commits !== the only means to contributions.
 
 One of the defining characteristics of this committee is to celebrate the work and achievements of groups and individuals outside of traditional code projects.
 
@@ -36,3 +36,4 @@ The Community Committee is an autonomous committee that collaborates alongside t
 - Tracy Hinds ([hackygolucky](https://github.com/hackygolucky))
 - William Kapke ([williamkapke](https://github.com/williamkapke))
 - Michelle Garrett ([msmichellegar](https://github.com/msmichellegar))
+- Richard Littauer ([RichardLitt](https://github.com/richardlitt))
