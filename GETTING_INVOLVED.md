@@ -2,7 +2,7 @@
 
 ## Start Here:
 
-- Take a look at any Issues tagged with [Good First Contribution]()
+- Take a look at any Issues tagged with [Good First Contribution](https://github.com/nodejs/community-committee/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+contribution%22)
 
 ## Teams and Working Groups
 The Community Committee is a Committee that represents a collection of teams and working groups that are expressly working toward growing and supporting the overall Node.js community. These teams and working groups need a broad range of skills and allow you to offer contributions that are not necessarily technical in nature.
