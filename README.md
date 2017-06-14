@@ -22,7 +22,7 @@ Meetings will be broadcast via Google Hangouts, will be announced ahead of time 
 
 ## Current Teams and Working Groups
 
-### Teams: 
+### Teams
 - [Node.js Collection](https://github.com/nodejs/nodejs-collection)
 - [Community Events](https://github.com/nodejs/community-events)
 
