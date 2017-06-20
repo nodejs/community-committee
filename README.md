@@ -35,6 +35,8 @@ The Community Committee is an autonomous committee that collaborates alongside t
 
 ### Community Committee Members
 - Bryan Hughes ([nebrius](https://github.com/nebrius) - **Community Committee Chair**)
+- Jenn Turner ([renrutnnej](https://github.com/renrutnnej) - **Community Committee Secretary**)
+- Tierny Cyren ([bnb](https://github.com/bnb) - **Community Committee Secretary**)
 - Ashley Williams ([ashleygwilliams](https://github.com/ashleygwilliams))
 - Emily Rose ([emilyrose](https://github.com/emilyrose))
 - Gregor Martynus ([gr2m](https://github.com/gr2m))
