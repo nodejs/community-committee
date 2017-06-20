@@ -20,6 +20,15 @@ Please contribute! The best way to do that right now is watching this repo, part
 
 Meetings will be broadcast via Google Hangouts, will be announced ahead of time for access, and coordinated to optimize for contributor timezones.
 
+## Current Teams and Working Groups
+
+### Teams
+- [Node.js Collection](https://github.com/nodejs/nodejs-collection)
+- [Community Events](https://github.com/nodejs/community-events)
+
+### Working Groups
+- None
+
 ## Governance and Current Members
 
 The Community Committee is an autonomous committee that collaborates alongside the [TSC](https://github.com/nodejs/TSC) and whose governance is strongly influenced by the [TSC](https://github.com/nodejs/TSC)'s example. See [GOVERNANCE.md](./GOVERNANCE.md) to learn more about the group's evolving structure and [CONTRIBUTING.md](./CONTRIBUTING.md) for guidance about the expectations for all contributors to this project.
