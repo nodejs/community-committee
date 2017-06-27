@@ -6,7 +6,7 @@ and the Node.js Foundation projects.
 
 ## Restrictions
 
-* Candidates must be CommComm Members of the Node.js project.
+* Candidates must be a CommComm member, or a member of a team or Working Group overseen by CommComm in the Node.js project.
 
 ## Process
 
@@ -22,8 +22,8 @@ for the CommComm to approve or decline.
 * Once the final amount spent is known, update the table again with that information.
 
 The CommComm will consider each proposal in its next regular meeting. While it is
-ultimately at the CommComm's discretion who to approve the following considerations
-are made.
+ultimately at the CommComm's discretion who to approve, the following considerations
+are made:
 
 * Impact: Preference given to underserved communities. More specifically,
 within a subject the foundation is trying to promote awareness about (e.g.
