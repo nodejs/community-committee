@@ -76,6 +76,24 @@ where a pull request:
 
 The CC Members should serve as the final arbiter where required.
 
+### Cross-coordination Guidelines to Other Governing Groups
+All Board requests should be communicated to the Individual Member Directors from the 
+CommComm Chairperson each month as resolutions or updates. Directors present
+at the Board session are responsible for championing these items.
+  
+Coordinate with the TSC Director and Chairperson to ensure all relevant CommComm items 
+have been familiarized ahead of the Board meeting. The Chairperson of the CommComm is 
+responsible for communicating to the TSC chair any cross-concerning discussions, 
+attending meetings to coordinate efforts, and see how we need get input from each group.
+  
+Agenda items need to be emailed to the Node.js Executive Director the Thursday prior to 
+each Board meeting. The Board meeting occurs the last Tuesday of every month. In-between 
+meetings, Individual Membership Directors can email important updates to the Board to 
+familiarize topics prior to Board meeting.
+
+Be mindful about timeframes on needing approval across governing groups and the Board. 
+Some initiatives may take weeks, not days, for the stars to align.
+
 <a id="developers-certificate-of-origin"></a>
 ## Developer's Certificate of Origin 1.1
 
