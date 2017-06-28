@@ -18,8 +18,6 @@ The Board will set the overall CC Policy. The policy will describe the overarchi
 
 Membership is for 6 months. The group will ask on a regular basis if the expiring members would like to stay on. A member just needs to reply to renew. There is no fixed size of the CC. However, the expected target for Advisers, as defined in Section 10, is between 9 and 12, to ensure adequate coverage of important areas of community expertise, balanced with the ability to make decisions efficiently.
 
-In the case where an individual CC member attends fewer than 25% of the regularly scheduled meetings held within a six month period, does not attend at least one meeting every three months, and does not proactively communicate with the CC their intention not to attend those meetings, the member shall be asked to voluntarily resign their membership. Should a member fail to attend 100% of the meetings within a six month period, the member shall be automatically removed from the CC. In such cases, the member may ask to continue as an invited observer to CC meetings.
-
 There is no specific set of requirements or qualifications for CC membership beyond these rules. The CC may add additional members to the CC by a standard CC motion and vote. A CC member may be removed from the CC by voluntary resignation, or by a standard CC motion.
 
 Changes to CC membership should be posted in the agenda, and may be suggested as any other agenda item.
@@ -28,7 +26,13 @@ No more than one-fourth of the CC members may be affiliated with the same employ
 
 The CC members shall consist of active members of Community Projects and the two Individual Membership Directors as defined in Section 10.
 
+The CC may, at its discretion, invite any number of non-voting observers to participate in the public portion of CC discussions and meetings.
+
 The CC shall meet regularly using tools that enable participation by the community (e.g. weekly on a Google Hangout On Air, or through any other appropriate means selected by the CC). The meeting shall be directed by the Individual Membership Directors. Minutes or an appropriate recording shall be taken and made available to the community through accessible public postings.
+
+CC members are expected to regularly participate in CC activities.
+
+In the case where an individual CC member -- within any three month period -- attends fewer than 25% of the regularly scheduled meetings, does not participate in CC discussions, and does not participate in CC votes, the member shall be automatically removed from the CC. The member may be invited to continue attending CC meetings as an observer.
 
 ## Section 5. Responsibilities of the CC.
 
@@ -37,11 +41,12 @@ Subject to such policies as may be set by the Board, the CC is responsible for a
 - Outreach to community organizations
 - Documentation of community organizations
 - Cultural direction of Node.js Foundation
-- Overseeing Inclusivity WG
+- Overseeing the Inclusivity WG
+- Overseeing education initiatives for the Node.js Foundation
 - Project governance and process (including this policy)
 - Recommendations for building and developing community projects that align with needs of Node.js
 - Mediating cultural conflicts between Foundation and/or community projects
-- Facilitation with external open source projects, select consortiums and other outside groups.
+- Facilitation with external open source projects, select consortiums and other outside groups
 
 ## Section 6. Node.js Foundation Operations.
 
