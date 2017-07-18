@@ -35,12 +35,17 @@ The Community Committee is an autonomous committee that collaborates alongside t
 
 ### Community Committee Members
 - Bryan Hughes ([nebrius](https://github.com/nebrius) - **Community Committee Chair**)
+- Jenn Turner ([renrutnnej](https://github.com/renrutnnej) - **Community Committee Secretary**)
+- Tierny Cyren ([bnb](https://github.com/bnb) - **Community Committee Secretary**)
 - Ashley Williams ([ashleygwilliams](https://github.com/ashleygwilliams))
 - Emily Rose ([emilyrose](https://github.com/emilyrose))
 - Gregor Martynus ([gr2m](https://github.com/gr2m))
 - JP Wesselink ([jpwesselink](https://github.com/jpwesselink))
+- Michael Dawson ([mhdawson](https://github.com/mhdawson))
 - Myles Borins ([MylesBorins](https://github.com/MylesBorins))
+- Olivia Hugger ([pup](https://github.com/pup))
 - Rachel White ([rachelnicole](https://github.com/rachelnicole))
+- Richard Littauer ([RichardLitt](https://github.com/RichardLitt))
 - Rod Vagg ([rvagg](https://github.com/rvagg))
 - Tracy Hinds ([hackygolucky](https://github.com/hackygolucky))
 - William Kapke ([williamkapke](https://github.com/williamkapke))
