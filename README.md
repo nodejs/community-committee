@@ -27,7 +27,7 @@ Meetings will be broadcast via Google Hangouts, will be announced ahead of time 
 - [Community Events](https://github.com/nodejs/community-events)
 
 ### Working Groups
-- None
+- [Evangelism](https://github.com/nodejs/evangelism)
 
 ## Governance and Current Members
 
