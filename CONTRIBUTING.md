@@ -18,7 +18,7 @@ expectations the Node Foundation requires of its contributors.
 ## Teams and Working Groups
 The Community Committee represents a collection of teams and working groups that are expressly working toward growing and supporting the overall Node.js community. Node.js as a whole needs a broad range of skills and contributions, which are not necessarily technical in nature, to thrive.
 
-You can see the current teams and working groups in the ["Teams and Working Groups"]() section of the README.md file - if there is one that seems to cover an area of particular interest to you, you should take a look at the Team or Working Group's repo to see how you can get further involved.
+You can see the current teams and working groups in the ["Teams and Working Groups"](https://github.com/nodejs/community-committee#current-teams-and-working-groups) section of the README.md file - if there is one that seems to cover an area of particular interest to you, you should take a look at the Team or Working Group's repo to see how you can get further involved.
 
 # Logging Issues
 
