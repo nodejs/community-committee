@@ -11,6 +11,15 @@ expectations the Node Foundation requires of its contributors.
 * A **Contributor** is any individual creating or commenting on an issue or pull request.
 * A **Collaborator** is a contributor who has been given write access to the repository
 
+## Start Here:
+
+- Take a look at any issues tagged with [Good First Contribution](https://github.com/nodejs/community-committee/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+contribution%22).
+
+## Teams and Working Groups
+The Community Committee represents a collection of teams and working groups that are expressly working toward growing and supporting the overall Node.js community. Node.js as a whole needs a broad range of skills and contributions, which are not necessarily technical in nature, to thrive.
+
+You can see the current teams and working groups in the ["Teams and Working Groups"](https://github.com/nodejs/community-committee#current-teams-and-working-groups) section of the README.md file - if there is one that seems to cover an area of particular interest to you, you should take a look at the Team or Working Group's repo to see how you can get further involved.
+
 # Logging Issues
 
 Log an issue for any question or problem you might have. When in doubt, log an issue,
