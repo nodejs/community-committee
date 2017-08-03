@@ -67,7 +67,7 @@ compromise among collaborators be the default resolution mechanism.
 To become a member of the Community Committee, start participating! Attend the bi-weekly meetings, 
 file issues and pull requests, and provide insight via GitHub. Request to become an Observer by 
 filing an issue. Once added as an Observer to meetings, we will track attendance and participation 
-for 3 months, as according to our governance guidelines for participation. If you meet the mininum 
+for 3 months, as according to our [governance guidelines](https://github.com/nodejs/community-committee/blob/master/GOVERNANCE.md#section-4-establishment-of-the-community-committee). If you meet the mininum 
 attendance and are participating, the CommComm will vote to add you as a member.
 
 All participatns added as members should be on-boarded in a timely manner,
