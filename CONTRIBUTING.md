@@ -70,16 +70,16 @@ filing an issue. Once added as an Observer to meetings, we will track attendance
 for 3 months, as according to our [governance guidelines](https://github.com/nodejs/community-committee/blob/master/GOVERNANCE.md#section-4-establishment-of-the-community-committee). If you meet the mininum 
 attendance and are participating, the CommComm will vote to add you as a member.
 
-All participatns added as members should be on-boarded in a timely manner,
+All participants added as members should be on-boarded in a timely manner,
 and added as a collaborator, and be given write access to the repository.
 
 Collaborators are expected to follow this policy and continue to send pull requests, go through
 proper review, and have other collaborators merge their pull requests.
 
-# CommComm Process
+# The CommComm Process
 
 The CommComm uses a "consensus seeking" process for issues that are escalated to the CommComm.
-The group tries to find a resolution that has no open objections among CommComm members.
+The group tries to find a resolution that has no open objections among the CommComm members.
 If a consensus cannot be reached that has no objections then a majority wins vote
 is called. It is also expected that the majority of decisions made by the CommComm are via
 a consensus seeking process and that voting is only used as a last-resort.
