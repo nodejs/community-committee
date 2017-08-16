@@ -59,17 +59,13 @@ amongst Collaborators, consensus should be sought if possible. The
 lack of consensus may indicate the need to elevate discussion to the
 Community Committee Members for resolution (see below).
 
-All pull requests that modify executable code should be subjected to
-continuous integration tests on the
-[project CI server](https://ci.nodejs.org/).
-
 ### Involving the Community Committee Members
 
-Collaborators may opt to elevate pull requests or issues to the admin group for
-discussion by mentioning `@nodejs/community-committee`. This should be done
-where a pull request:
+Collaborators may opt to elevate pull requests or issues to the Community
+Committee Members for discussion by mentioning `@nodejs/community-committee`.
+This should be done where a pull request:
 
-- has a significant impact on the codebase/content,
+- has a significant impact on the content,
 - is inherently controversial; or
 - has failed to reach consensus amongst the Collaborators who are
   actively participating in the discussion.
