@@ -7,7 +7,7 @@
  - [Involving the Community Committee Members](#involving-the-community-committee-members)
 
 This document contains information for Collaborators of the Node.js
-website project regarding maintaining the code, documentation and issues.
+Community Committee project regarding maintaining the code, documentation and issues.
 
 Collaborators should be familiar with the guidelines for new
 contributors in [CONTRIBUTING.md](./CONTRIBUTING.md) and also
@@ -17,7 +17,7 @@ understand the project governance model as outlined in
 ## Issues and Pull Requests
 
 Courtesy should always be shown to individuals submitting issues and
-pull requests to the Node.js website project.
+pull requests to the Node.js Community Committee.
 
 Collaborators should feel free to take full responsibility for
 managing issues and pull requests they feel qualified to handle, as
@@ -66,7 +66,7 @@ continuous integration tests on the
 ### Involving the Community Committee Members
 
 Collaborators may opt to elevate pull requests or issues to the admin group for
-discussion by mentioning `@nodejs/community-committee-members`. This should be done
+discussion by mentioning `@nodejs/community-committee`. This should be done
 where a pull request:
 
 - has a significant impact on the codebase/content,
