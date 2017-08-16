@@ -7,7 +7,7 @@
  - [Involving the Community Committee Members](#involving-the-community-committee-members)
 
 This document contains information for Collaborators of the Node.js
-Community Committee project regarding maintaining the code, documentation and issues.
+Community Committee regarding maintaining the code, documentation and issues.
 
 Collaborators should be familiar with the guidelines for new
 contributors in [CONTRIBUTING.md](./CONTRIBUTING.md) and also
