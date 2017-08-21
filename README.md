@@ -43,7 +43,6 @@ The Community Committee is an autonomous committee that collaborates alongside t
 - JP Wesselink ([jpwesselink](https://github.com/jpwesselink))
 - Michael Dawson ([mhdawson](https://github.com/mhdawson))
 - Myles Borins ([MylesBorins](https://github.com/MylesBorins))
-- Olivia Hugger ([pup](https://github.com/pup))
 - Rachel White ([rachelnicole](https://github.com/rachelnicole))
 - Richard Littauer ([RichardLitt](https://github.com/RichardLitt))
 - Tracy Hinds ([hackygolucky](https://github.com/hackygolucky))
