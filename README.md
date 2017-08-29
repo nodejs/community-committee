@@ -38,7 +38,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 - Jenn Turner ([renrutnnej](https://github.com/renrutnnej) - **Community Committee Secretary**)
 - Tierney Cyren ([bnb](https://github.com/bnb) - **Community Committee Secretary**)
 - Ashley Williams ([ashleygwilliams](https://github.com/ashleygwilliams))
-- Emily Rose ([emilyrose](https://github.com/emilyrose))
+- Emily Rose ([Amorelandra](https://github.com/Amorelandra))
 - Gregor Martynus ([gr2m](https://github.com/gr2m))
 - JP Wesselink ([jpwesselink](https://github.com/jpwesselink))
 - Michael Dawson ([mhdawson](https://github.com/mhdawson))
