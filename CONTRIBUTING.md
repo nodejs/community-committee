@@ -10,6 +10,8 @@ expectations the Node Foundation requires of its contributors.
 
 * A **Contributor** is any individual creating or commenting on an issue or pull request.
 * A **Collaborator** is a contributor who has been given write access to the repository
+* An **Observer** is any individual who has requested or been requested to attend a CommComm meeting. It is also the first step to becoming a Member.
+* A **Member** is a collaborator with voting rights who has met the requirements of participation to be considered for acceptance, and subsequently voted in by the CommComm voting process.
 
 ## Start Here:
 
@@ -62,28 +64,33 @@ discuss pending contributions in order to find a resolution. It is expected that
 small minority of issues be brought to the WG for resolution and that discussion and
 compromise among collaborators be the default resolution mechanism.
 
-# Becoming a Collaborator
+# Becoming a Member and Collaborator
 
-All contributors who land a non-trivial contribution should be on-boarded in a timely manner,
-and added as a collaborator, and be given write access to the repository.
+To become a member of the Community Committee, start participating! Attend the bi-weekly meetings, investigate issues tagged as `good first contribution`,
+file issues and pull requests, and provide insight via GitHub. Request to become an Observer by
+filing an issue. Once added as an Observer to meetings, we will track attendance and participation
+for 3 months, as according to our [governance guidelines](https://github.com/nodejs/community-committee/blob/master/GOVERNANCE.md#section-4-establishment-of-the-community-committee). If you meet the minimum
+attendance and are participating, the CommComm will vote to add you as a member.
+
+All participants added as members should be on-boarded in a timely manner, added as a collaborator, and be given write access to the repository.
 
 Collaborators are expected to follow this policy and continue to send pull requests, go through
 proper review, and have other collaborators merge their pull requests.
 
-# CC Process
+# The CommComm Process
 
-The CC uses a "consensus seeking" process for issues that are escalated to the CC.
-The group tries to find a resolution that has no open objections among CC members.
+The CommComm uses a "consensus seeking" process for issues that are escalated to the CommComm.
+The group tries to find a resolution that has no open objections among the CommComm members.
 If a consensus cannot be reached that has no objections then a majority wins vote
-is called. It is also expected that the majority of decisions made by the CC are via
+is called. It is also expected that the majority of decisions made by the CommComm are via
 a consensus seeking process and that voting is only used as a last-resort.
 
 Resolution may involve returning the issue to collaborators with suggestions on how to
-move forward towards a consensus. It is not expected that a meeting of the CC
+move forward towards a consensus. It is not expected that a meeting of the CommComm
 will resolve all issues on its agenda during that meeting and may prefer to continue
 the discussion happening among the collaborators.
 
-Members can be added to the CC at any time. Any collaborator can nominate another collaborator
-to the CC and the CC uses its standard consensus seeking process to evaluate whether or
+Members can be added to the CommComm at any time. Any collaborator can nominate another collaborator
+to the CommComm and the CommComm uses its standard consensus seeking process to evaluate whether or
 not to add this new member. Members who do not participate consistently at the level of
 a majority of the other members are expected to resign.
