@@ -10,6 +10,8 @@ expectations the Node Foundation requires of its contributors.
 
 * A **Contributor** is any individual creating or commenting on an issue or pull request.
 * A **Collaborator** is a contributor who has been given write access to the repository
+* An **Observer** is any individual who has requested or been requested to attend a CommComm meeting. It is also the first step to becoming a Member.
+* A **Member** is a collaborator with voting rights who has met the requirements of participation to be considered for acceptance, and subsequently voted in by the CommComm voting process.
 
 ## Start Here:
 
@@ -64,14 +66,13 @@ compromise among collaborators be the default resolution mechanism.
 
 # Becoming a Member and Collaborator
 
-To become a member of the Community Committee, start participating! Attend the bi-weekly meetings, 
-file issues and pull requests, and provide insight via GitHub. Request to become an Observer by 
-filing an issue. Once added as an Observer to meetings, we will track attendance and participation 
-for 3 months, as according to our [governance guidelines](https://github.com/nodejs/community-committee/blob/master/GOVERNANCE.md#section-4-establishment-of-the-community-committee). If you meet the mininum 
+To become a member of the Community Committee, start participating! Attend the bi-weekly meetings, investigate issues tagged as `good first contribution`,
+file issues and pull requests, and provide insight via GitHub. Request to become an Observer by
+filing an issue. Once added as an Observer to meetings, we will track attendance and participation
+for 3 months, as according to our [governance guidelines](https://github.com/nodejs/community-committee/blob/master/GOVERNANCE.md#section-4-establishment-of-the-community-committee). If you meet the minimum
 attendance and are participating, the CommComm will vote to add you as a member.
 
-All participants added as members should be on-boarded in a timely manner,
-and added as a collaborator, and be given write access to the repository.
+All participants added as members should be on-boarded in a timely manner, added as a collaborator, and be given write access to the repository.
 
 Collaborators are expected to follow this policy and continue to send pull requests, go through
 proper review, and have other collaborators merge their pull requests.
