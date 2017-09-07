@@ -44,7 +44,6 @@ The Community Committee is an autonomous committee that collaborates alongside t
 - Michael Dawson ([mhdawson](https://github.com/mhdawson))
 - Myles Borins ([MylesBorins](https://github.com/MylesBorins))
 - Rachel White ([rachelnicole](https://github.com/rachelnicole))
-- Richard Littauer ([RichardLitt](https://github.com/RichardLitt))
 - Tracy Hinds ([hackygolucky](https://github.com/hackygolucky))
 - William Kapke ([williamkapke](https://github.com/williamkapke))
 - Michelle Garrett ([msmichellegar](https://github.com/msmichellegar))
