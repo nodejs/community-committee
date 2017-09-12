@@ -34,7 +34,7 @@ Meetings will be broadcast via Google Hangouts, will be announced ahead of time 
 The Community Committee is an autonomous committee that collaborates alongside the [TSC](https://github.com/nodejs/TSC) and whose governance is strongly influenced by the [TSC](https://github.com/nodejs/TSC)'s example. See [GOVERNANCE.md](./GOVERNANCE.md) to learn more about the group's evolving structure and [CONTRIBUTING.md](./CONTRIBUTING.md) for guidance about the expectations for all contributors to this project.
 
 ### Community Committee Members
-- Bryan Hughes ([nebrius](https://github.com/nebrius) - **Community Committee Chair**)
+- Tracy Hinds ([hackygolucky](https://github.com/hackygolucky) - **Acting Community Committee Chair**)
 - Jenn Turner ([renrutnnej](https://github.com/renrutnnej) - **Community Committee Secretary**)
 - Tierney Cyren ([bnb](https://github.com/bnb) - **Community Committee Secretary**)
 - Ashley Williams ([ashleygwilliams](https://github.com/ashleygwilliams))
@@ -44,6 +44,5 @@ The Community Committee is an autonomous committee that collaborates alongside t
 - Michael Dawson ([mhdawson](https://github.com/mhdawson))
 - Myles Borins ([MylesBorins](https://github.com/MylesBorins))
 - Rachel White ([rachelnicole](https://github.com/rachelnicole))
-- Tracy Hinds ([hackygolucky](https://github.com/hackygolucky))
 - William Kapke ([williamkapke](https://github.com/williamkapke))
-- Michelle Garrett ([msmichellegar](https://github.com/msmichellegar))
+- Michelle Garrett ([msmichellegar](https://github.com/msmichellegar)
