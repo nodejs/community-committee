@@ -35,7 +35,6 @@ The Community Committee is an autonomous committee that collaborates alongside t
 
 ### Community Committee Members
 - Tracy Hinds ([hackygolucky](https://github.com/hackygolucky) - **Acting Community Committee Chair**)
-- Jenn Turner ([renrutnnej](https://github.com/renrutnnej) - **Community Committee Secretary**)
 - Tierney Cyren ([bnb](https://github.com/bnb) - **Community Committee Secretary**)
 - Ashley Williams ([ashleygwilliams](https://github.com/ashleygwilliams))
 - Emily Rose ([Amorelandra](https://github.com/Amorelandra))
