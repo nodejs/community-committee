@@ -44,4 +44,5 @@ The Community Committee is an autonomous committee that collaborates alongside t
 - Myles Borins ([MylesBorins](https://github.com/MylesBorins))
 - Rachel White ([rachelnicole](https://github.com/rachelnicole))
 - William Kapke ([williamkapke](https://github.com/williamkapke))
-- Michelle Garrett ([msmichellegar](https://github.com/msmichellegar)
+- Michelle Garrett ([msmichellegar](https://github.com/msmichellegar))
+- Joe Sepi ([joesepi](https://github.com/joesepi))
