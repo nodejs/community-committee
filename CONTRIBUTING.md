@@ -3,8 +3,8 @@
 ## Code of Conduct
 
 The Code of Conduct explains the *bare minimum* behavior
-expectations the Node Foundation requires of its contributors.
-[Please read it before participating.](https://github.com/nodejs/node/blob/master/CODE_OF_CONDUCT.md)
+expectations the Node.js Foundation requires from all contributors.
+[Please read it before participating.](https://github.com/nodejs/TSC/blob/master/CODE_OF_CONDUCT.md)
 
 ## Vocabulary
 
