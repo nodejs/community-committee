@@ -42,7 +42,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [joesepi](https://github.com/joesepi) - **Joe Sepi** &lt;joesepi@gmail.com&gt;
 * [jpwesselink](https://github.com/jpwesselink) - **JP Wesselink** &lt;jpwesselink@gmail.com&gt;
 * [mhdawson](https://github.com/mhdawson) - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt;
-* [msmichellegar](https://github.com/msmichellegar) - **Michelle Garrett** &lt;...&gt;
+* [msmichellegar](https://github.com/msmichellegar) - **Michelle Garrett** &lt;msmichellegar@gmail.com&gt;
 * [MylesBorins](https://github.com/MylesBorins) - **Myles Borins** &lt;myles.borins@gmail.com&gt;
-* [rachelnicole](https://github.com/rachelnicole) - **Rachel White** &lt;...&gt; - **Community Committee Co-Chair**
+* [rachelnicole](https://github.com/rachelnicole) - **Rachel White** &lt;loveless@gmail.com&gt; - **Community Committee Co-Chair**
 * [williamkapke](https://github.com/williamkapke) - **William Kapke** &lt;will@kap.co&gt;
