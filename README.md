@@ -34,15 +34,15 @@ Meetings will be broadcast via Google Hangouts, will be announced ahead of time 
 The Community Committee is an autonomous committee that collaborates alongside the [TSC](https://github.com/nodejs/TSC) and whose governance is strongly influenced by the [TSC](https://github.com/nodejs/TSC)'s example. See [GOVERNANCE.md](./GOVERNANCE.md) to learn more about the group's evolving structure and [CONTRIBUTING.md](./CONTRIBUTING.md) for guidance about the expectations for all contributors to this project.
 
 ### Community Committee Members
-* [hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
-* [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt; - **Community Committee Co-Chair**
+* [amorelandra](https://github.com/Amorelandra) - **Emily Rose** &lt;nexxy@symphonysubconscious.com&gt;
 * [ashleygwilliams](https://github.com/ashleygwilliams) - **Ashley Williams** &lt;ashley666ashley@gmail.com&gt;
-* [Amorelandra](https://github.com/Amorelandra) - **Emily Rose** &lt;nexxy@symphonysubconscious.com&gt;
+* [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt; - **Community Committee Co-Chair**
 * [gr2m](https://github.com/gr2m) - **Gregor Martynus** &lt;nodejs.commcomm@martynus.net&gt;
+* [hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
+* [joesepi](https://github.com/joesepi) - **Joe Sepi** &lt;joesepi@gmail.com&gt;
 * [jpwesselink](https://github.com/jpwesselink) - **JP Wesselink** &lt;jpwesselink@gmail.com&gt;
 * [mhdawson](https://github.com/mhdawson) - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt;
+* [msmichellegar](https://github.com/msmichellegar) - **Michelle Garrett** &lt;...&gt;
 * [MylesBorins](https://github.com/MylesBorins) - **Myles Borins** &lt;myles.borins@gmail.com&gt;
 * [rachelnicole](https://github.com/rachelnicole) - **Rachel White** &lt;...&gt; - **Community Committee Co-Chair**
 * [williamkapke](https://github.com/williamkapke) - **William Kapke** &lt;will@kap.co&gt;
-* [msmichellegar](https://github.com/msmichellegar) - **Michelle Garrett** &lt;...&gt;
-* [joesepi](https://github.com/joesepi) - **Joe Sepi** &lt;joesepi@gmail.com&gt;
