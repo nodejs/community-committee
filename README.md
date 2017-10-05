@@ -34,15 +34,15 @@ Meetings will be broadcast via Google Hangouts, will be announced ahead of time 
 The Community Committee is an autonomous committee that collaborates alongside the [TSC](https://github.com/nodejs/TSC) and whose governance is strongly influenced by the [TSC](https://github.com/nodejs/TSC)'s example. See [GOVERNANCE.md](./GOVERNANCE.md) to learn more about the group's evolving structure and [CONTRIBUTING.md](./CONTRIBUTING.md) for guidance about the expectations for all contributors to this project.
 
 ### Community Committee Members
-- Tracy Hinds ([hackygolucky](https://github.com/hackygolucky))
-- Tierney Cyren ([bnb](https://github.com/bnb) - **Community Committee Co-Chair**)
-- Ashley Williams ([ashleygwilliams](https://github.com/ashleygwilliams))
-- Emily Rose ([Amorelandra](https://github.com/Amorelandra))
-- Gregor Martynus ([gr2m](https://github.com/gr2m))
-- JP Wesselink ([jpwesselink](https://github.com/jpwesselink))
-- Michael Dawson ([mhdawson](https://github.com/mhdawson))
-- Myles Borins ([MylesBorins](https://github.com/MylesBorins))
-- Rachel White ([rachelnicole](https://github.com/rachelnicole) - **Community Committee Co-Chair**)
-- William Kapke ([williamkapke](https://github.com/williamkapke))
-- Michelle Garrett ([msmichellegar](https://github.com/msmichellegar))
-- Joe Sepi ([joesepi](https://github.com/joesepi))
+* [hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
+* [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt; - **Community Committee Co-Chair**
+* [ashleygwilliams](https://github.com/ashleygwilliams) - **Ashley Williams** &lt;ashley666ashley@gmail.com&gt;
+* [Amorelandra](https://github.com/Amorelandra) - **Emily Rose** &lt;nexxy@symphonysubconscious.com&gt;
+* [gr2m](https://github.com/gr2m) - **Gregor Martynus** &lt;nodejs.commcomm@martynus.net&gt;
+* [jpwesselink](https://github.com/jpwesselink) - **JP Wesselink** &lt;jpwesselink@gmail.com&gt;
+* [mhdawson](https://github.com/mhdawson) - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt;
+* [MylesBorins](https://github.com/MylesBorins) - **Myles Borins** &lt;myles.borins@gmail.com&gt;
+* [rachelnicole](https://github.com/rachelnicole) - **Rachel White** &lt;...&gt; - **Community Committee Co-Chair**
+* [williamkapke](https://github.com/williamkapke) - **William Kapke** &lt;will@kap.co&gt;
+* [msmichellegar](https://github.com/msmichellegar) - **Michelle Garrett** &lt;...&gt;
+* [joesepi](https://github.com/joesepi) - **Joe Sepi** &lt;joesepi@gmail.com&gt;
