@@ -1,6 +1,6 @@
 # Community Committee
 
-The Community Committee is a top-level committee in the Node.js Foudnation focused on community-facing efforts. 
+The Community Committee is a top-level committee in the Node.js Foundation focused on community-facing efforts. 
 
 For more details read the [Community Committee Charter](https://github.com/nodejs/community-committee/blob/master/GOVERNANCE.md), adopted by the Node.js Foundation Board of Directors on March 10th 2017.
 
