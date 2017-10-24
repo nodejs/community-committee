@@ -1,24 +1,19 @@
 # Community Committee
 
-tl;dr The Community Committee will tackle tasks for Foundation efforts that fall outside of Node.js Core. This group is directly accountable to the Board. All new initiatives require Board approval.
+The Community Committee is a top-level committee in the Node.js Foundation focused on community-facing efforts. 
 
-The Community Committee reflects a formal voice for the community in the Node.js Foundation.
-
-Community activities, such as ecosystem projects and events, fall outside of core projects that the [TSC](https://github.com/nodejs/TSC) oversees. The Node.js Foundation is governed by its Board of Directors. There are number of outside organizations that have contributed to the growth of Node.js--NodeSchool, NodeBots, and thousands of individual meetups. This is not an exhaustive list. The champions of these organizations have very different skillsets, talents, and concerns. These community organizations of Node.js have long been important to the growth and vitality of the Node.js ecosystem and should be represented by the Community Committee (CC) which in turn can represent their interested and acquire support from the Node.js Foundation through its Board of Directors.
-
-The CC is an automonous group operating adjacent to the [TSC](https://github.com/nodejs/TSC) but is expected to collaborate with and be inspired by the lessons learned and wins celebrated in the many years of Node.js development. It is the hope that members of the [TSC](https://github.com/nodejs/TSC) and CC will participate in each others' meetings to provide informed perspectives on the direction of the CC.
-
-## What is this repo?
-This repository is for bootstrapping the Community Committee structure. In the future this may turn into a separate org, but for now things are organized entirely in this repository.
+For more details read the [Community Committee Charter](https://github.com/nodejs/community-committee/blob/master/GOVERNANCE.md), adopted by the Node.js Foundation Board of Directors on March 10th 2017.
 
 ## Contributing
-code commits !== the only means to contributions.
+> code commits !== the only means to contributions.
 
-One of the defining characteristics of this committee is to celebrate the work and achievements of groups and individuals outside of traditional code projects.
+The Community Committee is tasked with further building out the Node.js Community. If you're reading this, you're already a part of that community.
 
-Please contribute! The best way to do that right now is watching this repo, participating in the issues, and asking questions in [TSC](https://github.com/nodejs/TSC) meetings as they help to advise the formation of this autonomous committee.
+As a part of the Node.js Community, we'd love to have your help! To **get started** with contributing, you can check out the Issues in this repository labeled "Good First Issue" to see where we're looking for help. If you have your own ideas on how we could engage and build the community, feel free to create your own issue!
 
-Meetings will be broadcast via Google Hangouts, will be announced ahead of time for access, and coordinated to optimize for contributor timezones.
+If you're interested in participating in the Community Committee as a member, you should create an issue asking to be an Observer in our next Community Committee meeting. You can find a great example of such an issue [here](https://github.com/nodejs/community-committee/issues/142)!
+
+Community Committee meetings will be broadcast via Google Hangouts, will be announced ahead of time for access, and coordinated to optimize for contributor timezones.
 
 ## Current Teams and Working Groups
 
