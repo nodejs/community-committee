@@ -43,3 +43,4 @@ The Community Committee is an autonomous committee that collaborates alongside t
 
 ### Community Committee Emeriti
 * [MylesBorins](https://github.com/MylesBorins) - **Myles Borins** &lt;myles.borins@gmail.com&gt;
+* [pup](https://github.com/pup) - **Olivia Hugger** &lt;olivia@fastmail.com&gt;
