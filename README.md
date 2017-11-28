@@ -35,7 +35,6 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [gr2m](https://github.com/gr2m) - **Gregor Martynus** &lt;nodejs.commcomm@martynus.net&gt;
 * [hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
 * [joesepi](https://github.com/joesepi) - **Joe Sepi** &lt;joesepi@gmail.com&gt;
-* [jpwesselink](https://github.com/jpwesselink) - **JP Wesselink** &lt;jpwesselink@gmail.com&gt;
 * [mhdawson](https://github.com/mhdawson) - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt;
 * [msmichellegar](https://github.com/msmichellegar) - **Michelle Garrett** &lt;msmichellegar@gmail.com&gt;
 * [pup](https://github.com/pup) - **Olivia Hugger** &lt;olivia@fastmail.com&gt;
@@ -51,3 +50,4 @@ Individual Membership Directors represent [individual members](https://nodejs.or
 
 ### Community Committee Emeriti
 * [MylesBorins](https://github.com/MylesBorins) - **Myles Borins** &lt;myles.borins@gmail.com&gt;
+* [jpwesselink](https://github.com/jpwesselink) - **JP Wesselink** &lt;jpwesselink@gmail.com&gt;
