@@ -24,8 +24,6 @@ Changes to CC membership should be posted in the agenda, and may be suggested as
 
 No more than one-fourth of the CC members may be affiliated with the same employer or leadership of a community/ecosystem organization. If removal or resignation of a CC member, or a change of employment by a CC member, creates a situation where more than one-fourth of the CC membership shares an employer, then the situation must be immediately remedied by the resignation or removal of one or more CC members affiliated with the over-represented employer(s).
 
-The CC members shall consist of active members of Community Projects and the two Individual Membership Directors as defined in Section 10.
-
 The CC may, at its discretion, invite any number of non-voting observers to participate in the public portion of CC discussions and meetings.
 
 The CC shall meet regularly using tools that enable participation by the community (e.g. weekly on a Google Hangout On Air, or through any other appropriate means selected by the CC). The meeting shall be directed by the Individual Membership Directors. Minutes or an appropriate recording shall be taken and made available to the community through accessible public postings.
