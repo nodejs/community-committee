@@ -18,8 +18,9 @@ Community Committee meetings will be broadcast via Google Hangouts, will be anno
 ## Current Teams and Working Groups
 
 ### Teams
-- [Node.js Collection](https://github.com/nodejs/nodejs-collection)
 - [Community Events](https://github.com/nodejs/community-events)
+- [Education](https://github.com/nodejs/education)
+- [Node.js Collection](https://github.com/nodejs/nodejs-collection)
 
 ### Working Groups
 - [Evangelism](https://github.com/nodejs/evangelism)
