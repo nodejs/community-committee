@@ -1,4 +1,6 @@
-# Code of Conduct
+Code of Conduct
 
-The Community Committee uses the common Node.js code of conduct defined
-here: https://github.com/nodejs/TSC/blob/master/CODE_OF_CONDUCT.md.
+The Community Committee and its initiatives are committed to upholding the Node.js Code of Conduct.
+
+The Node.js Code of Conduct document can be found at
+https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md
