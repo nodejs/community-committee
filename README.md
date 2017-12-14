@@ -22,8 +22,9 @@ Initiatives are projects that the Community Committee and the broader community 
 - [User Feedback](https://github.com/nodejs/user-feedback) - **Community Committee contact**: Michael Dawson ([mhdawson](https://github.com/mhdawson))
 
 ### Teams
-- [Node.js Collection](https://github.com/nodejs/nodejs-collection)
 - [Community Events](https://github.com/nodejs/community-events)
+- [Education](https://github.com/nodejs/education)
+- [Node.js Collection](https://github.com/nodejs/nodejs-collection)
 
 ### Working Groups
 - [Evangelism](https://github.com/nodejs/evangelism)
