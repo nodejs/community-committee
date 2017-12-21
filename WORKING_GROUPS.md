@@ -218,16 +218,11 @@ By making a contribution to this project, I certify that:
   maintained indefinitely and may be redistributed consistent with
   this project or the open source license(s) involved.
 
-### Moderation Policy
-
-The [Node.js Moderation Policy]() applies to this WG.
-
 ### Code of Conduct
 
-The [Node.js Code of Conduct]() applies to this WG.
+The [Node.js Code of Conduct](https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md) applies to this WG.
 
-[Node.js Code of Conduct]: https://github.com/nodejs/TSC/blob/master/CODE_OF_CONDUCT.md
-[Node.js Moderation Policy]: https://github.com/nodejs/TSC/blob/master/Moderation-Policy.md
+[Node.js Code of Conduct]: https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md
 ```
 
 [Community Committee]: https://github.com/nodejs/community-committee
