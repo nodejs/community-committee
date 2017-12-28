@@ -17,27 +17,26 @@ and have the support needed.
 
 | Initiative         | Champion                        | Links                                                            |
 |--------------------|---------------------------------|------------------------------------------------------------------|
-| NodeTogether       | Rachel White                    | https://github.com/nodejs/community-committee/issues/63          |
-| User Feedback      | Michael Dawson                  | https://github.com/nodejs/user-feedback                          |
 | Community Events   | PatrickHeneise                  | https://github.com/nodejs/community-events                       |
-| Node.js Collection | Tierney Cyren                   | https://github.com/nodejs/nodejs-collection                      |
-| i18n               | Rachel White                    | https://github.com/nodejs/community-committee/issues/114         |
 | Education          | Tracy Hinds                     | https://github.com/nodejs/education                              |
 | Evangelism WG      | Tierney Cyren                   | https://github.com/nodejs/evangelism                             |
+| i18n               | Rachel White                    | https://github.com/nodejs/community-committee/issues/114         |
+| Node.js Collection | Tierney Cyren                   | https://github.com/nodejs/nodejs-collection                      |
+| NodeTogether       | Rachel White                    | https://github.com/nodejs/community-committee/issues/63          |
 | Office Hours       | Tierney Cyren                   | https://github.com/nodejs/community-committee/issues/157         |
-
+| User Feedback      | Michael Dawson                  | https://github.com/nodejs/user-feedback                          |
 
 # Need Champion for
 
 | Initiative               | Champion                        | Links                                                      |
 |--------------------------|---------------------------------|------------------------------------------------------------|
-| Mentor Program           | ?                               | https://github.com/nodejs/community-committee/issues/172   |
-| Individual Membership    | ?                               | https://github.com/nodejs/community-committee/issues/170   |
 | Code + Learn Friendliness| ?                               | https://github.com/nodejs/community-committee/issues/158   |
-| This week in Core        | ?                               | https://github.com/nodejs/community-committee/issues/148   |
 | How I Got Into Node      | ?                               | https://github.com/nodejs/community-committee/issues/138   |
-| Open-source Friday       | ?                               | https://github.com/nodejs/community-committee/issues/180   |
+| Individual Membership    | ?                               | https://github.com/nodejs/community-committee/issues/170   |
+| Mentor Program           | ?                               | https://github.com/nodejs/community-committee/issues/172   |
 | Node.js People Everywhere| ?                               | https://github.com/nodejs/community-committee/issues/184   |
+| Open-source Friday       | ?                               | https://github.com/nodejs/community-committee/issues/180   |
+| This week in Core        | ?                               | https://github.com/nodejs/community-committee/issues/148   |
 
 
 # Completed / Retired
