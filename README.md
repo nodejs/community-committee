@@ -42,6 +42,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [joesepi](https://github.com/joesepi) - **Joe Sepi** &lt;joesepi@gmail.com&gt;
 * [mhdawson](https://github.com/mhdawson) - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt;
 * [msmichellegar](https://github.com/msmichellegar) - **Michelle Garrett** &lt;msmichellegar@gmail.com&gt;
+* [obensource](https://github.com/obensource) - **Ben Michel** &lt;benpmichel@gmail.com;
 * [pup](https://github.com/pup) - **Olivia Hugger** &lt;olivia@fastmail.com&gt;
 * [rachelnicole](https://github.com/rachelnicole) - **Rachel White** &lt;loveless@gmail.com&gt; - **Community Committee Co-Chair**
 * [refack](https://github.com/refack) - **Refael Ackermann** &lt;refack@gmail.com&gt;
