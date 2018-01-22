@@ -25,6 +25,7 @@ and have the support needed.
 | NodeTogether       | Rachel White                    | https://github.com/nodejs/community-committee/issues/63          |
 | Office Hours       | Tierney Cyren                   | https://github.com/nodejs/community-committee/issues/157         |
 | User Feedback      | Michael Dawson                  | https://github.com/nodejs/user-feedback                          |
+| Website Redesign   | Olivia Hugger                   | https://github.com/nodejs/nodejs.org/issues/1534                 |
 
 # Need Champion for
 
