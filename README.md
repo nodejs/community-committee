@@ -37,7 +37,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [amorelandra](https://github.com/Amorelandra) - **Emily Rose** &lt;nexxy@symphonysubconscious.com&gt;
 * [ashleygwilliams](https://github.com/ashleygwilliams) - **Ashley Williams** &lt;ashley666ashley@gmail.com&gt; **Individual Membership Director**
 * [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt; - **Community Committee Co-Chair**
-* [chowdhurian](https://github.com/chowdhurian) - **Manil** &lt;email@email.com;
+* [chowdhurian](https://github.com/chowdhurian) - **Manil** &lt;manil.chowdhury@gmail.com;
 * [gr2m](https://github.com/gr2m) - **Gregor Martynus** &lt;nodejs.commcomm@martynus.net&gt;
 * [hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
 * [joesepi](https://github.com/joesepi) - **Joe Sepi** &lt;joesepi@gmail.com&gt;
