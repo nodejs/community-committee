@@ -37,15 +37,15 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [amorelandra](https://github.com/Amorelandra) - **Emily Rose** &lt;nexxy@symphonysubconscious.com&gt;
 * [ashleygwilliams](https://github.com/ashleygwilliams) - **Ashley Williams** &lt;ashley666ashley@gmail.com&gt; **Individual Membership Director**
 * [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt; - **Community Committee Co-Chair**
-* [chowdhurian](https://github.com/chowdhurian) - **Manil** &lt;manil.chowdhury@gmail.com;
+* [chowdhurian](https://github.com/chowdhurian) - **Manil** &lt;manil.chowdhury@gmail.com&gt;
 * [dshaw](https://github.com/dshaw) - **Dan Shaw** &lt;dshaw@dshaw.com&gt;
 * [gr2m](https://github.com/gr2m) - **Gregor Martynus** &lt;nodejs.commcomm@martynus.net&gt;
 * [hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
-* [JemBijoux](https://github.com/JemBijoux) - **Jem Bezooyen** &lt;jem@hipmedia.ca;
+* [JemBijoux](https://github.com/JemBijoux) - **Jem Bezooyen** &lt;jem@hipmedia.ca&gt;
 * [joesepi](https://github.com/joesepi) - **Joe Sepi** &lt;joesepi@gmail.com&gt;
 * [mhdawson](https://github.com/mhdawson) - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt;
 * [msmichellegar](https://github.com/msmichellegar) - **Michelle Garrett** &lt;msmichellegar@gmail.com&gt;
-* [obensource](https://github.com/obensource) - **Ben Michel** &lt;benpmichel@gmail.com;
+* [obensource](https://github.com/obensource) - **Ben Michel** &lt;benpmichel@gmail.com&gt;
 * [pup](https://github.com/pup) - **Olivia Hugger** &lt;olivia@fastmail.com&gt;
 * [rachelnicole](https://github.com/rachelnicole) - **Rachel White** &lt;loveless@gmail.com&gt; - **Community Committee Co-Chair**
 * [refack](https://github.com/refack) - **Refael Ackermann** &lt;refack@gmail.com&gt;
