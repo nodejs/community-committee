@@ -28,6 +28,7 @@ Initiatives are projects that the Community Committee and the broader community 
 
 ### Working Groups
 - [Evangelism](https://github.com/nodejs/evangelism)
+- [Internationalization](https://github.com/nodejs/i18n)
 
 ## Governance and Current Members
 
