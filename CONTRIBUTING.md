@@ -66,11 +66,19 @@ compromise among collaborators be the default resolution mechanism.
 
 # Becoming a Member and Collaborator
 
-To become a member of the Community Committee, start participating! Attend the bi-weekly meetings, investigate issues tagged as `good first issue`,
+To become a Member of the Community Committee, start participating! Attend scheduled meetings, investigate issues tagged as `good first issue`,
 file issues and pull requests, and provide insight via GitHub. Request to become an Observer by
 filing an issue. Once added as an Observer to meetings, we will track attendance and participation
-for 3 months, as according to our [governance guidelines](https://github.com/nodejs/community-committee/blob/master/GOVERNANCE.md#section-4-establishment-of-the-community-committee). If you meet the minimum
-attendance and are participating, the CommComm will vote to add you as a member.
+according to our [governance guidelines](https://github.com/nodejs/community-committee/blob/master/GOVERNANCE.md#section-4-establishment-of-the-community-committee).
+Once you meet the minimum attendance and participation requirements of a Member, you will automatically become a Member.
+To help expedite the process, you are encouraged to open a PR adding yourself, but it is not a requirement. The Chair is
+responsible for keeping the Member list up-to-date, according to the rules outlined here (a PR with approvals is _not_
+required for this).
+
+If any CommComm member has and objection to an Observer eventually becoming a Member, they must raise that objection to
+the Chair, in private, prior to the Observer's eligibility. Resolution steps should be pursued in favor of removing the
+objection so the Observer can become a Member. If resolution is not attainable, the Committee, in private, must vote to
+remove the Observer and restrict them from being an Observer for no less than 6 months.
 
 All participants added as members should be on-boarded in a timely manner, added as a collaborator, and be given write access to the repository.
 
