@@ -20,12 +20,13 @@ and have the support needed.
 | Community Events   | PatrickHeneise                  | https://github.com/nodejs/community-events                       |
 | Education          | Tracy Hinds                     | https://github.com/nodejs/education                              |
 | Evangelism WG      | Tierney Cyren                   | https://github.com/nodejs/evangelism                             |
-| i18n               | Rachel White                    | https://github.com/nodejs/community-committee/issues/114         |
+| i18n               | Rachel White                    | https://github.com/nodejs/i18n                                   |
 | Node.js Collection | Tierney Cyren                   | https://github.com/nodejs/nodejs-collection                      |
 | NodeTogether       | Rachel White                    | https://github.com/nodejs/community-committee/issues/63          |
 | Office Hours       | Tierney Cyren                   | https://github.com/nodejs/community-committee/issues/157         |
 | User Feedback      | Michael Dawson                  | https://github.com/nodejs/user-feedback                          |
-| Website Redesign   | Olivia Hugger                   | https://github.com/nodejs/nodejs.org/issues/1534                 |
+| Website Redesign   | Olivia Hugger                   | https://github.com/nodejs/website-redesign                       |
+| Badges             | Adam Miller                     | https://github.com/nodejs/badges
 
 # Need Champion for
 
