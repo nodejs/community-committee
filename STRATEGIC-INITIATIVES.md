@@ -26,6 +26,7 @@ and have the support needed.
 | Office Hours       | Tierney Cyren                   | https://github.com/nodejs/community-committee/issues/157         |
 | User Feedback      | Michael Dawson                  | https://github.com/nodejs/user-feedback                          |
 | Website Redesign   | Olivia Hugger                   | https://github.com/nodejs/website-redesign                       |
+| Badges             | Adam Miller                     | https://github.com/nodejs/badges
 
 # Need Champion for
 
