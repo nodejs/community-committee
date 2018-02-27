@@ -37,7 +37,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 ### Community Committee Members
 * [amorelandra](https://github.com/Amorelandra) - **Emily Rose** &lt;nexxy@symphonysubconscious.com&gt;
 * [ashleygwilliams](https://github.com/ashleygwilliams) - **Ashley Williams** &lt;ashley666ashley@gmail.com&gt; **Individual Membership Director**
-* [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt; - **Community Committee Co-Chair**
+* [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt; - **Community Committee Chair**
 * [chowdhurian](https://github.com/chowdhurian) - **Manil** &lt;manil.chowdhury@gmail.com&gt;
 * [dshaw](https://github.com/dshaw) - **Dan Shaw** &lt;dshaw@dshaw.com&gt;
 * [gr2m](https://github.com/gr2m) - **Gregor Martynus** &lt;nodejs.commcomm@martynus.net&gt;
@@ -48,7 +48,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [msmichellegar](https://github.com/msmichellegar) - **Michelle Garrett** &lt;msmichellegar@gmail.com&gt;
 * [obensource](https://github.com/obensource) - **Ben Michel** &lt;benpmichel@gmail.com&gt;
 * [oe](https://github.com/oe) - **Olivia Hugger** &lt;olivia@fastmail.com&gt;
-* [rachelnicole](https://github.com/rachelnicole) - **Rachel White** &lt;loveless@gmail.com&gt; - **Community Committee Co-Chair**
+* [rachelnicole](https://github.com/rachelnicole) - **Rachel White** &lt;loveless@gmail.com&gt;
 * [refack](https://github.com/refack) - **Refael Ackermann** &lt;refack@gmail.com&gt;
 * [williamkapke](https://github.com/williamkapke) - **William Kapke** &lt;will@kap.co&gt; **Individual Membership Director**
 
