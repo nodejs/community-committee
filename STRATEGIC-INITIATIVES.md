@@ -24,7 +24,7 @@ and have the support needed.
 | Node.js Collection | Tierney Cyren                   | https://github.com/nodejs/nodejs-collection                      |
 | NodeTogether       | Rachel White                    | https://github.com/nodejs/community-committee/issues/63          |
 | Office Hours       | Tierney Cyren                   | https://github.com/nodejs/community-committee/issues/157         |
-| User Feedback      | Michael Dawson                  | https://github.com/nodejs/user-feedback                          |
+| User Feedback      | Dan Shaw                        | https://github.com/nodejs/user-feedback                          |
 | Website Redesign   | Olivia Hugger                   | https://github.com/nodejs/website-redesign                       |
 | Badges             | Adam Miller                     | https://github.com/nodejs/badges
 
