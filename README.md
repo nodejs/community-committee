@@ -13,7 +13,7 @@ As a part of the Node.js Community, we'd love to have your help! To **get starte
 
 If you're interested in participating in the Community Committee as a member, you should create an issue asking to be an Observer in our next Community Committee meeting. You can find a great example of such an issue [here](https://github.com/nodejs/community-committee/issues/142)!
 
-Community Committee meetings will be broadcast via Google Hangouts, will be announced ahead of time for access, and coordinated to optimize for contributor timezones.
+Community Committee meetings will be broadcast via Zoom, will be announced ahead of time for access, and coordinated to optimize for contributor timezones.
 
 ## Current Initiatives, Teams, and Working Groups
 
