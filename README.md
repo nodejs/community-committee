@@ -18,8 +18,7 @@ Community Committee meetings will be broadcast via Google Hangouts, will be anno
 ## Current Initiatives, Teams, and Working Groups
 
 ### Initiatives
-Initiatives are projects that the Community Committee and the broader community members are collaborating on to enable Node.js across the ecosystem.
-- [User Feedback](https://github.com/nodejs/user-feedback) - **Community Committee contact**: Michael Dawson ([mhdawson](https://github.com/mhdawson))
+Initiatives are projects that the Community Committee and the broader community members are collaborating on to enable Node.js across the ecosystem. Current initiatives are listed in [STRATEGIC-INITIATIVES.md](./STRATEGIC-INITIATIVES.md).
 
 ### Teams
 - [Community Events](https://github.com/nodejs/community-events)
