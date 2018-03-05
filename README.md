@@ -1,6 +1,6 @@
 # Community Committee
 
-The Community Committee is a top-level committee in the Node.js Foundation focused on community-facing efforts. 
+The Community Committee is a top-level committee in the Node.js Foundation focused on community-facing efforts.
 
 For more details read the [Community Committee Charter](https://github.com/nodejs/community-committee/blob/master/GOVERNANCE.md), adopted by the Node.js Foundation Board of Directors on March 10th 2017.
 
@@ -18,7 +18,17 @@ Community Committee meetings will be broadcast via Zoom, will be announced ahead
 ## Current Initiatives, Teams, and Working Groups
 
 ### Initiatives
-Initiatives are projects that the Community Committee and the broader community members are collaborating on to enable Node.js across the ecosystem. Current initiatives are listed in [STRATEGIC-INITIATIVES.md](./STRATEGIC-INITIATIVES.md).
+Initiatives are projects that the Community Committee and the broader community members are collaborating on to enable Node.js across the ecosystem. A complete list of current initiatives is available at [STRATEGIC-INITIATIVES.md](./STRATEGIC-INITIATIVES.md).
+
+If you're looking to get started with participating, the following are fairly straightforward initiatives that could use your help:
+
+| Initiative         | Champion                        | Links                                                            |
+|--------------------|---------------------------------|------------------------------------------------------------------|
+| i18n               | Ben Michel                      | https://github.com/nodejs/i18n                                   |
+| User Feedback      | Dan Shaw                        | https://github.com/nodejs/user-feedback                          |
+| Website Redesign   | Olivia Hugger                   | https://github.com/nodejs/website-redesign                       |
+| Badges             | Adam Miller                     | https://github.com/nodejs/badges
+
 
 ### Teams
 - [Community Events](https://github.com/nodejs/community-events)
