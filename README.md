@@ -24,10 +24,10 @@ If you're looking to get started with participating, the following are fairly st
 
 | Initiative         | Champion                        | Links                                                            |
 |--------------------|---------------------------------|------------------------------------------------------------------|
-| i18n               | Ben Michel                      | https://github.com/nodejs/i18n                                   |
-| User Feedback      | Dan Shaw                        | https://github.com/nodejs/user-feedback                          |
-| Website Redesign   | Olivia Hugger                   | https://github.com/nodejs/website-redesign                       |
-| Badges             | Adam Miller                     | https://github.com/nodejs/badges
+| i18n               | @obensource                     | https://github.com/nodejs/i18n                                   |
+| User Feedback      | @dshaw                          | https://github.com/nodejs/user-feedback                          |
+| Website Redesign   | @oe                             | https://github.com/nodejs/website-redesign                       |
+| Badges             | @amiller-gh                     | https://github.com/nodejs/badges
 
 
 ### Teams
