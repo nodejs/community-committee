@@ -14,7 +14,7 @@ As a part of the Node.js Community, we'd love to have your help! To **get starte
 As a part of the Node.js Community, we'd love to have your help! Before you get started, here's a broad outline of the Community Committee's governance structure:
 
 - Community Commitee (meta-level concerns, cross-cutting with other teams)
-  - Initiatives (focused on specific tasks, independent from the Community Committee). For example, Internationalization Initiative, which is focused on the translation of various Node.js resources.
+  - Initiatives (focused on specific tasks, independent from the Community Committee). For example, the Internationalization Initiative, which is focused on the translation of various Node.js resources.
 
 As seen here, most of the community work that immediately affects the project is done within the numerous __initiatives__. We recommend checking the list of initiatives below and getting involved with one that you find interesting! If nothing suits your fancy and you have concrete ideas, just open an issue here! We can help to point you in the right direction.
 
