@@ -6,9 +6,9 @@ For more details read the [Community Committee Charter](https://github.com/nodej
 
 ## Why does the Community Committee exist?
 
-The Node.js project has had its fair share of problems regarding diversity, and its fair share of attempts to fix that.
+This Community Committee reflects a formal role and the relevance of the voice of community in the governance of the Node.js project. The formation of this group as a top-level committee alongside the Technical Steering Committee(TSC) is communicated value of the contributors of Node.js that roles other than those of code contributor help foster a healthy, sustainable open source community.
 
-The Community Committee is a grassroots effort to fight this problem at its core by empowering people in every part of the project. We believe that by making the Node.js project more diverse, we attract a wider range of views, voices, and opinions, which in turn helps us ship better software.
+The Community Committee works to empower people in every part of the project. By making the Node.js project more diverse and improving the environment for inclusivity, we attract a wider range of views, voices, and opinions, which in turn helps us ship better software.
 
 For that reason, we advocate for the usage of a Code of Conduct. We've also learned that our goals are not easily accomplished with that alone. Community Committee initiatives and the related working groups are formed with the intent of improving the cultural development and outreach within the Node.js Foundation, and are therefore suited to engaging people with non-coding skill sets to contribute as well.
 
