@@ -34,7 +34,7 @@ If you're looking to get started with participating, the following are fairly st
 |--------------------|----------------------------------------------|------------------------------------------------------------------|
 | i18n               | [@obensource](https://github.com/obensource) | https://github.com/nodejs/i18n                                   |
 | User Feedback      | [@dshaw](https://github.com/dshaw)           | https://github.com/nodejs/user-feedback                          |
-| Website Redesign   | [@oe](https://github.com/oe)                 | https://github.com/nodejs/website-redesign                       |
+| Website Redesign   | (pending)                                    | https://github.com/nodejs/website-redesign                       |
 | Badges             | [@amiller-gh](https://github.com/amiller-gh) | https://github.com/nodejs/badges
 
 
@@ -65,7 +65,6 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [mhdawson](https://github.com/mhdawson) - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt;
 * [msmichellegar](https://github.com/msmichellegar) - **Michelle Garrett** &lt;msmichellegar@gmail.com&gt;
 * [obensource](https://github.com/obensource) - **Ben Michel** &lt;benpmichel@gmail.com&gt;
-* [oe](https://github.com/oe) - **Olivia Hugger** &lt;olivia@fastmail.com&gt;
 * [rachelnicole](https://github.com/rachelnicole) - **Rachel White** &lt;loveless@gmail.com&gt;
 * [refack](https://github.com/refack) - **Refael Ackermann** &lt;refack@gmail.com&gt;
 * [williamkapke](https://github.com/williamkapke) - **William Kapke** &lt;will@kap.co&gt; **Individual Membership Director**
@@ -80,3 +79,4 @@ Individual Membership Directors represent [individual members](https://nodejs.or
 ### Community Committee Emeriti
 * [MylesBorins](https://github.com/MylesBorins) - **Myles Borins** &lt;myles.borins@gmail.com&gt;
 * [jpwesselink](https://github.com/jpwesselink) - **JP Wesselink** &lt;jpwesselink@gmail.com&gt;
+* [oe](https://github.com/oe) - **Olivia Hugger** &lt;olivia@fastmail.com&gt;
