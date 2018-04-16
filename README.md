@@ -39,10 +39,10 @@ Initiatives are projects that the Community Committee and the broader community 
 If you're looking to get started with participating, the following are fairly straightforward initiatives that could use your help:
 
 | Initiative         | Champion                                     | Links                                                            |
-|--------------------|----------------------------------------------|------------------------------------------------------------------|
-| i18n               | [@obensource](https://github.com/obensource) | https://github.com/nodejs/i18n                                   |
-| User Feedback      | [@dshaw](https://github.com/dshaw)           | https://github.com/nodejs/user-feedback                          |
-| Website Redesign   | (pending)                                    | https://github.com/nodejs/website-redesign                       |
+|--------------------|----------------------------------------------|------------------------------------------------|
+| i18n               | [@obensource](https://github.com/obensource) | https://github.com/nodejs/i18n                 |
+| User Feedback      | [@dshaw](https://github.com/dshaw)           | https://github.com/nodejs/user-feedback        |
+| Website Redesign   | [amiller-gh](https://github.com/amiller-gh) and [chowdhurian](https://github.com/chowdhurian)| https://github.com/nodejs/website-redesign|
 | Badges             | [@amiller-gh](https://github.com/amiller-gh) | https://github.com/nodejs/badges
 
 
