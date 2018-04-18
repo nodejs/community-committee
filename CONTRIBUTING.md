@@ -10,7 +10,7 @@ expectations the Node.js Foundation requires from all contributors.
 
 * A **Contributor** is any individual creating or commenting on an issue or pull request.
 * A **Collaborator** is a contributor who has been given write access to the repository
-* An **Observer** is any individual who has requested or been requested to attend a CommComm meeting. It is also the first step to becoming a Member.
+* An **Observer** is any individual who has requested or been requested to attend a CommComm meeting.
 * A **Member** is a collaborator with voting rights who has met the requirements of participation to be considered for acceptance, and subsequently voted in by the CommComm voting process.
 
 ## Start Here:
