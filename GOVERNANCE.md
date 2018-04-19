@@ -93,14 +93,15 @@ Contributors have no special access to the repositories under the Community Comm
 
 ### Community Committee Collaborator (or more acceptable term, pending TSC input)
 
-Active Contributors of a CC initiative or working group can self-select to become
-a Collaborator of that initiative or working group. Active Contributors can also
-be nominated by another Collaborator.
+Active Contributors of a CC initiative or working group can be nominated by
+another Collaborator to become a Collaborator of that initiative or working group.
+These individuals are identified by the CC and their addition as Collaborators is
+discussed during the weekly CC meeting. On approval by the consensus process,
+the Contributor becomes a Collaborator.
 
 Contributors making significant, ongoing, and valuable contributions are made
 "Collaborators" and given commit-access to the project. Collaborators are contributors
-to individual repos under the CommComm scope. These individuals are identified by
-the CC and their addition as Collaborators is discussed during the weekly CC meeting.
+to individual repos under the CC scope.
 
 Modifications to the contents of the git repositor(y/ies) under the responsibility
 of the Collaborators are made on a collaborative basis as defined in the development
@@ -118,9 +119,9 @@ the CC restore them to active status.
 
 ### Community Committee Member
 
-Active Collaborators of a CC initiative or working group can self-select to become
-a member of the CommComm. Active Collaborators can also be nominated by another
-Member.
+Active Collaborators of a CC initiative or working group can be nominated by
+a CommComm Member to become a Member of CommComm. On approval by the consensus process,
+the Collaborator becomes a Member.
 
 Collaborators voted in as Members are given write access to all repositories of
 the Community Committee, the admin repos, and the moderation repo.

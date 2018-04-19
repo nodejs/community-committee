@@ -93,9 +93,9 @@ can find a great example of such an issue [here](https://github.com/nodejs/commu
 CommComm Collaborators are active contributors with write access to the repo(s)
 relevant to their initiative or working group.
 
-Active Contributors of a CommComm initiative or working group can self-select to
-become a Collaborator of that initiative or working group. Active Contributors can
-also be nominated by another Collaborator.
+Active Contributors of a CommComm initiative or working group can be nominated by
+another Collaborator to become a Collaborator of that initiative or working group.
+On approval by the consensus process, the Contributor becomes a Collaborator.
 
 Typical activities of a Collaborator include:
 
@@ -114,9 +114,9 @@ the CommComm restore them to active status.
 CommComm Members are administrative and help to remove barriers for initiatives
 and working groups under the CommComm’s scope.
 
-Active Collaborators of a CommComm initiative or working group can self-select to
-become a Member of the CommComm. Active Collaborators can also be nominated by another
-Member.
+Active Collaborators of a CommComm initiative or working group can be nominated by
+a CommComm Member to become a Member of CommComm. On approval by the consensus process,
+the Collaborator becomes a Member.
 
 All collaborators added as CommComm members should be on-boarded in a timely manner
 and be given write access to the repository.
