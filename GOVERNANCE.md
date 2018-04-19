@@ -79,9 +79,24 @@ If an agenda item cannot reach a consensus a CC member can call for either a clo
 
 ## Section 9. Roles
 
-- The Node.js Foundation community git repository will be maintained by the CC and additional Collaborators who are added by the CC on an ongoing basis.
+The Node.js Foundation community git repository will be maintained by the CC and additional Collaborators who are added by the CC on an ongoing basis.
+
+### Contributor(s)
+
+People start out as contributors. A “Contributor” is any individual participating in working groups or initiatives of the Community Committee by:
+
+* commenting on an issue or pull request, OR
+* creating an issue or pull request
+
+Contributors have no special access to the repositories under the Community Committee.
+
+### Community Committee Collaborator(s) (or more acceptable term, pending TSC input)
+
 - Individuals making significant and valuable contributions, “Contributor(s)”, are made Collaborators and given commit-access to the project. These individuals are identified by the CC and their addition as Collaborators is discussed during the weekly CC meeting. Modifications of the contents of the git repository are made on a collaborative basis as defined in the development process.
 - Collaborators may opt to elevate significant or controversial modifications, or modifications that have not found consensus to the CC for discussion by assigning the cc-agenda tag to a pull request or issue. The CC should serve as the final arbiter where required. The CC will maintain and publish a list of current Collaborators by Project, as well as a development process guide for Collaborators and Contributors looking to participate in the effort.
+
+### Community Committee Member
+
 - Individual Membership Directors of the Node.js Foundation are the Node.js project’s community voice on the board. There are two individual directors that sit on the Node.js Foundation board and they each serve a two-year term. Each Individual Membership Director is responsible for soliciting feedback and data that represents the wishes of other individual members and the community at large. These directors participate and observe CC meetings in order to deliver monthly updates to the Board of the project. They deliver monthly updates to the CC on what the Board is doing. They have been entrusted with the duty to make decisions based on the information they receive to best represent the community, and can gather input for proposals when relevant and granted permission to do so by the Board.
 
 ## Section 10. Definitions

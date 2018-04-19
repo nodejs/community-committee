@@ -22,7 +22,7 @@ The Community Committee represents a collection of teams and working groups that
 
 You can see the current teams and working groups in the ["Teams and Working Groups"](https://github.com/nodejs/community-committee#current-teams-and-working-groups) section of the README.md file - if there is one that seems to cover an area of particular interest to you, you should take a look at the Team or Working Group's repo to see how you can get further involved.
 
-# Logging Issues
+## Logging Issues
 
 Log an issue for any question or problem you might have. When in doubt, log an issue,
 any additional policies about what to include will be provided in the responses. The only
@@ -35,7 +35,7 @@ add appropriate metadata before the issue is addressed.
 Please be courteous, respectful, and every participant is expected to follow the
 project's Code of Conduct.
 
-# Contributions
+## Contributions
 
 Any change to resources in this repository must be through pull requests. This applies to all changes
 to documentation, code, binary files, etc. Even long term collaborators and WG members must use
@@ -64,20 +64,55 @@ discuss pending contributions in order to find a resolution. It is expected that
 small minority of issues be brought to the WG for resolution and that discussion and
 compromise among collaborators be the default resolution mechanism.
 
-# Becoming a Member and Collaborator
+Collaborators are expected to follow this policy and continue to send pull requests, go through proper review, and have other collaborators merge their pull requests.
 
-To become a member of the Community Committee, start participating! Attend the bi-weekly meetings, investigate issues tagged as `good first issue`,
-file issues and pull requests, and provide insight via GitHub. Request to become an Observer by
-filing an issue. Once added as an Observer to meetings, we will track attendance and participation
-for 3 months, as according to our [governance guidelines](https://github.com/nodejs/community-committee/blob/master/GOVERNANCE.md#section-4-establishment-of-the-community-committee). If you meet the minimum
-attendance and are participating, the CommComm will vote to add you as a member.
+### Becoming a Contributor
 
-All participants added as members should be on-boarded in a timely manner, added as a collaborator, and be given write access to the repository.
+To begin contributing to working groups and initiatives, start participating!
 
-Collaborators are expected to follow this policy and continue to send pull requests, go through
-proper review, and have other collaborators merge their pull requests.
+Attend the meetings of the working group or initiative, investigate issues tagged
+as `good first issue`, open issues and pull requests, or provide insight via GitHub.
 
-# The CommComm Process
+Individuals can open an issue asking to be an Observer of CommComm meetings. You
+can find a great example of such an issue [here](https://github.com/nodejs/community-committee/issues/142)!
+
+### Becoming a Collaborator
+
+CommComm Collaborators are active contributors with write access to the repo(s)
+relevant to their initiative or working group.
+
+Active Contributors of a CommComm initiative or working group can self-select to
+become a Collaborator of that initiative or working group. Active Contributors can
+also be nominated by another Collaborator.
+
+Typical activities of a Collaborator include:
+
+* Helping users and novice contributors
+* Contributing code, non-code, and documentation changes that improve the project
+* Reviewing and commenting on issues and pull requests
+* Participating in working groups or initiatives
+* Merging pull requests
+
+The CommComm periodically reviews the Collaborator list to identify inactive Collaborators.
+Past Collaborators are typically given Emeritus status. Emeriti may request that
+the CommComm restore them to active status.
+
+### Becoming a Member
+
+CommComm Members are administrative and help to remove barriers for initiatives
+and working groups under the CommComm’s scope.
+
+Active Collaborators of a CommComm initiative or working group can self-select to
+become a Member of the CommComm. Active Collaborators can also be nominated by another
+Member.
+
+All collaborators added as CommComm members should be on-boarded in a timely manner
+and be given write access to the repository.
+
+A member's status is contingent on their participation; this is tracked according
+to our [governance guidelines](https://github.com/nodejs/community-committee/blob/master/GOVERNANCE.md#section-4-establishment-of-the-community-committee).
+
+## The CommComm Process
 
 The CommComm uses a "consensus seeking" process for issues that are escalated to the CommComm.
 The group tries to find a resolution that has no open objections among the CommComm members.
