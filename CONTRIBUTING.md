@@ -13,9 +13,21 @@ expectations the Node.js Foundation requires from all contributors.
 * An **Observer** is any individual who has requested or been requested to attend a CommComm meeting.
 * A **Member** is a collaborator with voting rights who has met the requirements of participation to be considered for acceptance, and subsequently voted in by the CommComm voting process.
 
-## Start Here:
+## Choosing a good first Issue to work on
 
-- Take a look at any issues tagged with [Good First Issue](https://github.com/nodejs/community-committee/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22).
+Take a look at any issues tagged as `good first issue` to have an easier time getting started on your first contribution!
+
+Below are links to good first issues in several initiatives.
+
+| Initiative         | Good first issues                                                |
+|--------------------|------------------------------------------------------------------|
+| i18n               | https://github.com/nodejs/i18n/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22  |
+| User Feedback      | https://github.com/nodejs/user-feedback/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22 |
+| Website Redesign   | https://github.com/nodejs/badges/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22 |
+| Badges             | https://github.com/nodejs/badges/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22 |
+
+The Community Committee repo also has issues tagged as [good first issue](https://github.com/nodejs/community-committee/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22).
+
 
 ## Teams and Working Groups
 The Community Committee represents a collection of teams and working groups that are expressly working toward growing and supporting the overall Node.js community. Node.js as a whole needs a broad range of skills and contributions, which are not necessarily technical in nature, to thrive.
