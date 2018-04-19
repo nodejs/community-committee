@@ -15,18 +15,18 @@ and have the support needed.
 
 # Current Initiatives
 
-| Initiative         | Champion                        | Links                                                            |
-|--------------------|---------------------------------|------------------------------------------------------------------|
-| Community Events   | PatrickHeneise                  | https://github.com/nodejs/community-events                       |
-| Education          | Tracy Hinds                     | https://github.com/nodejs/education                              |
-| Evangelism WG      | Tierney Cyren                   | https://github.com/nodejs/evangelism                             |
-| i18n               | Ben Michel                      | https://github.com/nodejs/i18n                                   |
-| Node.js Collection | Tierney Cyren                   | https://github.com/nodejs/nodejs-collection                      |
-| NodeTogether       | Rachel White                    | https://github.com/nodejs/community-committee/issues/63          |
-| Office Hours       | Tierney Cyren                   | https://github.com/nodejs/community-committee/issues/157         |
-| User Feedback      | Dan Shaw                        | https://github.com/nodejs/user-feedback                          |
-| Website Redesign   | Olivia Hugger                   | https://github.com/nodejs/website-redesign                       |
-| Badges             | Adam Miller                     | https://github.com/nodejs/badges
+| Initiative         | Champion                         | Links                                                            |
+|--------------------|----------------------------------|------------------------------------------------------------------|
+| Community Events   | PatrickHeneise                   | https://github.com/nodejs/community-events                       |
+| Education          | Tracy Hinds                      | https://github.com/nodejs/education                              |
+| Evangelism WG      | Tierney Cyren                    | https://github.com/nodejs/evangelism                             |
+| i18n               | Ben Michel                       | https://github.com/nodejs/i18n                                   |
+| Node.js Collection | Tierney Cyren                    | https://github.com/nodejs/nodejs-collection                      |
+| NodeTogether       | Rachel White                     | https://github.com/nodejs/community-committee/issues/63          |
+| Office Hours       | Tierney Cyren                    | https://github.com/nodejs/community-committee/issues/157         |
+| User Feedback      | Dan Shaw                         | https://github.com/nodejs/user-feedback                          |
+| Website Redesign   | Adam Miller _and_ Manil Chowdhury| https://github.com/nodejs/website-redesign                       |
+| Badges             | Adam Miller                      | https://github.com/nodejs/badges
 
 # Need Champion for
 
