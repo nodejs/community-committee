@@ -81,23 +81,73 @@ If an agenda item cannot reach a consensus a CC member can call for either a clo
 
 The Node.js Foundation community git repository will be maintained by the CC and additional Collaborators who are added by the CC on an ongoing basis.
 
-### Contributor(s)
+### Contributor
 
-People start out as contributors. A “Contributor” is any individual participating in working groups or initiatives of the Community Committee by:
+An individual begins contributing as a "Contributor". A contributor is any individual
+participating in working groups or initiatives of the Community Committee by:
 
 * commenting on an issue or pull request, OR
 * creating an issue or pull request
 
 Contributors have no special access to the repositories under the Community Committee.
 
-### Community Committee Collaborator(s) (or more acceptable term, pending TSC input)
+### Community Committee Collaborator (or more acceptable term, pending TSC input)
 
-- Individuals making significant and valuable contributions, “Contributor(s)”, are made Collaborators and given commit-access to the project. These individuals are identified by the CC and their addition as Collaborators is discussed during the weekly CC meeting. Modifications of the contents of the git repository are made on a collaborative basis as defined in the development process.
-- Collaborators may opt to elevate significant or controversial modifications, or modifications that have not found consensus to the CC for discussion by assigning the cc-agenda tag to a pull request or issue. The CC should serve as the final arbiter where required. The CC will maintain and publish a list of current Collaborators by Project, as well as a development process guide for Collaborators and Contributors looking to participate in the effort.
+Active Contributors of a CC initiative or working group can self-select to become
+a Collaborator of that initiative or working group. Active Contributors can also
+be nominated by another Collaborator.
+
+Contributors making significant, ongoing, and valuable contributions are made
+"Collaborators" and given commit-access to the project. Collaborators are contributors
+to individual repos under the CommComm scope. These individuals are identified by
+the CC and their addition as Collaborators is discussed during the weekly CC meeting.
+
+Modifications to the contents of the git repositor(y/ies) under the responsibility
+of the Collaborators are made on a collaborative basis as defined in the development
+process. Collaborators may opt to elevate significant or controversial modifications,
+or modifications that have not found consensus, to the CC for discussion by assigning
+the cc-agenda tag to a pull request or issue. The CC should serve as the final arbiter
+where required. The CC will maintain and publish a list of current Collaborators
+by Project, as well as a development process guide for Collaborators and Contributors
+looking to participate in the effort.
+
+Collaborators may request Emeritus status when they find themselves inactive. The
+CC also periodically reviews the Collaborator list to identify inactive Collaborators.
+Past Collaborators are typically given Emeritus status. Emeriti may request that
+the CC restore them to active status.
 
 ### Community Committee Member
 
-- Individual Membership Directors of the Node.js Foundation are the Node.js project’s community voice on the board. There are two individual directors that sit on the Node.js Foundation board and they each serve a two-year term. Each Individual Membership Director is responsible for soliciting feedback and data that represents the wishes of other individual members and the community at large. These directors participate and observe CC meetings in order to deliver monthly updates to the Board of the project. They deliver monthly updates to the CC on what the Board is doing. They have been entrusted with the duty to make decisions based on the information they receive to best represent the community, and can gather input for proposals when relevant and granted permission to do so by the Board.
+Active Collaborators of a CC initiative or working group can self-select to become
+a member of the CommComm. Active Collaborators can also be nominated by another
+Member.
+
+Collaborators voted in as Members are given write access to all repositories of
+the Community Committee, the admin repos, and the moderation repo.
+
+CC Members are administrative and help to remove barriers for initiatives and working
+groups under CC’s scope. CC Members are involved primarily with decisions that have
+wider reaching effects than within a single initiative or individual working group.
+CC Members are responsible for making decisions when consensus cannot be reached
+among Collaborators.
+
+Working groups and initiatives should check-in with CC. As the CC Members serve
+as a point of reference for initiatives and working groups, this check-in helps
+to keep all stakeholders across the Node.js project up-to-date. This improves the
+initiatives' and working groups' accountability and success.
+
+### Individual Membership Directors
+
+Individual Membership Directors of the Node.js Foundation are the Node.js project’s
+community voice on the board. There are two individual directors that sit on the
+Node.js Foundation board and they each serve a two-year term. Each Individual Membership
+Director is responsible for soliciting feedback and data that represents the wishes
+of other individual members and the community at large. These directors participate
+and observe CC meetings in order to deliver monthly updates to the Board of the
+project. They deliver monthly updates to the CC on what the Board is doing. They
+have been entrusted with the duty to make decisions based on the information they
+receive to best represent the community, and can gather input for proposals when
+relevant and granted permission to do so by the Board.
 
 ## Section 10. Definitions
 
