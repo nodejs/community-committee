@@ -82,9 +82,9 @@ You can find a great example of such an issue [here](https://github.com/nodejs/c
 CommComm Collaborators are active contributors with write access to the repo(s)
 relevant to their initiative or working group.
 
-Active Contributors of a CommComm initiative or working group can be nominated by
-another Collaborator to become a Collaborator of that initiative or working group.
-On approval by the consensus process, the Contributor becomes a Collaborator.
+Active Contributors in the CommComm repositories can be nominated by another Collaborator
+to become a Collaborator. On approval by existing Collaborators through the consensus
+process, the nominated Contributor becomes a Collaborator.
 
 Typical activities of a Collaborator include:
 
