@@ -122,7 +122,7 @@ the issue tracker is:
 * A CC member opens an issue explaining the proposal/issue and @-mentions
   @nodejs/community-committee.
 * After 72 hours, if there are two or more `LGTM`s from other CC members and no
-  explicit opposition from other TSC members, then the proposal is approved.
+  explicit opposition from other CC members, then the proposal is approved.
 * If there are any CC members objecting, then a conversation ensues until
   either the proposal is dropped or the objecting members are persuaded. If
   there is an extended impasse, a motion for a vote may be made.
@@ -162,10 +162,10 @@ and be given write access to the repository.
 
 ## Consensus Seeking Process
 
-The TSC follows a [Consensus Seeking][] decision making model as described by
-the [TSC Charter][].
+The CC follows a [Consensus Seeking][] decision making model as described by
+the [CC Charter][].
 
 [collaborators-discussions]: https://github.com/orgs/nodejs/teams/collaborators/discussions
 [Consensus Seeking]: https://en.wikipedia.org/wiki/Consensus-seeking_decision-making
-[TSC Charter]: https://github.com/nodejs/TSC/blob/master/TSC-Charter.md
+[CC Charter]: https://github.com/nodejs/community-committee/blob/master/Community-Committee-Charter.md
 [nodejs/node]: https://github.com/nodejs/node
