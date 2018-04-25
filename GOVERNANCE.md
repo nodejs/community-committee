@@ -123,8 +123,8 @@ the CC restore them to active status.
 
 ### Community Committee Member
 
-Active Collaborators of a CC initiative or working group can be nominated by
-a CommComm Member to become a Member of CommComm. On approval by the consensus process,
+Active Collaborators of a CC initiative or working group can self-nominate or be nominated
+by a CommComm Member to become a Member of CommComm. On approval by the consensus process,
 the Collaborator becomes a Member.
 
 Collaborators voted in as Members are given write access to all repositories of
