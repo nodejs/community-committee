@@ -120,7 +120,7 @@ so by the Board.
 - Project: a collaboration effort, e.g. a subsystem, that is organized through the project creation process and approved by the CC.
 - Community Project: projects within the Node.js Foundation or in the ecosystem that contribute to the health of the Node.js project.
 - Adviser: a Collaborator within a Community Project elected to represent the Community Project on the CC.
-- Member: a person who participates in the development of the Community Committee through code or other artifacts.
+- Member: a Collaborator with voting rights who has met the requirements of participation to be considered for acceptance, and subsequently voted in by the CommComm voting process.
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in all Community Committee documents are to be interpreted as described in [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
