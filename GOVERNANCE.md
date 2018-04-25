@@ -1,6 +1,6 @@
 # Node.js Community Committee (CC) Governance
 
-The Node.js Community Committee initiatives are governeded by its Collaborators,
+The Node.js Community Committee initiatives are governed by its Collaborators,
 including the Community Commitee (CC) which is responsible for high-level guidance of the
 initiatives.
 
