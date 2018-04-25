@@ -15,7 +15,7 @@ For that reason, we advocate for the usage of a Code of Conduct. We've also lear
 ## Contributing
 > code commits !== the only means to contributions.
 
-The Community Committee is tasked with further building out the Node.js Community.
+The Community Committee is tasked with growing and sustaining the Node.js Community.
 If you're reading this, you're already a part of that community and we'd love to
 have your help!
 
