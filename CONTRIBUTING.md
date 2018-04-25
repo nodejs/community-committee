@@ -67,52 +67,6 @@ If a contribution is controversial and collaborators cannot agree about how to g
 
 Collaborators are expected to follow this policy and continue to send pull requests, go through proper review, and have other collaborators merge their pull requests.
 
-### Becoming a Contributor
-
-To begin contributing to working groups and initiatives, start participating!
-
-Attend the meetings of the working group or initiative, investigate issues tagged
-as `good first issue`, open issues and pull requests, or provide insight via GitHub.
-
-Individuals can open an issue asking to be an invited Guest to CommComm meetings.
-You can find a great example of such an issue [here](https://github.com/nodejs/community-committee/issues/142)!
-
-### Becoming a Collaborator
-
-CommComm Collaborators are active contributors with write access to the repo(s)
-relevant to their initiative or working group.
-
-Active Contributors in the CommComm repositories can be nominated by another Collaborator
-to become a Collaborator. On approval by existing Collaborators through the consensus
-process, the nominated Contributor becomes a Collaborator.
-
-Typical activities of a Collaborator include:
-
-* Helping users and novice contributors
-* Contributing code, non-code, and documentation changes that improve the project
-* Reviewing and commenting on issues and pull requests
-* Participating in working groups or initiatives
-* Merging pull requests
-
-The CommComm periodically reviews the Collaborator list to identify inactive Collaborators.
-Past Collaborators are typically given Emeritus status. Emeriti may request that
-the CommComm restore them to active status.
-
-### Becoming a Member
-
-CommComm Members are administrative and help to remove barriers for initiatives
-and working groups under the CommComm’s scope.
-
-Active Collaborators of a CommComm initiative or working group can be nominated by
-a CommComm Member to become a Member of CommComm. On approval by the consensus process,
-the Collaborator becomes a Member.
-
-All collaborators added as CommComm members should be on-boarded in a timely manner
-and be given write access to the repository.
-
-A member's status is contingent on their participation; this is tracked according
-to our [governance guidelines](https://github.com/nodejs/community-committee/blob/master/GOVERNANCE.md#section-4-establishment-of-the-community-committee).
-
 ## The CommComm Process
 
 The CommComm uses a "consensus seeking" process for issues that are escalated to the CommComm.
