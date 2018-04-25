@@ -99,13 +99,10 @@ Contributors have no special access to the repositories under the Community Comm
 
 Active Contributors of a CC initiative or working group can be nominated by
 another Collaborator to become a Collaborator of that initiative or working group.
-These individuals are identified by the CC and their addition as Collaborators is
-discussed during the weekly CC meeting. On approval by the consensus process,
-the Contributor becomes a Collaborator.
-
-Contributors making significant, ongoing, and valuable contributions are made
-"Collaborators" and given commit-access to the project. Collaborators are contributors
-to individual repos under the CC scope.
+Contributors making significant, ongoing, and valuable contributions are also identified
+by the CC and their addition as Collaborators is discussed during the weekly CC meeting.
+On approval by the consensus process, the Contributor becomes a Collaborator and is given
+commit-access to the repo(s) relevant to their initiative.
 
 Modifications to the contents of the git repositor(y/ies) under the responsibility
 of the Collaborators are made on a collaborative basis as defined in the development
