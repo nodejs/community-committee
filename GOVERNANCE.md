@@ -67,7 +67,10 @@ For election of persons (CC Chairperson, Advisors, etc.) a multiple-candidate me
 
 Multiple-candidate methods may be reduced to simple election by plurality when there are only two candidates for one position to be filled. No election is required if there is only one candidate and no objections to the candidate's election. Nominations for organizations that should be represented on the Community Committee will take place in the GitHub repository. A representative for these organizations shall be selected within the organizations by those active in it.
 
-The CC will elect from amongst voting CC members a CC Chairperson to work on building an agenda for CC meetings and collaborate with the Individual Membership Directors the wishes of the CC to the Board for a term of one year according to the Node.js Foundation’s By-laws. The CC shall hold annual elections to select a CC Chairperson; there are no limits on the number of terms a CC Chairperson may serve.
+The CC will elect from amongst voting CC members a CC Chairperson to work on building an agenda for CC meetings and a CC Director to represent
+the CC to the Board for a term of one year according to the Node.js Foundation’s By-laws. The Chair and Director may be (but are not required to be)
+the same person. The CC shall hold annual elections to select a CC Chairperson and Director; there are no limits on the number of terms a CC Chairperson
+or Director may serve.
 
 ## Section 8. Voting
 
