@@ -8,9 +8,9 @@ expectations the Node.js Foundation requires from all contributors.
 
 ## Vocabulary
 
+* A **Guest** is any individual who has requested or been requested to attend a CommComm meeting.
 * A **Contributor** is any individual creating or commenting on an issue or pull request.
 * A **Collaborator** is a contributor who has been given write access to the repository
-* An **Observer** is any individual who has requested or been requested to attend a CommComm meeting.
 * A **Member** is a collaborator with voting rights who has met the requirements of participation to be considered for acceptance, and subsequently voted in by the CommComm voting process.
 
 ## Choosing a good first Issue to work on
@@ -70,8 +70,8 @@ To begin contributing to working groups and initiatives, start participating!
 Attend the meetings of the working group or initiative, investigate issues tagged
 as `good first issue`, open issues and pull requests, or provide insight via GitHub.
 
-Individuals can open an issue asking to be an Observer of CommComm meetings. You
-can find a great example of such an issue [here](https://github.com/nodejs/community-committee/issues/142)!
+Individuals can open an issue asking to be an invited Guest to CommComm meetings.
+You can find a great example of such an issue [here](https://github.com/nodejs/community-committee/issues/142)!
 
 ### Becoming a Collaborator
 

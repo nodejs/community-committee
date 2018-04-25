@@ -36,7 +36,7 @@ document. This document details the roles you can take on. It also includes a gu
 to contributing and links to `good first issue`s where we're looking for help.
 
 If you're interested in participating in the Community Committee directly, you should
-create an issue asking to be an Observer in our next Community Committee meeting.
+create an issue asking to be a Guest in our next Community Committee meeting.
 You can find a great example of such an issue [here](https://github.com/nodejs/community-committee/issues/142)!
 
 ## Meetings

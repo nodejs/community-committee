@@ -26,13 +26,17 @@ No more than one-fourth of the CC members may be affiliated with the same employ
 
 The CC members shall consist of active members of Community Projects and the two Individual Membership Directors as defined in Section 10.
 
-The CC may, at its discretion, invite any number of non-voting observers to participate in the public portion of CC discussions and meetings.
+The CC may, at its discretion, invite any number of non-voting Guests to participate in the public portion of CC discussions and meetings.
 
 The CC shall meet regularly using tools that enable participation by the community (e.g. weekly on a Google Hangout On Air, or through any other appropriate means selected by the CC). The meeting shall be directed by the Individual Membership Directors. Minutes or an appropriate recording shall be taken and made available to the community through accessible public postings.
 
 CC members are expected to regularly participate in CC activities.
 
-In the case where an individual CC member -- within any three month period -- attends fewer than 25% of the regularly scheduled meetings, does not participate in CC discussions, and does not participate in CC votes, the member shall be automatically removed from the CC. The member may be invited to continue attending CC meetings as an observer.
+In the case where an individual CC member -- within any three month period -- attends
+fewer than 25% of the regularly scheduled meetings, does not participate in CC
+discussions, and does not participate in CC votes, the member shall be automatically
+removed from the CC. The member may be invited to continue attending CC meetings
+as a Guest.
 
 ## Section 5. Responsibilities of the CC.
 
