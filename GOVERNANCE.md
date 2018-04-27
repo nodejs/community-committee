@@ -143,7 +143,7 @@ the responsibility of the Collaborators are made on a
 collaborative basis as defined in the development process.
 Collaborators may opt to elevate significant or controversial
 modifications, or modifications that have not found consensus,
-to the CommComm for discussion by assigning the cc-agenda tag to a
+to the CommComm for discussion by assigning the `cc-agenda` tag to a
 pull request or issue. The CommComm should serve as the final arbiter
 where required. The CommComm will maintain and publish a list of
 current Collaborators by Project, as well as a development
