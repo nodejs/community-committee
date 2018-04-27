@@ -85,7 +85,7 @@ initiatives' and working groups' accountability and success.
 ### CommComm Meetings
 
 The CommComm meets regularly in a voice conference call. The meeting is run by a
-designated meeting chair approved by the C. Each meeting is streamed on
+designated meeting chair approved by the CommComm. Each meeting is streamed on
 YouTube.
 
 Items are added to the CommComm agenda which are considered contentious or
