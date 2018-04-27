@@ -119,7 +119,7 @@ so by the Board.
 - Contributors: contribute code or other artifacts, but do not have the right to commit to the code base. Contributors work with the Project’s Collaborators to have code committed to the code base. A Contributor may be promoted to a Collaborator by the projects’ Maintainer or the CommComm. Contributors should rarely be encumbered by the CommComm and never by the Board.
 - Project: a collaboration effort, e.g. a subsystem, that is organized through the project creation process and approved by the CommComm.
 - Community Project: projects within the Node.js Foundation or in the ecosystem that contribute to the health of the Node.js project.
-- Adviser: a Collaborator within a Community Project elected to represent the Community Project on the CommComm.
+- Advisor: a Collaborator within a Community Project elected to represent the Community Project on the CommComm.
 - Member: a Collaborator with voting rights who has met the requirements of participation to be considered for acceptance, and subsequently voted in by the CommComm voting process.
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in all Community Committee documents are to be interpreted as described in [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
