@@ -125,4 +125,4 @@ so by the Board.
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in all Community Committee documents are to be interpreted as described in [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
 For the current list of CommComm members, see the project
-[README.md](./README.md#community-committee-collaborators).
+[README.md](./README.md#community-committee-members).
