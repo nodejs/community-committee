@@ -76,6 +76,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [rachelnicole](https://github.com/rachelnicole) - **Rachel White** &lt;loveless@gmail.com&gt;
 * [refack](https://github.com/refack) - **Refael Ackermann** &lt;refack@gmail.com&gt;
 * [Tiriel](https://github.com/Tiriel) - **Benjamin Zaslavsky** &lt;benjamin.zaslavsky@gmail.com&gt;
+* [waleedashraf](https://github.com/waleedashraf) - **Waleed Ashraf** &lt;waleedashrafhere@gmail.com&gt;
 * [williamkapke](https://github.com/williamkapke) - **William Kapke** &lt;will@kap.co&gt; **Individual Membership Director**
 
 
