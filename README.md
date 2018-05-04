@@ -72,7 +72,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [rachelnicole](https://github.com/rachelnicole) - **Rachel White** &lt;loveless@gmail.com&gt;
 * [Tiriel](https://github.com/Tiriel) - **Benjamin Zaslavsky** &lt;benjamin.zaslavsky@gmail.com&gt;
 * [williamkapke](https://github.com/williamkapke) - **William Kapke** &lt;will@kap.co&gt; **Individual Membership Director**
-
+* [refack](https://github.com/refack) - **Refael Ackermann** &lt;refack@gmail.com&gt;
 
 ### Individual Membership Directors
 Individual Membership Directors represent [individual members](https://nodejs.org/en/foundation/members) of the foundation. They represent both the Individual Membership and Community Committee on the Node.js Board of Directors.
@@ -88,4 +88,3 @@ Individual Membership Directors represent [individual members](https://nodejs.or
 * [gr2m](https://github.com/gr2m) - **Gregor Martynus** &lt;nodejs.commcomm@martynus.net&gt;
 * [amorelandra](https://github.com/Amorelandra) - **Emily Rose** &lt;nexxy@symphonysubconscious.com&gt;
 * [msmichellegar](https://github.com/msmichellegar) - **Michelle Garrett** &lt;msmichellegar@gmail.com&gt;
-* [refack](https://github.com/refack) - **Refael Ackermann** &lt;refack@gmail.com&gt;
