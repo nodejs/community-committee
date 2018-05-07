@@ -61,23 +61,18 @@ The Community Committee is an autonomous committee that collaborates alongside t
 
 ### Community Committee Members
 * [amiller-gh](https://github.com/amiller-gh) - **Adam Miller** &lt;ammiller@linkedin.com&gt;
-* [amorelandra](https://github.com/Amorelandra) - **Emily Rose** &lt;nexxy@symphonysubconscious.com&gt;
-* [ashleygwilliams](https://github.com/ashleygwilliams) - **Ashley Williams** &lt;ashley666ashley@gmail.com&gt; **Individual Membership Director**
 * [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt; - **Community Committee Chair**
 * [chowdhurian](https://github.com/chowdhurian) - **Manil** &lt;manil.chowdhury@gmail.com&gt;
 * [dshaw](https://github.com/dshaw) - **Dan Shaw** &lt;dshaw@dshaw.com&gt;
-* [gr2m](https://github.com/gr2m) - **Gregor Martynus** &lt;nodejs.commcomm@martynus.net&gt;
 * [hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
 * [JemBijoux](https://github.com/JemBijoux) - **Jem Bezooyen** &lt;jem@hipmedia.ca&gt; - **Community Committee Secretary**
 * [joesepi](https://github.com/joesepi) - **Joe Sepi** &lt;joesepi@gmail.com&gt;
 * [mhdawson](https://github.com/mhdawson) - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt;
-* [msmichellegar](https://github.com/msmichellegar) - **Michelle Garrett** &lt;msmichellegar@gmail.com&gt;
 * [obensource](https://github.com/obensource) - **Ben Michel** &lt;benpmichel@gmail.com&gt;
 * [rachelnicole](https://github.com/rachelnicole) - **Rachel White** &lt;loveless@gmail.com&gt;
 * [refack](https://github.com/refack) - **Refael Ackermann** &lt;refack@gmail.com&gt;
 * [Tiriel](https://github.com/Tiriel) - **Benjamin Zaslavsky** &lt;benjamin.zaslavsky@gmail.com&gt;
 * [williamkapke](https://github.com/williamkapke) - **William Kapke** &lt;will@kap.co&gt; **Individual Membership Director**
-
 
 ### Individual Membership Directors
 Individual Membership Directors represent [individual members](https://nodejs.org/en/foundation/members) of the foundation. They represent both the Individual Membership and Community Committee on the Node.js Board of Directors.
@@ -89,3 +84,7 @@ Individual Membership Directors represent [individual members](https://nodejs.or
 * [MylesBorins](https://github.com/MylesBorins) - **Myles Borins** &lt;myles.borins@gmail.com&gt;
 * [jpwesselink](https://github.com/jpwesselink) - **JP Wesselink** &lt;jpwesselink@gmail.com&gt;
 * [oe](https://github.com/oe) - **Olivia Hugger** &lt;olivia@fastmail.com&gt;
+* [ashleygwilliams](https://github.com/ashleygwilliams) - **Ashley Williams** &lt;ashley666ashley@gmail.com&gt; **Individual Membership Director**
+* [gr2m](https://github.com/gr2m) - **Gregor Martynus** &lt;nodejs.commcomm@martynus.net&gt;
+* [amorelandra](https://github.com/Amorelandra) - **Emily Rose** &lt;nexxy@symphonysubconscious.com&gt;
+* [msmichellegar](https://github.com/msmichellegar) - **Michelle Garrett** &lt;msmichellegar@gmail.com&gt;
