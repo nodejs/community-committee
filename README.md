@@ -27,8 +27,6 @@ As a part of the Node.js Community, we'd love to have your help! Before you get 
 
 As seen here, most of the community work that immediately affects the project is done within the numerous __initiatives__. We recommend checking the list of initiatives below and getting involved with one that you find interesting! If nothing suits your fancy and you have concrete ideas, just open an issue here! We can help to point you in the right direction.
 
-If you're interested in participating in the Community Committee directly, you should create an issue asking to be an Observer in our next Community Committee meeting. You can find a great example of such an issue [here](https://github.com/nodejs/community-committee/issues/142)!
-
 Community Committee meetings will be broadcast via Zoom, will be announced ahead of time for access, and coordinated to optimize for contributor timezones.
 
 ## Current Initiatives, Teams, and Working Groups
