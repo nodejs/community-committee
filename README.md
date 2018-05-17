@@ -15,17 +15,31 @@ For that reason, we advocate for the usage of a Code of Conduct. We've also lear
 ## Contributing
 > code commits !== the only means to contributions.
 
-The Community Committee is tasked with further building out the Node.js Community. If you're reading this, you're already a part of that community.
+The Community Committee is tasked with growing and sustaining the Node.js Community.
+If you're reading this, you're already a part of that community and we'd love to
+have your help!
 
-As a part of the Node.js Community, we'd love to have your help! To **get started** with contributing, you can check out the Issues in this repository labeled "Good First Issue" to see where we're looking for help. If you have your own ideas on how we could engage and build the community, feel free to create your own issue!
+Before you get started, here's a broad outline of the Community Committee's governance structure:
 
-As a part of the Node.js Community, we'd love to have your help! Before you get started, here's a broad outline of the Community Committee's governance structure:
-
-- Community Commitee (meta-level concerns, cross-cutting with other teams)
+- Community Committee (meta-level concerns, cross-cutting with other teams)
   - Initiatives (focused on specific tasks, independent from the Community Committee). For example, the Website Redesign Initiative, which is focused on a complete redesign of the https://nodejs.org website
   - Working Groups (like initiatives, but more autonomous and broad in scope)
 
-As seen here, most of the community work that immediately affects the project is done within the numerous __initiatives__. We recommend checking the list of initiatives below and getting involved with one that you find interesting! If nothing suits your fancy and you have concrete ideas, just open an issue here! We can help to point you in the right direction.
+As seen here, most of the community work that immediately affects the project is
+done within the numerous **initiatives**. We recommend checking the list of initiatives
+below and getting involved with one that you find interesting! If nothing suits
+your fancy and you have concrete ideas, open an issue here! We can help to point
+you in the right direction.
+
+To **get started** with contributing, you should read the [Contributing Guidelines](./CONTRIBUTING.md)
+document. This document details the roles you can take on. It also includes a guide
+to contributing and links to `good first issue`s where we're looking for help.
+
+If you're interested in participating in the Community Committee directly, you should
+create an issue asking to be a Guest in our next Community Committee meeting.
+You can find a great example of such an issue [here](https://github.com/nodejs/community-committee/issues/142)!
+
+## Meetings
 
 Community Committee meetings will be broadcast via Zoom, will be announced ahead of time for access, and coordinated to optimize for contributor timezones.
 
@@ -60,7 +74,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 ### Community Committee Members
 * [amiller-gh](https://github.com/amiller-gh) - **Adam Miller** &lt;ammiller@linkedin.com&gt;
 * [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt; - **Community Committee Chair**
-* [chowdhurian](https://github.com/chowdhurian) - **Manil** &lt;manil.chowdhury@gmail.com&gt;
+* [chowdhurian](https://github.com/chowdhurian) - **Manil Chowdhury** &lt;manil.chowdhury@gmail.com&gt;
 * [dshaw](https://github.com/dshaw) - **Dan Shaw** &lt;dshaw@dshaw.com&gt;
 * [hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
 * [JemBijoux](https://github.com/JemBijoux) - **Jem Bezooyen** &lt;jem@hipmedia.ca&gt; - **Community Committee Secretary**
