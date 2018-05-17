@@ -103,10 +103,10 @@ meeting chair can bring the issue to the CommComm's attention by applying the
 particular issue, it may be added to the CommComm meeting agenda by adding the
 `cc-agenda` label.
 
-Prior to each CommComm meeting, the meeting chair will share the agenda with
-members of the CommComm. CommComm members can also add items to the agenda at the
-beginning of each meeting. The meeting chair and the CommComm cannot veto or remove
-items.
+The CC will elect from amongst voting CC members a CC Chairperson to work on building an agenda for CC meetings and a CC Director to represent
+the CC to the Board for a term of one year according to the Node.js Foundation’s By-laws. The Chair and Director may be (but are not required to be)
+the same person. The CC shall hold annual elections to select a CC Chairperson and Director; there are no limits on the number of terms a CC Chairperson
+or Director may serve.
 
 The CommComm may invite additional persons to participate in a non-voting capacity.
 
