@@ -52,11 +52,10 @@ If you're looking to get started with participating, the following are fairly st
 
 | Initiative         | Champion                                     | Links                                                            |
 |--------------------|----------------------------------------------|------------------------------------------------|
+| Badges             | [@amiller-gh](https://github.com/amiller-gh) | https://github.com/nodejs/badges
 | i18n               | [@obensource](https://github.com/obensource) | https://github.com/nodejs/i18n                 |
 | User Feedback      | [@dshaw](https://github.com/dshaw)           | https://github.com/nodejs/user-feedback        |
-| Website Redesign   | [amiller-gh](https://github.com/amiller-gh) and [chowdhurian](https://github.com/chowdhurian)| https://github.com/nodejs/website-redesign|
-| Badges             | [@amiller-gh](https://github.com/amiller-gh) | https://github.com/nodejs/badges
-
+| Website Redesign   | [@amiller-gh](https://github.com/amiller-gh) and [@chowdhurian](https://github.com/chowdhurian)| https://github.com/nodejs/website-redesign|
 
 ### Teams
 - [Community Events](https://github.com/nodejs/community-events)
