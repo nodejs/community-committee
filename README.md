@@ -43,10 +43,9 @@ You can find a great example of such an issue [here](https://github.com/nodejs/c
 
 Community Committee meetings will be broadcast via Zoom, will be announced ahead of time for access, and coordinated to optimize for contributor timezones.
 
-Meeting cadence is every other week on Thursdays.  Please visit the [issues](https://github.com/nodejs/community-committee/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+%22Node.js+Foundation+Community+Committee+Meeting%22) section for next scheduled meeting.  If none found, please feel free to ping any of the [members](#community-committee-members).
+Meeting cadence is every other week on Thursdays.  Please check the [Node.js Foundation calendar](https://nodejs.org/calendar) for next scheduled meeting.  Also, the [issues](https://github.com/nodejs/community-committee/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+%22Node.js+Foundation+Community+Committee+Meeting%22) section of this repo will include a CommComm meeting issue, some time before it begins.
 
-FYI: The publicly open segment of the meetings are multi-cast on [YouTube](https://www.youtube.com/c/nodejs+foundation/live).  Just navigate there at meeting start time.  Please be aware that other meetings might be occurring right before.
-
+FYI: We stream our conference call straight to YouTube so anyone can listen to it live, it should start playing at https://www.youtube.com/c/nodejs+foundation/live when we turn it on. There's usually a short cat-herding time at the start of the meeting and then occasionally we have some quick private business to attend to before we can start recording & streaming. So please be patient and it should show up.
 
 ## Current Initiatives, Teams, and Working Groups
 
