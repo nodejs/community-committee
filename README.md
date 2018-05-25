@@ -72,6 +72,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 
 ### Community Committee Members
 * [amiller-gh](https://github.com/amiller-gh) - **Adam Miller** &lt;ammiller@linkedin.com&gt;
+* [bamieh](https://github.com/bamieh) - **Ahmad Bamieh** &lt;ahmadbamieh@gmail.com&gt;
 * [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt; - **Community Committee Chair**
 * [chowdhurian](https://github.com/chowdhurian) - **Manil Chowdhury** &lt;manil.chowdhury@gmail.com&gt;
 * [dshaw](https://github.com/dshaw) - **Dan Shaw** &lt;dshaw@dshaw.com&gt;
