@@ -29,7 +29,7 @@ Below are links to good first issues in several initiatives.
 |--------------------|------------------------------------------------------------------|
 | i18n               | https://github.com/nodejs/i18n/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22  |
 | User Feedback      | https://github.com/nodejs/user-feedback/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22 |
-| Website Redesign   | https://github.com/nodejs/badges/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22 |
+| Website Redesign   | https://github.com/nodejs/website-redesign/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22 |
 | Badges             | https://github.com/nodejs/badges/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22 |
 
 The Community Committee repo also has issues tagged as [good first issue](https://github.com/nodejs/community-committee/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22).
