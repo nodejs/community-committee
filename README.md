@@ -76,7 +76,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt; - **Community Committee Chair**
 * [chowdhurian](https://github.com/chowdhurian) - **Manil Chowdhury** &lt;manil.chowdhury@gmail.com&gt;
 * [dshaw](https://github.com/dshaw) - **Dan Shaw** &lt;dshaw@dshaw.com&gt;
-* [hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
+* [hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt; **Community Committee Director**
 * [JemBijoux](https://github.com/JemBijoux) - **Jem Bezooyen** &lt;jem@hipmedia.ca&gt; - **Community Committee Secretary**
 * [joesepi](https://github.com/joesepi) - **Joe Sepi** &lt;joesepi@gmail.com&gt;
 * [mhdawson](https://github.com/mhdawson) - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt;
