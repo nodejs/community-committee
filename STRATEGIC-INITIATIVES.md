@@ -17,14 +17,11 @@ and have the support needed.
 
 | Initiative         | Champion                          | Links                                                    |
 |--------------------|-----------------------------------|----------------------------------------------------------|
-| Community Events   | PatrickHeneise                    | https://github.com/nodejs/community-events               |
 | Education          | Tracy Hinds                       | https://github.com/nodejs/education                      |
-| Evangelism WG      | Tierney Cyren                     | https://github.com/nodejs/evangelism                     |
 | i18n               | Ben Michel                        | https://github.com/nodejs/i18n                           |
 | Mentorship         | Ahmad Bamieh _and_ Dan Shaw       | https://github.com/nodejs/mentorship                     |
 | Node.js Collection | Tierney Cyren                     | https://github.com/nodejs/nodejs-collection              |
 | NodeTogether       | Rachel White                      | https://github.com/nodejs/community-committee/issues/63  |
-| Office Hours       | Tierney Cyren                     | https://github.com/nodejs/community-committee/issues/157 |
 | User Feedback      | Dan Shaw                          | https://github.com/nodejs/user-feedback                  |
 | Website Redesign   | Adam Miller _and_ Manil Chowdhury | https://github.com/nodejs/website-redesign               |
 | Badges             | Adam Miller                       | https://github.com/nodejs/badges                         |
@@ -41,9 +38,11 @@ and have the support needed.
 | This week in Core        | ?                               | https://github.com/nodejs/community-committee/issues/148   |
 
 
-# Completed / Retired
+# Completed / Retired / Inactive
 
 | Initiative        | Champion                        | Links                                                            |
 |-------------------|---------------------------------|------------------------------------------------------------------|
-
+| Community Events  | PatrickHeneise                  | https://github.com/nodejs/community-events                       |
+| Evangelism WG     | Tierney Cyren                   | https://github.com/nodejs/evangelism                             |
+| Office Hours      | Tierney Cyren                   | https://github.com/nodejs/community-committee/issues/157         |
 
