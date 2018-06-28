@@ -11,3 +11,12 @@ Community Committee members are held to following the [Membership Policy](https:
 
 ## Travel Fund
 There is a [travel fund](https://github.com/nodejs/admin/blob/master/MEMBER_TRAVEL_FUND.md) available to contributors to Node.js, including members of the Community Committee. There are a few criteria before travel fund requests can be merged, so please be sure to read the [MEMBER_TRAVEL_FUND.md](https://github.com/nodejs/admin/blob/master/MEMBER_TRAVEL_FUND.md) document fully.
+
+## Project processes, practices, and conventions
+The Node.js project has adopted open source practices to organize our efforts, interactions, and complete administrative duties related to our work. What follows is a quick guide to how we do things, to get you started!
+
+### Issues
+[Issues in Github](https://guides.github.com/features/issues/) are what we use to begin discussions. They have the advantage of being async and let people contribute over time.
+
+### Pull requests (PRs)
+[Pull requests in Github](https://help.github.com/articles/about-pull-requests/) are what we use to put documents, code, and other material into the project. PRs have the advantage to giving everyone involved time and space to add material, suggest changes, and discuss the contribution.
