@@ -38,11 +38,19 @@ and have the support needed.
 | This week in Core        | ?                               | https://github.com/nodejs/community-committee/issues/148   |
 
 
-# Completed / Retired / Inactive
+# Inactive
 
-| Initiative        | Champion                        | Links                                                            |
-|-------------------|---------------------------------|------------------------------------------------------------------|
-| Community Events  | PatrickHeneise                  | https://github.com/nodejs/community-events                       |
-| Evangelism WG     | Tierney Cyren                   | https://github.com/nodejs/evangelism                             |
-| Office Hours      | Tierney Cyren                   | https://github.com/nodejs/community-committee/issues/157         |
+Initiatives are inactive for many reasons. Many are not permanently so. See which could use your help below! 👏🏽
+
+_Completed: This initiative met its goals and is completed._
+
+_Retired: This initiative was no longer needed and is retired._
+
+_Inactive/Hibernated: This initiative is currently asleep while it waits for winter to end and contributors to arrive._
+
+| Initiative        | Champion                        | Links                                                            | Reason for Inactivity |
+|-------------------|---------------------------------|------------------------------------------------------------------|--------------------|
+| Community Events  | PatrickHeneise                  | https://github.com/nodejs/community-events                       |                     |
+| Evangelism WG     | Tierney Cyren                   | https://github.com/nodejs/evangelism                             |                     |
+| Office Hours      | Tierney Cyren                   | https://github.com/nodejs/community-committee/issues/157         |                     |
 
