@@ -55,7 +55,7 @@ Subject to such policies as may be set by the Board, the CommComm is responsible
 CommComm shares responsibility with the Node.js Technical Steering Committee
 ("TSC") for:
 
-* GitHub respository management
+* Management of the `nodejs` GitHub organization
 * Project governance and process
 * Conduct guidelines
 
