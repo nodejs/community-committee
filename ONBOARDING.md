@@ -24,8 +24,6 @@ The Node.js project has adopted open source practices to organize our efforts, i
 ### The Consensus-seeking Model
 Consensus is the first choice for making decisions. The CommComm uses a "consensus-seeking" model for issues that are escalated to the committee.
 
-The group looks for a resolution, one with no open objections, among the CommComm members. If a consensus with no objections can't be reached, then a vote is called. A majority in the vote indicates the decision to be followed.
+The group looks for a resolution, one with no open objections, among the CommComm members. If a consensus with no objections can't be reached, then a vote is called. A simple majority in the vote indicates the decision to be followed.
 
 We aim for the majority of decisions made by the CommComm to be achieved through the consensus-seeking process. Voting is only used as a last-resort.
-
-Resolution may involve returning the issue to collaborators with suggestions on how to move forward towards a consensus. It is not expected that a meeting of the CommComm will resolve all issues on its agenda during that meeting and may prefer to continue the discussion happening among the collaborators.
