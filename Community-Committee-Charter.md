@@ -61,8 +61,7 @@ CommComm shares responsibility with the Node.js Technical Steering Committee
 
 CommComm and TSC will use the `nodejs/admin` GitHub repository to manage shared
 responsibilities. In the event the CommComm and TSC are unable to agree on a
-decision, the result is _status quo_. Such issues may subsequently be escalated
-to the Board for a final decision.
+decision, the result is _status quo_.
 
 See also: [Responsibilities of the TSC](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md#section-5-responsibilities-of-the-tsc)
 
