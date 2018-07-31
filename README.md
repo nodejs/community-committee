@@ -63,7 +63,6 @@ If you're looking to get started with participating, the following are fairly st
 | Website Redesign   | [@amiller-gh](https://github.com/amiller-gh) and [@chowdhurian](https://github.com/chowdhurian)| https://github.com/nodejs/website-redesign|
 
 ### Teams
-- [Community Events](https://github.com/nodejs/community-events)
 - [Education](https://github.com/nodejs/education)
 - [Mentorship](https://github.com/nodejs/mentorship)
 - [Node.js Collection](https://github.com/nodejs/nodejs-collection)
