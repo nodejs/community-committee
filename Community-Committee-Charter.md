@@ -42,15 +42,28 @@ as a Guest.
 
 Subject to such policies as may be set by the Board, the CommComm is responsible for all cultural development and outreach within the Node.js Foundation, including:
 
-- Outreach to community organizations
-- Documentation of community organizations
-- Cultural direction of Node.js Foundation
-- Overseeing the Inclusivity WG
-- Overseeing education initiatives for the Node.js Foundation
-- Project governance and process (including this policy)
-- Recommendations for building and developing community projects that align with needs of Node.js
-- Mediating cultural conflicts between Foundation and/or community projects
-- Facilitation with external open source projects, select consortiums and other outside groups
+* Outreach to community organizations
+* Documentation of community organizations
+* Cultural direction of Node.js Foundation
+* Overseeing education initiatives for the Node.js Foundation
+* Recommendations for building and developing community projects that align with
+  needs of Node.js
+* Mediating cultural conflicts between Foundation and/or community projects
+* Facilitation with external open source projects, select consortiums and other
+  outside groups
+
+CommComm shares responsibility with the Node.js Technical Steering Committee
+("TSC") for:
+
+* Management of the `nodejs` GitHub organization
+* Project governance and process
+* Conduct guidelines
+
+CommComm and TSC will use the `nodejs/admin` GitHub repository to manage shared
+responsibilities. In the event the CommComm and TSC are unable to agree on a
+decision, the result is _status quo_.
+
+See also: [Responsibilities of the TSC](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md#section-5-responsibilities-of-the-tsc)
 
 ## Section 6. Node.js Foundation Operations.
 
