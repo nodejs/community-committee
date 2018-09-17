@@ -76,14 +76,14 @@ If you're looking to get started with participating, the following are fairly st
 The Community Committee is an autonomous committee that collaborates alongside the [TSC](https://github.com/nodejs/TSC) and whose governance is strongly influenced by the [TSC](https://github.com/nodejs/TSC)'s example. See [GOVERNANCE.md](./GOVERNANCE.md) to learn more about the group's evolving structure and [CONTRIBUTING.md](./CONTRIBUTING.md) for guidance about the expectations for all contributors to this project.
 
 ### Community Committee Members
-* [amiller-gh](https://github.com/amiller-gh) - **Adam Miller** &lt;ammiller@linkedin.com&gt;
+* [amiller-gh](https://github.com/amiller-gh) - **Adam Miller** &lt;ammiller@linkedin.com&gt; **Community Committee Chair**
 * [bamieh](https://github.com/bamieh) - **Ahmad Bamieh** &lt;ahmadbamieh@gmail.com&gt;
-* [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt; - **Community Committee Chair**
+* [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt;
 * [chowdhurian](https://github.com/chowdhurian) - **Manil Chowdhury** &lt;manil.chowdhury@gmail.com&gt;
 * [codeekage](https://github.com/codeekage) - **Agiri Abraham Jr.** &lt;agiriabrahamjunior@nodejs.africa&gt;
 * [dshaw](https://github.com/dshaw) - **Dan Shaw** &lt;dshaw@dshaw.com&gt;
 * [hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt; **Community Committee Director**
-* [JemBijoux](https://github.com/JemBijoux) - **Jem Bezooyen** &lt;jem@hipmedia.ca&gt; - **Community Committee Secretary**
+* [JemBijoux](https://github.com/JemBijoux) - **Jem Bezooyen** &lt;jem@hipmedia.ca&gt; **Community Committee Secretary**
 * [joesepi](https://github.com/joesepi) - **Joe Sepi** &lt;joesepi@gmail.com&gt;
 * [mhdawson](https://github.com/mhdawson) - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt;
 * [obensource](https://github.com/obensource) - **Ben Michel** &lt;benpmichel@gmail.com&gt;
