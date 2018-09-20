@@ -4,6 +4,7 @@ The Node.js Community Committee has begun working on partnering with these grass
 
 ## Partner Communities
 * [Node Slackers](http://www.nodeslackers.com/)
+* [Node.js Spectrum](https://spectrum.chat/node)
 
 ## Requirements for Becoming a Partner Community:
 * Have a Code of Conduct.
