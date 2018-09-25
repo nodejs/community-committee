@@ -24,7 +24,7 @@ Changes to CommComm membership should be posted in the agenda, and may be sugges
 
 No more than one-fourth of the CommComm members may be affiliated with the same employer or leadership of a community/ecosystem organization. If removal or resignation of a CommComm member, or a change of employment by a CommComm member, creates a situation where more than one-fourth of the CommComm membership shares an employer, then the situation must be immediately remedied by the resignation or removal of one or more CommComm members affiliated with the over-represented employer(s).
 
-The CommComm members shall consist of active members of Community Projects and the two Individual Membership Directors as defined in Section 10.
+The CommComm members shall consist of active members of Community Projects and the two Individual Membership Directors.
 
 The CommComm may, at its discretion, invite any number of non-voting Guests to participate in the public portion of CommComm discussions and meetings.
 
@@ -72,6 +72,12 @@ For election of persons (CommComm Chairperson, Advisors, etc.) a multiple-candid
 Multiple-candidate methods may be reduced to simple election by plurality when there are only two candidates for one position to be filled. No election is required if there is only one candidate and no objections to the candidate's election. Nominations for organizations that should be represented on the Community Committee will take place in the GitHub repository. A representative for these organizations shall be selected within the organizations by those active in it.
 
 The CommComm will elect from amongst voting CommComm members a CommComm Chairperson to work on building an agenda for CommComm meetings and collaborate with the Individual Membership Directors the wishes of the CommComm to the Board for a term of one year according to the Node.js Foundation’s By-laws. The CommComm shall hold annual elections to select a CommComm Chairperson; there are no limits on the number of terms a CommComm Chairperson may serve.
+
+The CommComm will elect from amongst voting CommComm members: 
+  - a CommComm Chairperson, responsible for preparing agendas and coordinating CommComm meetings, and 
+  - a representative to serve on the Node.js Foundation Board of Directors pursuant to its Bylaws. 
+Each person shall serve a one year term, and may serve for more than one term. The
+same person may not hold both positions at the same time.
 
 ## Section 8. Voting
 
