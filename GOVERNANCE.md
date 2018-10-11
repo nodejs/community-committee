@@ -160,6 +160,17 @@ the CommComm restore them to active status.
 All collaborators added as CommComm members should be on-boarded in a timely manner
 and be given write access to the repository.
 
+This template can be used when onboarding new members:
+
+```
+CommComm Membership Checklist: 
+
+- [ ] Invite to CommComm GitHub Team (and Node.js GitHub org, if not already member)
+- [ ] Submit PR to add to the [CommComm email alias](https://github.com/nodejs/email/blob/master/iojs.org/aliases.json)
+- [ ] Submit PR to add to the (CommComm README.md](https://github.com/nodejs/community-committee/blob/master/README.md#community-committee-members)
+- [ ] Add person to the invited list in the templates for the [process that generates meeting issues](https://github.com/nodejs/create-node-meeting-artifacts) 
+```
+
 ## Consensus Seeking Process
 
 The CommComm follows a [Consensus Seeking][] decision making model as described by
