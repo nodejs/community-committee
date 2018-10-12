@@ -93,7 +93,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [williamkapke](https://github.com/williamkapke) - **William Kapke** &lt;will@kap.co&gt; **Individual Membership Director**
 
 ### Individual Membership Directors
-Individual Membership Directors represent [individual members](https://nodejs.org/en/foundation/members) of the foundation. They represent both the Individual Membership and Community Committee on the Node.js Board of Directors.
+Individual Membership Directors represent individual members of the foundation. They represent both the Individual Membership and Community Committee on the Node.js Board of Directors.
 
 * [ashleygwilliams](https://github.com/ashleygwilliams) - **Ashley Williams** &lt;ashley666ashley@gmail.com&gt;
 * [williamkapke](https://github.com/williamkapke) - **William Kapke** &lt;will@kap.co&gt;
