@@ -179,12 +179,12 @@ manner.
 ```
 CommComm Offboarding Checklist: 
 
-- [ ] Remove from CommComm GitHub Team
-- [ ] Submit PR to remove from the [CommComm email alias](https://github.com/nodejs/email/blob/master/iojs.org/aliases.json)
+- [ ] Remove the person from CommComm GitHub Team
+- [ ] Submit PR to remove the person from the [CommComm email alias](https://github.com/nodejs/email/blob/master/iojs.org/aliases.json)
 - README: 
   - [ ] If leaving on good terms, submit PR to move the individual to Emeriti the [CommComm README.md](https://github.com/nodejs/community-committee/#community-committee-emeriti)
   - [ ] If not leaving on good terms, submit PR to remove the person from [CommComm README.md](https://github.com/nodejs/community-committee/#community-committee-members)
-- [ ] Remove person to the invited list in the templates for the [process that generates meeting issues](https://github.com/nodejs/create-node-meeting-artifacts)
+- [ ] Remove the person from the invited list in the templates for the [process that generates meeting issues](https://github.com/nodejs/create-node-meeting-artifacts)
 ```
 
 ## Consensus Seeking Process
