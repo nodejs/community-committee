@@ -95,14 +95,13 @@ The Community Committee is an autonomous committee that collaborates alongside t
 ### Individual Membership Directors
 Individual Membership Directors represent [individual members](https://nodejs.org/en/foundation/members) of the foundation. They represent both the Individual Membership and Community Committee on the Node.js Board of Directors.
 
-* [ashleygwilliams](https://github.com/ashleygwilliams) - **Ashley Williams** &lt;ashley666ashley@gmail.com&gt;
 * [williamkapke](https://github.com/williamkapke) - **William Kapke** &lt;will@kap.co&gt;
 
 ### Community Committee Emeriti
+* [ashleygwilliams](https://github.com/ashleygwilliams) - **Ashley Williams** &lt;ashley666ashley@gmail.com&gt;
 * [MylesBorins](https://github.com/MylesBorins) - **Myles Borins** &lt;myles.borins@gmail.com&gt;
 * [jpwesselink](https://github.com/jpwesselink) - **JP Wesselink** &lt;jpwesselink@gmail.com&gt;
 * [oe](https://github.com/oe) - **Olivia Hugger** &lt;olivia@fastmail.com&gt;
-* [ashleygwilliams](https://github.com/ashleygwilliams) - **Ashley Williams** &lt;ashley666ashley@gmail.com&gt;
 * [gr2m](https://github.com/gr2m) - **Gregor Martynus** &lt;nodejs.commcomm@martynus.net&gt;
 * [amorelandra](https://github.com/Amorelandra) - **Emily Rose** &lt;nexxy@symphonysubconscious.com&gt;
 * [msmichellegar](https://github.com/msmichellegar) - **Michelle Garrett** &lt;msmichellegar@gmail.com&gt;
