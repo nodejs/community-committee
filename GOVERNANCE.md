@@ -171,6 +171,22 @@ CommComm Membership Checklist:
 - [ ] Add person to the invited list in the templates for the [process that generates meeting issues](https://github.com/nodejs/create-node-meeting-artifacts) 
 ```
 
+### Offboarding
+
+When CommComm members need to be off-boarded, we should attempt to off-board them in a timely
+manner.
+
+```
+CommComm Offboarding Checklist: 
+
+- [ ] Remove the person from CommComm GitHub Team
+- [ ] Submit PR to remove the person from the [CommComm email alias](https://github.com/nodejs/email/blob/master/iojs.org/aliases.json)
+- README: 
+  - [ ] If leaving on good terms, submit PR to move the individual to Emeriti the [CommComm README.md](https://github.com/nodejs/community-committee/#community-committee-emeriti)
+  - [ ] If not leaving on good terms, submit PR to remove the person from [CommComm README.md](https://github.com/nodejs/community-committee/#community-committee-members)
+- [ ] Remove the person from the invited list in the templates for the [process that generates meeting issues](https://github.com/nodejs/create-node-meeting-artifacts)
+```
+
 ## Consensus Seeking Process
 
 The CommComm follows a [Consensus Seeking][] decision making model as described by
