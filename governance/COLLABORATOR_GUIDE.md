@@ -88,7 +88,7 @@ the Thursday prior to each Board meeting. The Board meeting occurs the last Tues
 month. In-between meetings, Individual Membership Directors can email important updates to 
 the Board to familiarize topics prior to Board meeting.
 
-Be mindful about timeframes on needing approval across governing groups and the Board. 
+Be mindful about timeframes on needing approval across governing groups and the Board.
 Some initiatives may take weeks, not days, for everything to align.
 
 <a id="developers-certificate-of-origin"></a>

@@ -1,7 +1,7 @@
 # Node.js Community Committee (CommComm) Governance
 
 The Node.js Community Committee initiatives are governed by its Collaborators,
-including the Community Commitee (CommComm) which is responsible for high-level guidance of the
+including the Community Committee (CommComm) which is responsible for high-level guidance of the
 initiatives.
 
 <!-- TOC -->
@@ -47,8 +47,6 @@ Active Contributors in the CommComm repositories can be nominated by another
 Collaborator to become a Collaborator. On approval by existing Collaborators
 through the consensus process, the nominated Contributor becomes a Collaborator.
 
-### Collaborator Activities
-
 Typical activities of a Collaborator include:
 
 * Helping users and novice contributors
@@ -60,6 +58,8 @@ Typical activities of a Collaborator include:
 The CommComm periodically reviews the Collaborator list to identify inactive Collaborators.
 Past Collaborators are typically given Emeritus status. Emeriti may request that
 the CommComm restore them to active status.
+
+Please refer to the Committee's [Collaborators Guide](./COLLABORATOR_GUIDE.md) for further information.
 
 ## Members
 
@@ -170,6 +170,8 @@ CommComm Membership Checklist:
 - [ ] Submit PR to add to the (CommComm README.md](https://github.com/nodejs/community-committee/blob/master/README.md#community-committee-members)
 - [ ] Add person to the invited list in the templates for the [process that generates meeting issues](https://github.com/nodejs/create-node-meeting-artifacts) 
 ```
+
+Please refer to the Committee's [onboarding documentation](./ONBOARDING.md) for further information.
 
 ### Offboarding
 
