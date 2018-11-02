@@ -4,9 +4,9 @@ The Node.js Community Committee has begun working on partnering with these grass
 
 ## Partner Communities
 * [Node Slackers](http://www.nodeslackers.com/)
-  * Node.js Collaborator Liasons: [@dshaw](https://github.com/dshaw) and [@ljharb](https://github.com/ljharb)
+  * Node.js Collaborator Liaisons: [@dshaw](https://github.com/dshaw) and [@ljharb](https://github.com/ljharb)
 
 ## Requirements for Becoming a Partner Community:
 * Have a Code of Conduct.
 * Have a Moderation Policy.
-* Have a Node.js Collaborator who is willing to act as a liason and is an administrator.
+* Have a Node.js Collaborator who is willing to act as a liaison and is an administrator.
