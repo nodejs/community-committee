@@ -2,10 +2,13 @@ Node.js has largely been successful because of the grassroots communities that h
 
 The Node.js Community Committee has begun working on partnering with these grassroots communities, to give Node.js and JavaScript developers a path to connecting with other developers with similar interests. Communities that are interested in partnering can follow the guidelines set out within this document and then submit a Pull Request to the document to be added.
 
+Any questions regarding joining or participating in a partner community should be directed to a Node.js Collaborator liaison.
+
 ## Partner Communities
 * [Node Slackers](http://www.nodeslackers.com/)
+  * Node.js Collaborator Liaisons: [@dshaw](https://github.com/dshaw) and [@ljharb](https://github.com/ljharb)
 
 ## Requirements for Becoming a Partner Community:
 * Have a Code of Conduct.
 * Have a Moderation Policy.
-* Have a Node.js Collaborator who is willing to act as a liason and is an administrator.
+* Have a Node.js Collaborator who is willing to act as a liaison and is an administrator.
