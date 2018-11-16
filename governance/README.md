@@ -1,7 +1,7 @@
 # Node.js Community Committee (CommComm) Governance
 
 The Node.js Community Committee initiatives are governed by its Collaborators,
-including the Community Committee (CommComm) which is responsible for high-level guidance of the
+including the Community Committee (CommComm) which is responsible for the high-level guidance of the
 initiatives.
 
 <!-- TOC -->
@@ -20,7 +20,7 @@ initiatives.
 
 ## Contributors
 
-An individual begins contributing as a "Contributor". A contributor is any individual
+An individual begins contributing as a "Contributor". A contributor is an individual
 participating in working groups or initiatives of the Community Committee by:
 
 * commenting on an issue or pull request, OR
@@ -96,7 +96,7 @@ The intention of the agenda is not to approve or review all patches.
 That should happen continuously on GitHub and be handled by the larger
 group of Collaborators.
 
-Any community member or contributor can ask that something be reviewed
+Any community member or contributor can ask that something needs to be reviewed
 by the CommComm by logging a GitHub issue. Any Collaborator, CommComm member, or the
 meeting chair can bring the issue to the CommComm's attention by applying the
 `cc-review` label. If consensus-seeking among CommComm members fails for a
@@ -114,7 +114,7 @@ The meeting chair is responsible for ensuring that minutes are taken and that a
 pull request with the minutes is submitted after the meeting.
 
 Due to the challenges of scheduling a global meeting with participants in
-several timezones, the CommComm will seek to resolve as many agenda items as possible
+several time zones, the CommComm will seek to resolve as many agenda items as possible
 outside of meetings using
 [the Community-Committee issue tracker](https://github.com/nodejs/community-committee/issues). The process in
 the issue tracker is:
@@ -124,7 +124,7 @@ the issue tracker is:
 * After 72 hours, if there are two or more `LGTM`s from other CommComm members and no
   explicit opposition from other CommComm members, then the proposal is approved.
 * If there are any CommComm members objecting, then a conversation ensues until
-  either the proposal is dropped or the objecting members are persuaded. If
+  either the proposal is dropped, or the objecting members are persuaded. If
   there is an extended impasse, a motion for a vote may be made.
 
 ## Collaborator Nominations
@@ -133,7 +133,7 @@ Active Contributors of a CommComm initiative or working group can be
 nominated by another Collaborator to become a Collaborator of
 that initiative or working group. Contributors making
 significant, ongoing, and valuable contributions are also
-identified by the CommComm and their addition as Collaborators is
+identified by the CommComm, and their addition as Collaborators is
 discussed during the weekly CommComm meeting. On approval by the
 consensus process, the Contributor becomes a Collaborator and is
 given commit-access to the repo(s) relevant to their initiative.
@@ -163,12 +163,12 @@ and be given write access to the repository.
 This template can be used when onboarding new members:
 
 ```
-CommComm Membership Checklist: 
+CommComm Membership Checklist:
 
-- [ ] Invite to CommComm GitHub Team (and Node.js GitHub org, if not already member)
+- [ ] Invite to CommComm GitHub Team (and Node.js GitHub org, if not already a member)
 - [ ] Submit PR to add to the [CommComm email alias](https://github.com/nodejs/email/blob/master/iojs.org/aliases.json)
 - [ ] Submit PR to add to the (CommComm README.md](https://github.com/nodejs/community-committee/blob/master/README.md#community-committee-members)
-- [ ] Add person to the invited list in the templates for the [process that generates meeting issues](https://github.com/nodejs/create-node-meeting-artifacts) 
+- [ ] Add person to the invited list in the templates for the [process that generates meeting issues](https://github.com/nodejs/create-node-meeting-artifacts)
 ```
 
 Please refer to the Committee's [onboarding documentation](./ONBOARDING.md) for further information.
@@ -179,11 +179,11 @@ When CommComm members need to be off-boarded, we should attempt to off-board the
 manner.
 
 ```
-CommComm Offboarding Checklist: 
+CommComm Offboarding Checklist:
 
 - [ ] Remove the person from CommComm GitHub Team
 - [ ] Submit PR to remove the person from the [CommComm email alias](https://github.com/nodejs/email/blob/master/iojs.org/aliases.json)
-- README: 
+- README:
   - [ ] If leaving on good terms, submit PR to move the individual to Emeriti the [CommComm README.md](https://github.com/nodejs/community-committee/#community-committee-emeriti)
   - [ ] If not leaving on good terms, submit PR to remove the person from [CommComm README.md](https://github.com/nodejs/community-committee/#community-committee-members)
 - [ ] Remove the person from the invited list in the templates for the [process that generates meeting issues](https://github.com/nodejs/create-node-meeting-artifacts)
@@ -191,7 +191,7 @@ CommComm Offboarding Checklist:
 
 ## Consensus Seeking Process
 
-The CommComm follows a [Consensus Seeking][] decision making model as described by
+The CommComm follows a [Consensus Seeking][] decision-making model as described by
 the [CommComm Charter][].
 
 [collaborators-discussions]: https://github.com/orgs/nodejs/teams/collaborators/discussions
