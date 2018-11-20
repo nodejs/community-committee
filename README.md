@@ -130,7 +130,7 @@ Individual Membership Directors represent individual members of the foundation. 
 * [amorelandra](https://github.com/Amorelandra) - **Emily Rose** &lt;nexxy@symphonysubconscious.com&gt;
 * [msmichellegar](https://github.com/msmichellegar) - **Michelle Garrett** &lt;msmichellegar@gmail.com&gt;
 * [rachelnicole](https://github.com/rachelnicole) - **Rachel White** &lt;loveless@gmail.com&gt;
-
+<!-- Source for Markdown links included in this document -->
 [CommComm]:         https://github.com/nodejs/community-committee
 [TSC]:              https://github.com/nodejs/TSC
 
