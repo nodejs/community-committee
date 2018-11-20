@@ -57,9 +57,11 @@ Typical activities of a Collaborator include:
 * Participating in working groups or initiatives
 * Merging pull requests
 
-The CommComm periodically reviews the Collaborator list to identify inactive Collaborators.
-Past Collaborators are typically given Emeritus status. Emeriti may request that
-the CommComm restore them to active status.
+The CommComm periodically reviews the Collaborator list to identify inactive Collaborators. Past Collaborators are typically given Emeritus status. 
+
+Emeriti may request that the CommComm restore them to active status. The process is as follows:
+1. The Emeriti opens a PR on [README.md](https://github.com/nodejs/community-committee/blob/master/README.md) moving themselves from the `Community Committee Emeriti` section to the active section.
+2. The CommComm votes during the next meeting to validate the return of the Emeriti as an active collaborator.
 
 ## Members
 
