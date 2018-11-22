@@ -111,7 +111,6 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [joesepi] - **Joe Sepi** &lt;joesepi@gmail.com&gt;
 * [mhdawson] - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt;
 * [obensource] - **Ben Michel** &lt;benpmichel@gmail.com&gt;
-* [refack] - **Refael Ackermann** &lt;refack@gmail.com&gt;
 * [Tiriel] - **Benjamin Zaslavsky** &lt;benjamin.zaslavsky@gmail.com&gt;
 * [waleedashraf] - **Waleed Ashraf** &lt;waleedashrafhere@gmail.com&gt;
 * [williamkapke] - **William Kapke** &lt;will@kap.co&gt; **Individual Membership Director**
@@ -130,6 +129,7 @@ Individual Membership Directors represent individual members of the foundation. 
 * [amorelandra](https://github.com/Amorelandra) - **Emily Rose** &lt;nexxy@symphonysubconscious.com&gt;
 * [msmichellegar](https://github.com/msmichellegar) - **Michelle Garrett** &lt;msmichellegar@gmail.com&gt;
 * [rachelnicole](https://github.com/rachelnicole) - **Rachel White** &lt;loveless@gmail.com&gt;
+* [refack] - **Refael Ackermann** &lt;refack@gmail.com&gt;
 <!-- Source for Markdown links included in this document -->
 [CommComm]:         https://github.com/nodejs/community-committee
 [TSC]:              https://github.com/nodejs/TSC
