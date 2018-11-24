@@ -15,4 +15,4 @@ Any questions regarding joining or participating in a partner community should b
 * Acknowledgement that the members of CommComm can remove the Partner Community at any time if a report is made in potential violation of the requirements. This interpretation is up to the consideration and discretion of Node.js CommComm to decide.
 
 ## Disclaimer
-Node.js Partner Communities empower awesome groups in our global ecosystem by amplifying their voices, providing guidance, and building a knowledge-base of how to build a community. Partner communities as recognized are not official, legal representatives of the Node.js Foundation or project. 
+Node.js Partner Communities empower awesome groups in our global ecosystem by amplifying their voices, providing guidance, and building a knowledge-base of how to build a community. Partner communities as recognized are not official, legal representatives of the Node.js Foundation or project.

@@ -7,7 +7,7 @@
  - [Involving the Community Committee Members](#involving-the-community-committee-members)
 
 This document contains information for Collaborators of the Node.js
-Community Committee regarding maintaining the code, documentation and issues.
+Community Committee regarding maintaining the code, documentation, and issues.
 
 Collaborators should be familiar with the guidelines for new
 contributors in [CONTRIBUTING.md](./CONTRIBUTING.md) and also
@@ -39,7 +39,7 @@ All modifications should be performed via GitHub pull requests.
 All pull requests must be reviewed and accepted by a Collaborator with
 sufficient expertise who is able to take full responsibility for the
 change. In the case of pull requests proposed by an existing
-Collaborator, an additional Collaborator is required for sign-off.
+Collaborator, an additional Collaborator, is required for sign-off.
 
 In some cases, it may be necessary to summon a qualified Collaborator
 to a pull request for review by @-mention.
@@ -50,8 +50,8 @@ full responsibility for the change, defer to another Collaborator.
 Before landing pull requests, sufficient time should be left for input
 from other Collaborators. Leave at least 48 hours during the week and
 72 hours over weekends to account for international time differences
-and work schedules. Trivial changes (e.g. typos or content changes)
-may be landed after a shorter delay.
+and work schedules. Trivial changes (e.g., typos or content changes)
+maybe landed after a shorter delay.
 
 Where there is no disagreement amongst Collaborators, a pull request
 may be landed given appropriate review. Where there is discussion
@@ -73,22 +73,22 @@ This should be done where a pull request:
 The CC Members should serve as the final arbiter where required.
 
 ### Cross-coordination Guidelines to Other Governing Groups
-All Board requests should be communicated to the Individual Member Directors from the 
+All Board requests should be communicated to the Individual Member Directors from the
 CommComm Chairperson each month as resolutions or updates. Directors present
 at the Board session are responsible for championing these items.
-  
-The CommComm Chairperson should also coordinate with the TSC Director and Chairperson 
-to ensure all relevant CommComm items have been familiarized ahead of the Board meeting. 
-The Chairperson of the CommComm is responsible for communicating to the TSC chair any 
-cross-concerning discussions, attending meetings to coordinate efforts, and see how we 
+
+The CommComm Chairperson should also coordinate with the TSC Director and Chairperson
+to ensure all relevant CommComm items have been familiarized ahead of the Board meeting.
+The Chairperson of the CommComm is responsible for communicating to the TSC chair any
+cross-concerning discussions, attending meetings to coordinate efforts, and see how we
 need get input from each group.
-  
+
 The Individual Member Directors need to email agenda items to the Node.js Executive Director
 the Thursday prior to each Board meeting. The Board meeting occurs the last Tuesday of every
-month. In-between meetings, Individual Membership Directors can email important updates to 
+month. In-between meetings, Individual Membership Directors, can email important updates to
 the Board to familiarize topics prior to Board meeting.
 
-Be mindful about timeframes on needing approval across governing groups and the Board. 
+Be mindful about timeframes on needing approval across governing groups and the Board.
 Some initiatives may take weeks, not days, for everything to align.
 
 <a id="developers-certificate-of-origin"></a>
