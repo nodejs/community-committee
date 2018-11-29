@@ -2,7 +2,7 @@
 
 The Community Committee is a top-level committee in the Node.js Foundation focused on community-facing efforts.
 
-For more details read the [Community Committee Charter](https://github.com/nodejs/community-committee/blob/master/GOVERNANCE.md), adopted by the Node.js Foundation Board of Directors on March 10th 2017.
+For more details read the [Community Committee Charter], adopted by the Node.js Foundation Board of Directors on March 10th 2017.
 
 ## Why does the Community Committee exist?
 
@@ -130,9 +130,11 @@ Individual Membership Directors represent individual members of the foundation. 
 * [msmichellegar](https://github.com/msmichellegar) - **Michelle Garrett** &lt;msmichellegar@gmail.com&gt;
 * [rachelnicole](https://github.com/rachelnicole) - **Rachel White** &lt;loveless@gmail.com&gt;
 * [refack] - **Refael Ackermann** &lt;refack@gmail.com&gt;
+
 <!-- Source for Markdown links included in this document -->
-[CommComm]:         https://github.com/nodejs/community-committee
-[TSC]:              https://github.com/nodejs/TSC
+[CommComm]:                    https://github.com/nodejs/community-committee
+[Community Committee Charter]: https://github.com/nodejs/community-committee/blob/master/Community-Committee-Charter.md
+[TSC]:                         https://github.com/nodejs/TSC
 
 [amiller-gh]:       https://github.com/amiller-gh
 [ashleygwilliams]:  https://github.com/ashleygwilliams
