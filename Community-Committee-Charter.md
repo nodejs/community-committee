@@ -71,7 +71,8 @@ For election of persons (CommComm Chairperson, Advisors, etc.) a multiple-candid
 
 Multiple-candidate methods may be reduced to simple election by plurality when there are only two candidates for one position to be filled. No election is required if there is only one candidate and no objections to the candidate's election. Nominations for organizations that should be represented on the Community Committee will take place in the GitHub repository. A representative for these organizations shall be selected within the organizations by those active in it.
 
-The CommComm will elect from amongst voting CommComm members a CommComm Chairperson to work on building an agenda for CommComm meetings and collaborate with the Individual Membership Directors the wishes of the CommComm to the Board for a term of one year according to the Node.js Foundation’s By-laws. The CommComm shall hold annual elections to select a CommComm Chairperson; there are no limits on the number of terms a CommComm Chairperson may serve.
+The CommComm will elect from amongst voting CommComm members a CommComm Chairperson to work on building an agenda for CommComm meetings and a CommComm director to repesent the CommComm to the board for a term of one year according to the Node.js Foundation’s By-laws. The CommComm shall hold annual elections to select a CommComm Chairperson; there are no limits on the number of terms a CommComm Chairperson may serve. The
+same person may not hold both positions at the same time.
 
 The CommComm will elect from amongst voting CommComm members: 
   - a CommComm Chairperson, responsible for preparing agendas and coordinating CommComm meetings, and 
