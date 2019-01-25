@@ -78,7 +78,6 @@ and have the support needed.
 
 | Initiative                | Previous Champion | Links                                                      |
 |---------------------------|------------------ |------------------------------------------------------------|
-| Community Events          | Patrick Heneise   | [nodejs/community-events]                                  |
 | NodeTogether              | [rachelnicole]    | https://github.com/nodejs/community-committee/issues/63    |
 | Office Hours              | [bnb]             | https://github.com/nodejs/community-committee/issues/157   |
 | Code + Learn Friendliness | ?                 | https://github.com/nodejs/community-committee/issues/158   |
@@ -94,6 +93,7 @@ and have the support needed.
 |-------------------|----------------|---------------------|---------------------------------------------|
 | Education         | [hackygolucky] | [nodejs/education]  | Absorbed by the Website Redesign Initiative |
 | Evangelism WG     | [bnb]          | [nodejs/evangelism] | Responsibilities absorbed by CommComm       |
+| Community Events  | Patrick Heneise| [nodejs/community-events]|Repository Archived                     |
 
 ## Governance and Current Members
 
