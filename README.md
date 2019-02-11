@@ -95,6 +95,17 @@ and have the support needed.
 | Education         | [hackygolucky] | [nodejs/education]  | Absorbed by the Website Redesign Initiative |
 | Evangelism WG     | [bnb]          | [nodejs/evangelism] | Responsibilities absorbed by CommComm       |
 
+## Labels for Issues and PRs
+
+In an effort to be more concise and distribute our knowledge, we use labels on issues to give context on thier status. Here's a guide to how we use labels:
+
+- `initiative-` prefix: Belonging to or about an initiative that follows the prefix.
+- `waiting-on-` prefix: This indicates that we're waiting on a group for input/feedback.
+- `type-` prefix: Denotes what kind of discussion is happening – a request, an open discussion, a problem, etc.
+- `-agenda` suffix: Denotes that an issue will be included in the agenda of the initiative or WG pririor to the suffix.
+- `good-first-issue`: Issues that are a good place to start contributing to the Node.js Community Committee
+- `mentor-available`: Issues that have a mentor available to help out
+
 ## Governance and Current Members
 
 The Community Committee is an autonomous committee that collaborates alongside the [TSC] and whose governance is strongly influenced by the [TSC]'s example. See [GOVERNANCE.md](./GOVERNANCE.md) to learn more about the group's evolving structure and [CONTRIBUTING.md](./CONTRIBUTING.md) for guidance about the expectations for all contributors to this project.
