@@ -72,7 +72,7 @@ and have the support needed.
 | Mentorship         | [Bamieh] and [dshaw]           | [nodejs/mentorship]        |
 | Node.js Collection | [bnb]                          | [nodejs/nodejs-collection] |
 | User Feedback      | [dshaw]                        | [nodejs/user-feedback]     |
-| Website Redesign   | [amiller-gh] and [chowdhurian] | [nodejs/website-redesign]  |
+| Website Redesign   | [amiller-gh] and [keywordnew]  | [nodejs/website-redesign]  |
 
 ### In Need of Champion
 
@@ -114,7 +114,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [amiller-gh] - **Adam Miller** &lt;ammiller@linkedin.com&gt; **Community Committee Chair**
 * [bamieh] - **Ahmad Bamieh** &lt;ahmadbamieh@gmail.com&gt;
 * [bnb] - **Tierney Cyren** &lt;hello@bnb.im&gt;
-* [chowdhurian] - **Manil Chowdhury** &lt;manil.chowdhury@gmail.com&gt;
+* [keywordnew] - **Manil Chowdhury** &lt;manil.chowdhury@gmail.com&gt;
 * [codeekage] - **Agiri Abraham Jr.** &lt;agiriabrahamjunior@nodejs.africa&gt;
 * [dshaw] - **Dan Shaw** &lt;dshaw@dshaw.com&gt;
 * [hackygolucky] - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt; **Community Committee Director**
@@ -151,7 +151,7 @@ Individual Membership Directors represent individual members of the foundation. 
 [ashleygwilliams]:  https://github.com/ashleygwilliams
 [bamieh]:           https://github.com/bamieh
 [bnb]:              https://github.com/bnb
-[chowdhurian]:      https://github.com/chowdhurian
+[keywordnew]:       https://github.com/keywordnew
 [codeekage]:        https://github.com/codeekage
 [dshaw]:            https://github.com/dshaw
 [hackygolucky]:     https://github.com/hackygolucky
