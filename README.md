@@ -118,7 +118,6 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [codeekage] - **Agiri Abraham Jr.** &lt;agiriabrahamjunior@nodejs.africa&gt;
 * [dshaw] - **Dan Shaw** &lt;dshaw@dshaw.com&gt;
 * [hackygolucky] - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt; **Community Committee Director**
-* [JemBijoux] - **Jem Bezooyen** &lt;jem@hipmedia.ca&gt; **Community Committee Secretary**
 * [joesepi] - **Joe Sepi** &lt;joesepi@gmail.com&gt;
 * [mhdawson] - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt;
 * [obensource] - **Ben Michel** &lt;benpmichel@gmail.com&gt;
@@ -132,15 +131,16 @@ Individual Membership Directors represent individual members of the foundation. 
 * [williamkapke] - **William Kapke** &lt;will@kap.co&gt;
 
 ### Community Committee Emeriti
-* [ashleygwilliams](https://github.com/ashleygwilliams) - **Ashley Williams** &lt;ashley666ashley@gmail.com&gt;
-* [MylesBorins](https://github.com/MylesBorins) - **Myles Borins** &lt;myles.borins@gmail.com&gt;
-* [jpwesselink](https://github.com/jpwesselink) - **JP Wesselink** &lt;jpwesselink@gmail.com&gt;
-* [oe](https://github.com/oe) - **Olivia Hugger** &lt;olivia@fastmail.com&gt;
-* [gr2m](https://github.com/gr2m) - **Gregor Martynus** &lt;nodejs.commcomm@martynus.net&gt;
-* [amorelandra](https://github.com/Amorelandra) - **Emily Rose** &lt;nexxy@symphonysubconscious.com&gt;
-* [msmichellegar](https://github.com/msmichellegar) - **Michelle Garrett** &lt;msmichellegar@gmail.com&gt;
-* [rachelnicole](https://github.com/rachelnicole) - **Rachel White** &lt;loveless@gmail.com&gt;
+* [ashleygwilliams] - **Ashley Williams** &lt;ashley666ashley@gmail.com&gt;
+* [MylesBorins] - **Myles Borins** &lt;myles.borins@gmail.com&gt;
+* [jpwesselink] - **JP Wesselink** &lt;jpwesselink@gmail.com&gt;
+* [oe] - **Olivia Hugger** &lt;olivia@fastmail.com&gt;
+* [gr2m] - **Gregor Martynus** &lt;nodejs.commcomm@martynus.net&gt;
+* [amorelandra] - **Emily Rose** &lt;nexxy@symphonysubconscious.com&gt;
+* [msmichellegar] - **Michelle Garrett** &lt;msmichellegar@gmail.com&gt;
+* [rachelnicole] - **Rachel White** &lt;loveless@gmail.com&gt;
 * [refack] - **Refael Ackermann** &lt;refack@gmail.com&gt;
+* [JemBijoux] - **Jem Bezooyen** &lt;jem@hipmedia.ca&gt; **Community Committee Secretary**
 
 <!-- Source for Markdown links included in this document -->
 [CommComm]:                    https://github.com/nodejs/community-committee
@@ -148,17 +148,23 @@ Individual Membership Directors represent individual members of the foundation. 
 [TSC]:                         https://github.com/nodejs/TSC
 
 [amiller-gh]:       https://github.com/amiller-gh
+[amorelandra]:      https://github.com/Amorelandra
 [ashleygwilliams]:  https://github.com/ashleygwilliams
 [bamieh]:           https://github.com/bamieh
 [bnb]:              https://github.com/bnb
 [keywordnew]:       https://github.com/keywordnew
 [codeekage]:        https://github.com/codeekage
 [dshaw]:            https://github.com/dshaw
+[gr2m]:             https://github.com/gr2m
 [hackygolucky]:     https://github.com/hackygolucky
 [JemBijoux]:        https://github.com/JemBijoux
 [joesepi]:          https://github.com/joesepi
+[jpwesselink]:      https://github.com/jpwesselink
 [mhdawson]:         https://github.com/mhdawson
+[msmichellegar]:    https://github.com/msmichellegar
+[MylesBorins]:      https://github.com/MylesBorins
 [obensource]:       https://github.com/obensource
+[oe]:               https://github.com/oe
 [rachelnicole]:     https://github.com/rachelnicole
 [refack]:           https://github.com/refack
 [Tiriel]:           https://github.com/Tiriel
