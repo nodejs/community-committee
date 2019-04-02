@@ -67,10 +67,10 @@ and have the support needed.
 
 | Initiative         | Champion(s)                    | Link                       |
 |--------------------|--------------------------------|----------------------------|
-| Badges             | [amiller-gh]                   | [nodejs/badges]            |
 | i18n               | [obensource]                   | [nodejs/i18n]              |
 | Mentorship         | [Bamieh] and [dshaw]           | [nodejs/mentorship]        |
 | Node.js Collection | [bnb]                          | [nodejs/nodejs-collection] |
+| Outreach           | [Tiriel]                       | [nodejs/outreach]          |
 | User Feedback      | [dshaw]                        | [nodejs/user-feedback]     |
 | Website Redesign   | [amiller-gh] and [keywordnew]  | [nodejs/website-redesign]  |
 
@@ -89,11 +89,12 @@ and have the support needed.
 
 # Completed / Retired
 
-| Initiative        | Champion       | Links               | Notes                                       |
-|-------------------|----------------|---------------------|---------------------------------------------|
-| Education         | [hackygolucky] | [nodejs/education]  | Absorbed by the Website Redesign Initiative |
-| Evangelism WG     | [bnb]          | [nodejs/evangelism] | Responsibilities absorbed by CommComm       |
-| Community Events  | Patrick Heneise| [nodejs/community-events]|Repository Archived                     |
+| Initiative        | Champion       | Links               | Notes                                                 |
+|-------------------|----------------|---------------------|-------------------------------------------------------|
+| Education         | [hackygolucky] | [nodejs/education]  | Absorbed by the Website Redesign Initiative           |
+| Evangelism WG     | [bnb]          | [nodejs/evangelism] | Responsibilities absorbed by CommComm                 |
+| Community Events  | Patrick Heneise| [nodejs/community-events]|Repository Archived                               |
+| Badges            | [amiller-gh]   | [nodejs/badges]     | On pause until design is refined in website-redesign. |
 
 ## Labels for Issues and PRs
 
@@ -175,6 +176,7 @@ Individual Membership Directors represent individual members of the foundation. 
 [nodejs/i18n]:              https://github.com/nodejs/i18n
 [nodejs/mentorship]:        https://github.com/nodejs/mentorship
 [nodejs/nodejs-collection]: https://github.com/nodejs/nodejs-collection
+[nodejs/outreach]:          https://github.com/nodejs/outreach
 [nodejs/user-feedback]:     https://github.com/nodejs/user-feedback
 [nodejs/website-redesign]:  https://github.com/nodejs/website-redesign
 [nodejs/education]:         https://github.com/nodejs/education
