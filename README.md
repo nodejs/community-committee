@@ -112,6 +112,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 
 ### Community Committee Members
 * [amiller-gh] - **Adam Miller** &lt;ammiller@linkedin.com&gt; **Community Committee Chair**
+* [AhmadAwais] – **Ahmad Awais** &lt;me@AhmadAwais.com&gt;
 * [bamieh] - **Ahmad Bamieh** &lt;ahmadbamieh@gmail.com&gt;
 * [bnb] - **Tierney Cyren** &lt;hello@bnb.im&gt;
 * [keywordnew] - **Manil Chowdhury** &lt;manil.chowdhury@gmail.com&gt;
@@ -149,6 +150,7 @@ Individual Membership Directors represent individual members of the foundation. 
 
 [amiller-gh]:       https://github.com/amiller-gh
 [amorelandra]:      https://github.com/Amorelandra
+[AhmadAwais]:       https://github.com/AhmadAwais
 [ashleygwilliams]:  https://github.com/ashleygwilliams
 [bamieh]:           https://github.com/bamieh
 [bnb]:              https://github.com/bnb
