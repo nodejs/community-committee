@@ -70,7 +70,7 @@ and have the support needed.
 | i18n               | [obensource]                   | [nodejs/i18n]              |
 | Mentorship         | [Bamieh] and [dshaw]           | [nodejs/mentorship]        |
 | Node.js Collection | [bnb]                          | [nodejs/nodejs-collection] |
-| Outreach           | [Tiriel]                       | [nodejs/outreach]          |
+| Outreach           | [AhmadAwais]                   | [nodejs/outreach]          |
 | User Feedback      | [dshaw]                        | [nodejs/user-feedback]     |
 | Website Redesign   | [amiller-gh] and [keywordnew]  | [nodejs/website-redesign]  |
 
