@@ -30,7 +30,7 @@ We aim for the majority of decisions made by the CommComm to be achieved through
 [Pull requests in Github](https://help.github.com/articles/about-pull-requests/) are what we use to put documents, code, and other material into the project. PRs have the advantage of giving everyone involved time and space to add material, suggest changes, and discuss the contribution.
 
 ### Landing PRs
-Before landing pull requests, sufficient time should be left for input from other Collaborators. Leave at least 48 hours during the week and 72 hours over weekends to account for international time differences and work schedules. Trivial changes (e.g., typos or content changes) may be landed after a shorter delay.
+Before landing pull requests, sufficient time should be left for input from other Collaborators. Leave 72 hours to account for international time differences and work schedules. Trivial changes (e.g., typos or content changes) may be landed after a shorter delay.
 
 Where there is no disagreement amongst Collaborators, a pull request may be landed given an appropriate review. Where there is a discussion amongst Collaborators, consensus should be sought if possible. The lack of consensus may indicate the need to elevate the discussion to the Community Committee Members for resolution
 
