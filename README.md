@@ -68,7 +68,7 @@ and have the support needed.
 | Initiative         | Champion(s)                    | Link                       |
 |--------------------|--------------------------------|----------------------------|
 | i18n               | [obensource]                   | [nodejs/i18n]              |
-| Mentorship         | [Bamieh] and [dshaw]           | [nodejs/mentorship]        |
+| Mentorship         | [Bamieh]                       | [nodejs/mentorship]        |
 | Node.js Collection | [bnb]                          | [nodejs/nodejs-collection] |
 | Outreach           | [AhmadAwais]                   | [nodejs/outreach]          |
 | User Feedback      | [dshaw]                        | [nodejs/user-feedback]     |
