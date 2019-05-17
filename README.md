@@ -143,6 +143,7 @@ Individual Membership Directors represent individual members of the foundation. 
 * [refack] - **Refael Ackermann** &lt;refack@gmail.com&gt;
 * [JemBijoux] - **Jem Bezooyen** &lt;jem@hipmedia.ca&gt; **Community Committee Secretary**
 * [Tiriel] - **Benjamin Zaslavsky** &lt;benjamin.zaslavsky@gmail.com&gt;
+* [nebrius] - **Bryan Hughes** &lt;bryan@nebri.us&gt; **Community Committee Chairperson**
 
 <!-- Source for Markdown links included in this document -->
 [CommComm]:                    https://github.com/nodejs/community-committee
