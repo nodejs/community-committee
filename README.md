@@ -174,6 +174,7 @@ Individual Membership Directors represent individual members of the foundation. 
 [Tiriel]:           https://github.com/Tiriel
 [waleedashraf]:     https://github.com/waleedashraf
 [williamkapke]:     https://github.com/williamkapke
+[nebrius]:          https://github.com/nebrius
 
 [nodejs/badges]:            https://github.com/nodejs/badges
 [nodejs/i18n]:              https://github.com/nodejs/i18n
