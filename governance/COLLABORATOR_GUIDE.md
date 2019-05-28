@@ -10,9 +10,9 @@ This document contains information for Collaborators of the Node.js
 Community Committee regarding maintaining the code, documentation, and issues.
 
 Collaborators should be familiar with the guidelines for new
-contributors in [CONTRIBUTING.md](./CONTRIBUTING.md) and also
+contributors in [CONTRIBUTING.md](https://github.com/nodejs/community-committee/blob/master/CONTRIBUTING.md) and also
 understand the project governance model as outlined in
-[GOVERNANCE.md](./GOVERNANCE.md).
+[GOVERNANCE.md](https://github.com/nodejs/community-committee/blob/master/GOVERNANCE.md).
 
 ## Issues and Pull Requests
 
