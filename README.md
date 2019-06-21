@@ -82,7 +82,6 @@ and have the support needed.
 | Office Hours              | [bnb]             | https://github.com/nodejs/community-committee/issues/157   |
 | Code + Learn Friendliness | ?                 | https://github.com/nodejs/community-committee/issues/158   |
 | How I Got Into Node       | ?                 | https://github.com/nodejs/community-committee/issues/138   |
-| Individual Membership     | ?                 | https://github.com/nodejs/community-committee/issues/170   |
 | Node.js People Everywhere | ?                 | https://github.com/nodejs/community-committee/issues/184   |
 | Open-source Friday        | ?                 | https://github.com/nodejs/community-committee/issues/180   |
 | This week in Core         | ?                 | https://github.com/nodejs/community-committee/issues/148   |
