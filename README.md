@@ -83,17 +83,18 @@ and have the support needed.
 | Code + Learn Friendliness | ?                 | https://github.com/nodejs/community-committee/issues/158   |
 | How I Got Into Node       | ?                 | https://github.com/nodejs/community-committee/issues/138   |
 | Node.js People Everywhere | ?                 | https://github.com/nodejs/community-committee/issues/184   |
-| Open-source Friday        | ?                 | https://github.com/nodejs/community-committee/issues/180   |
 | This week in Core         | ?                 | https://github.com/nodejs/community-committee/issues/148   |
 
 # Completed / Retired
 
-| Initiative        | Champion       | Links               | Notes                                                 |
-|-------------------|----------------|---------------------|-------------------------------------------------------|
-| Education         | [hackygolucky] | [nodejs/education]  | Absorbed by the Website Redesign Initiative           |
-| Evangelism WG     | [bnb]          | [nodejs/evangelism] | Responsibilities absorbed by CommComm                 |
-| Community Events  | Patrick Heneise| [nodejs/community-events]|Repository Archived                               |
-| Badges            | [amiller-gh]   | [nodejs/badges]     | On pause until design is refined in website-redesign. |
+| Initiative                | Champion       | Links               | Notes                                                 |
+|---------------------------|----------------|---------------------|-------------------------------------------------------|
+| Education                 | [hackygolucky] | [nodejs/education]  | Absorbed by the Website Redesign Initiative           |
+| Evangelism WG             | [bnb]          | [nodejs/evangelism] | Responsibilities absorbed by CommComm                 |
+| Community Events          | Patrick Heneise| [nodejs/community-events]|Repository Archived                               |
+| Badges                    | [amiller-gh]   | [nodejs/badges]     | On pause until design is refined in website-redesign  |
+| Open-source Friday        | ?              | https://github.com/nodejs/community-committee/issues/180 | No clear project |
+
 
 ## Labels for Issues and PRs
 
