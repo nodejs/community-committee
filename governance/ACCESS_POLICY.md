@@ -1,0 +1,14 @@
+# Account Access Policy
+
+## Zoom
+
+Ask the Community Committee Chairperson for access. The chairpersons of the TSC and Community Committee have access to grant their membership YouTube streaming.
+
+## LinkedIn Node.js Group
+
+Any Community Committee member can become a group admin. Ask an existing admin for access. Existing admins should only add current [Community Committee members](https://github.com/nodejs/community-committee#community-committee-members) to the list.
+
+## General Rules That Apply to All Account Access
+
+- The [Membership Expectations](https://github.com/nodejs/admin/blob/master/MemberExpectations.md) – specifically as they apply to project leadership – fully applies to this.
+- Adding anyone who should not be added will be reviewed by the CommComm and could be grounds for immediate removal of access/CommComm membership.
