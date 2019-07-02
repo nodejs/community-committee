@@ -1,8 +1,8 @@
 # Account Access Policy
 
-## Zoom
+## Zoom & YouTube
 
-Ask the Community Committee Chairperson for access. The chairpersons of the TSC and Community Committee have access to grant their membership YouTube streaming.
+Ask the Community Committee Chairperson for access to Zoom. The chairpersons of the TSC and Community Committee can grant access to project members so they can start YouTube streams for the meetings.
 
 ## LinkedIn Node.js Group
 
