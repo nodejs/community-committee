@@ -98,7 +98,7 @@ and have the support needed.
 
 ## Labels for Issues and PRs
 
-In an effort to be more concise and distribute our knowledge, we use labels on issues to give context on thier status. Here's a guide to how we use labels:
+In an effort to be more concise and distribute our knowledge, we use labels on issues to give context on their status. Here's a guide to how we use labels:
 
 - `initiative-` prefix: Belonging to or about an initiative that follows the prefix.
 - `waiting-on-` prefix: This indicates that we're waiting on a group for input/feedback.
