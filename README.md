@@ -120,7 +120,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [codeekage] - **Agiri Abraham Jr.** &lt;agiriabrahamjunior@nodejs.africa&gt;
 * [dshaw] - **Dan Shaw** &lt;dshaw@dshaw.com&gt;
 * [hackygolucky] - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt; **Community Committee Director**
-* [joesepi] - **Joe Sepi** &lt;joesepi@gmail.com&gt; **CoommComm CPC Representative**
+* [joesepi] - **Joe Sepi** &lt;joesepi@gmail.com&gt; **Community Committeee CPC Representative**
 * [mhdawson] - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt;
 * [obensource] - **Ben Michel** &lt;benpmichel@gmail.com&gt;
 * [waleedashraf] - **Waleed Ashraf** &lt;waleedashrafhere@gmail.com&gt;
