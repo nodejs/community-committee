@@ -72,7 +72,7 @@ and have the support needed.
 | Node.js Collection | [bnb]                          | [nodejs/nodejs-collection] |
 | Outreach           | [AhmadAwais]                   | [nodejs/outreach]          |
 | User Feedback      | [dshaw]                        | [nodejs/user-feedback]     |
-| Website Redesign   | [amiller-gh] and [keywordnew]  | [nodejs/website-redesign]  |
+| Website Redesign   | [amiller-gh] and [keywordnew]  | [nodejs/nodejs.dev]        |
 
 ### In Need of Champion
 
@@ -182,7 +182,7 @@ Individual Membership Directors represent individual members of the foundation. 
 [nodejs/nodejs-collection]: https://github.com/nodejs/nodejs-collection
 [nodejs/outreach]:          https://github.com/nodejs/outreach
 [nodejs/user-feedback]:     https://github.com/nodejs/user-feedback
-[nodejs/website-redesign]:  https://github.com/nodejs/website-redesign
+[nodejs/nodejs.dev]:  https://github.com/nodejs/nodejs.dev
 [nodejs/education]:         https://github.com/nodejs/education
 [nodejs/evangelism]:        https://github.com/nodejs/evangelism
 [nodejs/community-events]:  https://github.com/nodejs/community-events
