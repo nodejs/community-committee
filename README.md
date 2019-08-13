@@ -69,7 +69,7 @@ and have the support needed.
 |--------------------|--------------------------------|----------------------------|
 | i18n               | [obensource]                   | [nodejs/i18n]              |
 | Mentorship         | [Bamieh]                       | [nodejs/mentorship]        |
-| Node.js Collection | [bnb]                          | [nodejs/nodejs-collection] |
+| Node.js Collection | [waleedashraf]                 | [nodejs/nodejs-collection] |
 | Outreach           | [AhmadAwais]                   | [nodejs/outreach]          |
 | User Feedback      | [dshaw]                        | [nodejs/user-feedback]     |
 | Website Redesign   | [amiller-gh] and [keywordnew]  | [nodejs/website-redesign]  |
