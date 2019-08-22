@@ -65,14 +65,15 @@ and have the support needed.
 
 ### Current Initiatives
 
-| Initiative         | Champion(s)                    | Link                       |
-|--------------------|--------------------------------|----------------------------|
-| i18n               | [obensource]                   | [nodejs/i18n]              |
-| Mentorship         | [Bamieh]                       | [nodejs/mentorship]        |
-| Node.js Collection | [waleedashraf]                 | [nodejs/nodejs-collection] |
-| Outreach           | [AhmadAwais]                   | [nodejs/outreach]          |
-| User Feedback      | [dshaw]                        | [nodejs/user-feedback]     |
-| Website Redesign   | [amiller-gh] and [keywordnew]  | [nodejs/website-redesign]  |
+| Initiative             | Champion(s)                    | Link                            |
+|------------------------|--------------------------------|---------------------------------|
+| i18n                   | [obensource]                   | [nodejs/i18n]                   |
+| Mentorship             | [Bamieh]                       | [nodejs/mentorship]             |
+| Social Media Delegates | [bnb]                          | [nodejs/social-media-delegates] |
+| Node.js Collection     | [waleedashraf]                 | [nodejs/nodejs-collection]      |
+| Outreach               | [AhmadAwais]                   | [nodejs/outreach]               |
+| User Feedback          | [dshaw]                        | [nodejs/user-feedback]          |
+| Website Redesign       | [amiller-gh] and [keywordnew]  | [nodejs/website-redesign]       |
 
 ### In Need of Champion
 
@@ -176,13 +177,14 @@ Individual Membership Directors represent individual members of the foundation. 
 [williamkapke]:     https://github.com/williamkapke
 [nebrius]:          https://github.com/nebrius
 
-[nodejs/badges]:            https://github.com/nodejs/badges
-[nodejs/i18n]:              https://github.com/nodejs/i18n
-[nodejs/mentorship]:        https://github.com/nodejs/mentorship
-[nodejs/nodejs-collection]: https://github.com/nodejs/nodejs-collection
-[nodejs/outreach]:          https://github.com/nodejs/outreach
-[nodejs/user-feedback]:     https://github.com/nodejs/user-feedback
-[nodejs/website-redesign]:  https://github.com/nodejs/website-redesign
-[nodejs/education]:         https://github.com/nodejs/education
-[nodejs/evangelism]:        https://github.com/nodejs/evangelism
-[nodejs/community-events]:  https://github.com/nodejs/community-events
+[nodejs/badges]:                 https://github.com/nodejs/badges
+[nodejs/i18n]:                   https://github.com/nodejs/i18n
+[nodejs/mentorship]:             https://github.com/nodejs/mentorship
+[nodejs/nodejs-collection]:      https://github.com/nodejs/nodejs-collection
+[nodejs/outreach]:               https://github.com/nodejs/outreach
+[nodejs/user-feedback]:          https://github.com/nodejs/user-feedback
+[nodejs/website-redesign]:       https://github.com/nodejs/website-redesign
+[nodejs/education]:              https://github.com/nodejs/education
+[nodejs/evangelism]:             https://github.com/nodejs/evangelism
+[nodejs/community-events]:       https://github.com/nodejs/community-events
+[nodejs/social-media-delegates]: https://github.com/nodejs/social-media-delegates
