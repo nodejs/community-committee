@@ -65,15 +65,16 @@ and have the support needed.
 
 ### Current Initiatives
 
-| Initiative             | Champion(s)                    | Link                            |
-|------------------------|--------------------------------|---------------------------------|
-| i18n                   | [obensource]                   | [nodejs/i18n]                   |
-| Mentorship             | [Bamieh]                       | [nodejs/mentorship]             |
-| Social Media Delegates | [bnb]                          | [nodejs/social-media-delegates] |
-| Node.js Collection     | [waleedashraf]                 | [nodejs/nodejs-collection]      |
-| Outreach               | [AhmadAwais]                   | [nodejs/outreach]               |
-| User Feedback          | [dshaw]                        | [nodejs/user-feedback]          |
-| Website Redesign       | [amiller-gh] and [keywordnew]  | [nodejs/website-redesign]       |
+| Initiative             | Champion(s)                    | CommComm Liason |  Link                           |
+|------------------------|--------------------------------|---------------------------------------------------|
+| i18n                   | [obensource]                   |                 | [nodejs/i18n]                   |
+| Mentorship             | [Bamieh]                       |                 | [nodejs/mentorship]             |
+| Social Media Delegates | [bnb]                          |                 | [nodejs/social-media-delegates] |
+| Node.js Collection     | [waleedashraf]                 |                 | [nodejs/nodejs-collection]      |
+| Outreach               | [AhmadAwais]                   |                 | [nodejs/outreach]               |
+| User Feedback          | [dshaw]                        |                 | [nodejs/user-feedback]          |
+| Website Redesign       | [amiller-gh] and [keywordnew]  |                 | [nodejs/website-redesign]       |
+| Enterprise Usr Feeback | Ahmad Nassri                   | [mhdawson]      | [nodejs/user-feedback]          |
 
 ### In Need of Champion
 
@@ -85,6 +86,7 @@ and have the support needed.
 | How I Got Into Node       | ?                 | https://github.com/nodejs/community-committee/issues/138   |
 | Node.js People Everywhere | ?                 | https://github.com/nodejs/community-committee/issues/184   |
 | This week in Core         | ?                 | https://github.com/nodejs/community-committee/issues/148   |
+| User Feedback             |                   | [nodejs/user-feedback]                                     |
 
 # Completed / Retired
 
