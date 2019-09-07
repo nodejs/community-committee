@@ -65,15 +65,16 @@ and have the support needed.
 
 ### Current Initiatives
 
-| Initiative             | Champion(s)                    | Link                            |
-|------------------------|--------------------------------|---------------------------------|
-| i18n                   | [obensource]                   | [nodejs/i18n]                   |
-| Mentorship             | [Bamieh]                       | [nodejs/mentorship]             |
-| Social Media Delegates | [bnb]                          | [nodejs/social-media-delegates] |
-| Node.js Collection     | [waleedashraf]                 | [nodejs/nodejs-collection]      |
-| Outreach               | [AhmadAwais]                   | [nodejs/outreach]               |
-| User Feedback          | [dshaw]                        | [nodejs/user-feedback]          |
-| Website Redesign       | [amiller-gh] and [keywordnew]  | [nodejs/website-redesign]       |
+| Initiative             | Champion(s)                    | Link                                                         |
+|------------------------|--------------------------------|--------------------------------------------------------------|
+| NIA                    | [chellathecoder]               | [nodejs/NIA(Node Intelligent Assistance)]                    |
+| i18n                   | [obensource]                   | [nodejs/i18n]                                                |
+| Mentorship             | [Bamieh]                       | [nodejs/mentorship]                                          |
+| Social Media Delegates | [bnb]                          | [nodejs/social-media-delegates]                              |
+| Node.js Collection     | [waleedashraf]                 | [nodejs/nodejs-collection]                                   |
+| Outreach               | [AhmadAwais]                   | [nodejs/outreach]                                            |
+| User Feedback          | [dshaw]                        | [nodejs/user-feedback]                                       |
+| Website Redesign       | [amiller-gh] and [keywordnew]  | [nodejs/website-redesign]                                    |
 
 ### In Need of Champion
 
