@@ -113,10 +113,10 @@ In an effort to be more concise and distribute our knowledge, we use labels on i
 The Community Committee is an autonomous committee that collaborates alongside the [TSC] and whose governance is strongly influenced by the [TSC]'s example. See [GOVERNANCE.md](./GOVERNANCE.md) to learn more about the group's evolving structure and [CONTRIBUTING.md](./CONTRIBUTING.md) for guidance about the expectations for all contributors to this project.
 
 ### Community Committee Members
-* [amiller-gh] - **Adam Miller** &lt;ammiller@linkedin.com&gt; **Community Committee Chair**
+* [amiller-gh] - **Adam Miller** &lt;adam@mobilize.appm&gt;
 * [AhmadAwais] – **Ahmad Awais** &lt;me@AhmadAwais.com&gt;
 * [bamieh] - **Ahmad Bamieh** &lt;ahmadbamieh@gmail.com&gt;
-* [bnb] - **Tierney Cyren** &lt;hello@bnb.im&gt;
+* [bnb] - **Tierney Cyren** &lt;hello@bnb.im&gt; **Community Committee Chair**
 * [keywordnew] - **Manil Chowdhury** &lt;manil.chowdhury@gmail.com&gt;
 * [codeekage] - **Agiri Abraham Jr.** &lt;agiriabrahamjunior@nodejs.africa&gt;
 * [dshaw] - **Dan Shaw** &lt;dshaw@dshaw.com&gt;
