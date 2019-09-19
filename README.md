@@ -73,7 +73,7 @@ and have the support needed.
 | Node.js Collection     | [waleedashraf]                 |                 | [nodejs/nodejs-collection]      |
 | Outreach               | [AhmadAwais]                   |                 | [nodejs/outreach]               |
 | User Feedback          | [dshaw]                        |                 | [nodejs/user-feedback]          |
-| Website Redesign       | [amiller-gh] and [keywordnew]  |                 | [nodejs/website-redesign]       |
+| Website Redesign       | [amiller-gh] and [keywordnew]  |                 | [nodejs/nodejs.dev]             |
 | Enterprise Usr Feeback | Ahmad Nassri                   | [mhdawson]      | [nodejs/user-feedback]          |
 
 ### In Need of Champion
@@ -115,10 +115,10 @@ In an effort to be more concise and distribute our knowledge, we use labels on i
 The Community Committee is an autonomous committee that collaborates alongside the [TSC] and whose governance is strongly influenced by the [TSC]'s example. See [GOVERNANCE.md](./GOVERNANCE.md) to learn more about the group's evolving structure and [CONTRIBUTING.md](./CONTRIBUTING.md) for guidance about the expectations for all contributors to this project.
 
 ### Community Committee Members
-* [amiller-gh] - **Adam Miller** &lt;ammiller@linkedin.com&gt; **Community Committee Chair**
+* [amiller-gh] - **Adam Miller** &lt;adam@mobilize.appm&gt;
 * [AhmadAwais] – **Ahmad Awais** &lt;me@AhmadAwais.com&gt;
 * [bamieh] - **Ahmad Bamieh** &lt;ahmadbamieh@gmail.com&gt;
-* [bnb] - **Tierney Cyren** &lt;hello@bnb.im&gt;
+* [bnb] - **Tierney Cyren** &lt;hello@bnb.im&gt; **Community Committee Chair**
 * [keywordnew] - **Manil Chowdhury** &lt;manil.chowdhury@gmail.com&gt;
 * [codeekage] - **Agiri Abraham Jr.** &lt;agiriabrahamjunior@nodejs.africa&gt;
 * [dshaw] - **Dan Shaw** &lt;dshaw@dshaw.com&gt;
@@ -179,13 +179,14 @@ Individual Membership Directors represent individual members of the foundation. 
 [williamkapke]:     https://github.com/williamkapke
 [nebrius]:          https://github.com/nebrius
 
+
 [nodejs/badges]:                 https://github.com/nodejs/badges
 [nodejs/i18n]:                   https://github.com/nodejs/i18n
 [nodejs/mentorship]:             https://github.com/nodejs/mentorship
 [nodejs/nodejs-collection]:      https://github.com/nodejs/nodejs-collection
 [nodejs/outreach]:               https://github.com/nodejs/outreach
 [nodejs/user-feedback]:          https://github.com/nodejs/user-feedback
-[nodejs/website-redesign]:       https://github.com/nodejs/website-redesign
+[nodejs/nodejs.dev]:             https://github.com/nodejs/nodejs.dev
 [nodejs/education]:              https://github.com/nodejs/education
 [nodejs/evangelism]:             https://github.com/nodejs/evangelism
 [nodejs/community-events]:       https://github.com/nodejs/community-events
