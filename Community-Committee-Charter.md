@@ -62,12 +62,11 @@ For election of persons (CommComm Chairperson, Advisors, etc.) a multiple-candid
 
 Multiple-candidate methods may be reduced to simple election by plurality when there are only two candidates for one position to be filled. No election is required if there is only one candidate and no objections to the candidate's election. Nominations for organizations that should be represented on the Community Committee will take place in the GitHub repository. A representative for these organizations shall be selected within the organizations by those active in it.
 
-The CommComm will elect from amongst voting CommComm members a CommComm Chairperson to work on building an agenda for CommComm meetings. The CommComm shall hold annual elections to select a CommComm Chairperson; there are no limits on the number of terms a CommComm Chairperson may serve. The same person may not hold both positions at the same time.
-
 The CommComm will elect from amongst voting CommComm members:
   - a CommComm Chairperson, responsible for preparing agendas and coordinating CommComm meetings
-
-Each person shall serve a one year term, and may serve for more than one term.
+  - a OpenJS Foundation Cross Project Council (CPC) voting member to represent the CommComm in the OpenJS Foundation
+  
+The CommComm shall hold annual elections to select a CommComm Chairperson and an OpenJS Foundation CPC voting member to represent the CommComm; there are no limits on the number of terms a CommComm Chairperson or OpenJS Foundation CPC voting member to represent the CommComm may serve. The same person may not hold both positions at the same time. Each person shall serve a one year term, and may serve for more than one term.
 
 ## Section 7. Voting
 
