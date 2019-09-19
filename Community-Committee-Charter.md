@@ -10,13 +10,9 @@ Most large, complex open source communities have both a business and a technical
 
 This Community Committee Charter reflects a formal role and the relevance of the voice of community for the Node.js project to the CPC and within the OpenJS Foundation. The charter amendment process is for the CommComm to propose changes using simple majority of the full CommComm, the proposed changes being subject to review and approval the CPC. The Board may additionally make amendments to the CommComm charter at any time, though the Board will not interfere with day-to-day discussions, votes or meetings of the CommComm.
 
-## Section 3. Board’s Role in Setting Node.js Foundation’s Strategic Direction.
+## Section 3. Establishment of the Community Committee.
 
-The Board will set the overall CommComm Policy. The policy will describe the overarching scope of the Node.js Foundation initiative, Node.js Foundation’s community vision, direction and expectations in the form of intent. The Board will use the CommComm as a delegate body for community representation, advisement, and overseeing cultural project implementation, scope and direction while they remain within the scope and direction of the policies as described in the CommComm Policy document and approved by the Board.
-
-## Section 4. Establishment of the Community Committee.
-
-Membership is for 6 months. The group will ask on a regular basis if the expiring members would like to stay on. A member just needs to reply to renew. There is no fixed size of the CommComm. However, the expected target for Advisors, as defined in Section 10, is between 9 and 12, to ensure adequate coverage of important areas of community expertise, balanced with the ability to make decisions efficiently.
+Membership is for 6 months. The group will ask on a regular basis if the expiring members would like to stay on. A member just needs to reply to renew. There is no fixed size of the CommComm. However, the expected target for Advisors, as defined in Section 9, is between 9 and 12, to ensure adequate coverage of important areas of community expertise, balanced with the ability to make decisions efficiently.
 
 There is no specific set of requirements or qualifications for CommComm membership beyond these rules. The CommComm may add additional members to the CommComm by a standard CommComm motion and vote. A CommComm member may be removed from the CommComm by voluntary resignation, or by a standard CommComm motion.
 
@@ -34,7 +30,7 @@ CommComm members are expected to regularly participate in CommComm activities.
 
 In the case where an individual CommComm member -- within any three month period -- attends fewer than 25% of the regularly scheduled meetings, does not participate in CommComm discussions, and does not participate in CommComm votes, the member shall be automatically removed from the CommComm. The member may be invited to continue attending CommComm meetings as a Guest.
 
-## Section 5. Responsibilities of the CommComm.
+## Section 4. Responsibilities of the CommComm.
 
 Subject to such policies as may be set by the Board, the CommComm is responsible for all cultural development and outreach within the Node.js Foundation, including:
 
@@ -47,7 +43,7 @@ Subject to such policies as may be set by the Board, the CommComm is responsible
 - Mediating cultural conflicts between the Node.js project and/or community projects
 - Facilitation with external open source projects, select consortiums and other outside groups
 
-## Section 6. Node.js Foundation Operations.
+## Section 5. Node.js Foundation Operations.
 
 The CommComm will establish and maintain a process of support for Node.js community projects. The process will establish guidelines for how culture and values of the community can be supported.
 
@@ -55,7 +51,7 @@ The CommComm is responsible for vetting organizations that will be supported thr
 
 The CommComm and entire technical community will follow any processes as may be specified by the Board relating to the intake and license compliance review of contributions, including the OpenJS Foundation's IP Policy.
 
-## Section 7. Elections
+## Section 6. Elections
 
 Leadership roles in the CommComm will be peer elected representatives of the community organizations.
 
@@ -73,7 +69,7 @@ The CommComm will elect from amongst voting CommComm members:
 
 Each person shall serve a one year term, and may serve for more than one term.
 
-## Section 8. Voting
+## Section 7. Voting
 
 For internal project decisions, Collaborators shall operate under Lazy Consensus. The CommComm shall establish appropriate guidelines for implementing Lazy Consensus (e.g. expected notification and review time periods) within the development process.
 
@@ -81,7 +77,7 @@ The CommComm follows a Consensus Seeking decision making model. When an agenda i
 
 If an agenda item cannot reach a consensus a CommComm member can call for either a closing vote or a vote to table the issue to the next meeting. The call for a vote must be seconded by a majority of the CommComm or else the discussion will continue. Simple majority wins.
 
-## Section 9. Roles
+## Section 8. Roles
 
 OpenJS Foundation git repositories for Community Committee Initiatives are maintained by the CommComm and additional Collaborators who are added by the CommComm on an ongoing basis.
 
@@ -89,7 +85,7 @@ Individuals making significant and valuable contributions, “Contributor(s)”,
 
 Collaborators may opt to elevate significant or controversial modifications, or modifications that have not found consensus to the CommComm for discussion by assigning the `cc-agenda` tag to a pull request or issue. The CommComm should serve as the final arbiter where required. The CommComm will maintain and publish a list of current Collaborators by Project, as well as a development process guide for Collaborators and Contributors looking to participate in the development effort.
 
-## Section 10. Definitions
+## Section 9. Definitions
 
 - Contributors: contribute code or other artifacts, but do not have the right to commit to the code base. Contributors work with the Project’s Collaborators to have code committed to the code base. A Contributor may be promoted to a Collaborator by the projects’ Maintainer or the CommComm. Contributors should rarely be encumbered by the CommComm and never by the Board.
 - Project: a collaboration effort, e.g. a subsystem, that is organized through the project creation process and approved by the CommComm.
