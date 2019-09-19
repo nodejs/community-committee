@@ -66,7 +66,7 @@ and have the support needed.
 ### Current Initiatives
 
 | Initiative             | Champion(s)                    | CommComm Liason |  Link                           |
-|------------------------|--------------------------------|---------------------------------------------------|
+|------------------------|--------------------------------|-----------------|---------------------------------|
 | i18n                   | [obensource]                   |                 | [nodejs/i18n]                   |
 | Mentorship             | [Bamieh]                       |                 | [nodejs/mentorship]             |
 | Social Media Delegates | [bnb]                          |                 | [nodejs/social-media-delegates] |
