@@ -65,16 +65,16 @@ and have the support needed.
 
 ### Current Initiatives
 
-| Initiative             | Champion(s)                    | CommComm Liason |  Link                           |
-|------------------------|--------------------------------|---------------------------------------------------|
-| i18n                   | [obensource]                   |                 | [nodejs/i18n]                   |
-| Mentorship             | [Bamieh]                       |                 | [nodejs/mentorship]             |
-| Social Media Delegates | [bnb]                          |                 | [nodejs/social-media-delegates] |
-| Node.js Collection     | [waleedashraf]                 |                 | [nodejs/nodejs-collection]      |
-| Outreach               | [AhmadAwais]                   |                 | [nodejs/outreach]               |
-| User Feedback          | [dshaw]                        |                 | [nodejs/user-feedback]          |
-| Website Redesign       | [amiller-gh] and [keywordnew]  |                 | [nodejs/nodejs.dev]             |
-| Enterprise Usr Feeback | Ahmad Nassri                   | [mhdawson]      | [nodejs/user-feedback]          |
+|       Initiative       |          Champion(s)          | CommComm Liason |              Link               |
+| ---------------------- | ----------------------------- | --------------- | ------------------------------- |
+| i18n                   | [obensource]                  |                 | [nodejs/i18n]                   |
+| Mentorship             | [Bamieh]                      |                 | [nodejs/mentorship]             |
+| Social Media Delegates | [bnb]                         |                 | [nodejs/social-media-delegates] |
+| Node.js Collection     | [waleedashraf]                |                 | [nodejs/nodejs-collection]      |
+| Outreach               | [AhmadAwais]                  |                 | [nodejs/outreach]               |
+| User Feedback          | [dshaw]                       |                 | [nodejs/user-feedback]          |
+| Website Redesign       | [amiller-gh] and [keywordnew] |                 | [nodejs/nodejs.dev]             |
+| Enterprise Usr Feeback | Ahmad Nassri                  | [mhdawson]      | [nodejs/user-feedback]          |
 
 ### In Need of Champion
 
