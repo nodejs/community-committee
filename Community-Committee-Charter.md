@@ -32,7 +32,7 @@ In the case where an individual CommComm member -- within any three month period
 
 ## Section 4. Responsibilities of the CommComm.
 
-Subject to such policies as may be set by the Board, the CommComm is responsible for all cultural development and outreach within the Node.js Foundation, including:
+Subject to such policies as may be set by the Board, the CommComm is responsible for all cultural development and outreach within the Node.js Project, including:
 
 - Outreach to community organizations
 - Documentation of community organizations
