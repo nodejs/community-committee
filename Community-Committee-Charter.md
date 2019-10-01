@@ -43,7 +43,7 @@ Subject to such policies as may be set by the Board, the CommComm is responsible
 - Mediating cultural conflicts between the Node.js project and/or community projects
 - Facilitation with external open source projects, select consortiums and other outside groups
 
-## Section 5. Node.js Foundation Operations.
+## Section 5. Node.js Project Operations.
 
 The CommComm will establish and maintain a process of support for Node.js community projects. The process will establish guidelines for how culture and values of the community can be supported.
 
