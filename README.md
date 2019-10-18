@@ -117,7 +117,6 @@ The Community Committee is an autonomous committee that collaborates alongside t
 ### Community Committee Members
 * [amiller-gh] - **Adam Miller** &lt;adam@mobilize.app&gt;
 * [AhmadAwais] – **Ahmad Awais** &lt;me@AhmadAwais.com&gt;
-* [bamieh] - **Ahmad Bamieh** &lt;ahmadbamieh@gmail.com&gt;
 * [bnb] - **Tierney Cyren** &lt;hello@bnb.im&gt; **Community Committee Chair**
 * [keywordnew] - **Manil Chowdhury** &lt;manil.chowdhury@gmail.com&gt;
 * [codeekage] - **Agiri Abraham Jr.** &lt;agiriabrahamjunior@nodejs.africa&gt;
@@ -147,6 +146,7 @@ Individual Membership Directors represent individual members of the foundation. 
 * [JemBijoux] - **Jem Bezooyen** &lt;jem@hipmedia.ca&gt; **Community Committee Secretary**
 * [Tiriel] - **Benjamin Zaslavsky** &lt;benjamin.zaslavsky@gmail.com&gt;
 * [nebrius] - **Bryan Hughes** &lt;bryan@nebri.us&gt; **Community Committee Chairperson**
+* [bamieh] - **Ahmad Bamieh** &lt;ahmadbamieh@gmail.com&gt;
 
 <!-- Source for Markdown links included in this document -->
 [CommComm]:                    https://github.com/nodejs/community-committee
