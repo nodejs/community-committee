@@ -64,7 +64,7 @@ Multiple-candidate methods may be reduced to simple election by plurality when t
 
 The CommComm will elect from amongst voting CommComm members:
   - a CommComm Chairperson, responsible for preparing agendas and coordinating CommComm meetings
-  - a OpenJS Foundation Cross Project Council (CPC) voting member to represent the CommComm in the OpenJS Foundation
+  - an OpenJS Foundation Cross Project Council (CPC) voting member to represent the CommComm in the OpenJS Foundation
   
 The CommComm shall hold annual elections to select a CommComm Chairperson and an OpenJS Foundation CPC voting member to represent the CommComm; there are no limits on the number of terms a CommComm Chairperson or OpenJS Foundation CPC voting member to represent the CommComm may serve. The same person may not hold both positions at the same time. Each person shall serve a one year term, and may serve for more than one term.
 
