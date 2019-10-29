@@ -78,7 +78,7 @@ If an agenda item cannot reach a consensus a CommComm member can call for either
 
 ## Section 8. Roles
 
-OpenJS Foundation git repositories for Community Committee Initiatives are maintained by the CommComm and additional Collaborators who are added by the CommComm on an ongoing basis.
+The Node.js git repositories for the Community Committee and its initiatives are maintained by the CommComm and additional Collaborators who are added by the CommComm on an ongoing basis.
 
 Individuals making significant and valuable contributions, “Contributor(s)”, are made Collaborators and given commit-access to the project. These individuals are identified by the CommComm and their addition as Collaborators is discussed during the weekly CommComm meeting. Modifications of the contents of the git repository are made on a collaborative basis as defined in the development process.
 
