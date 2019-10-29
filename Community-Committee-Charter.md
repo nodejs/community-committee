@@ -24,7 +24,7 @@ The CommComm members shall consist of active members of Community Projects.
 
 The CommComm may, at its discretion, invite any number of non-voting Guests to participate in the public portion of CommComm discussions and meetings.
 
-The CommComm shall meet regularly using tools that enable participation by the community (e.g. weekly on a Google Hangout On Air, or through any other appropriate means selected by the CommComm). Minutes or an appropriate recording shall be taken and made available to the community through accessible public postings.
+The CommComm shall meet regularly using tools that enable participation by the community (through any appropriate means selected by the CommComm). Minutes or an appropriate recording shall be taken and made available to the community through accessible public postings.
 
 CommComm members are expected to regularly participate in CommComm activities.
 
