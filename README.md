@@ -125,12 +125,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [mhdawson] - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt;
 * [obensource] - **Ben Michel** &lt;benpmichel@gmail.com&gt;
 * [waleedashraf] - **Waleed Ashraf** &lt;waleedashrafhere@gmail.com&gt;
-* [williamkapke] - **William Kapke** &lt;will@kap.co&gt;
 
-### Individual Membership Directors
-Individual Membership Directors represent individual members of the foundation. They represent both the Individual Membership and Community Committee on the Node.js Board of Directors.
-
-* [williamkapke] - **William Kapke** &lt;will@kap.co&gt;
 
 ### Community Committee Emeriti
 * [ashleygwilliams] - **Ashley Williams** &lt;ashley666ashley@gmail.com&gt;
@@ -147,6 +142,7 @@ Individual Membership Directors represent individual members of the foundation. 
 * [nebrius] - **Bryan Hughes** &lt;bryan@nebri.us&gt; **Community Committee Chairperson**
 * [hackygolucky] - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
 * [bamieh] - **Ahmad Bamieh** &lt;ahmadbamieh@gmail.com&gt;
+* [williamkapke] - **William Kapke** &lt;will@kap.co&gt;
 
 <!-- Source for Markdown links included in this document -->
 [CommComm]:                    https://github.com/nodejs/community-committee
