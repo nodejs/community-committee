@@ -72,7 +72,6 @@ and have the support needed.
 | Social Media Delegates  | [bnb]                         |                 | [nodejs/social-media-delegates] |
 | Node.js Collection      | [waleedashraf]                |                 | [nodejs/nodejs-collection]      |
 | Outreach                | [AhmadAwais]                  |                 | [nodejs/outreach]               |
-| User Feedback           | [dshaw]                       |                 | [nodejs/user-feedback]          |
 | Website Redesign        | [amiller-gh] and [keywordnew] |                 | [nodejs/nodejs.dev]             |
 | Enterprise User Feeback | Ahmad Nassri                  | [mhdawson]      | [nodejs/user-feedback]          |
 
