@@ -30,7 +30,7 @@ If you're interested in participating in the Community Committee directly, you'r
 
 ## Meetings
 
-Community Committee meetings are broadcast via Zoom. The join link is published in the meeting's respective ssue. Meeting times are coordinated to optimize for contributor timezones.
+Community Committee meetings are broadcast via Zoom. The join link is published in the meeting's respective issue. Meeting times are coordinated to optimize for contributor timezones.
 
 Current meeting cadence is every other week on Thursdays.  Please check the [Node.js Project calendar](https://nodejs.org/calendar) for next scheduled meeting.  Also, the [issues](https://github.com/nodejs/community-committee/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+%22Node.js+Foundation+Community+Committee+Meeting%22) section of this repo will include a CommComm meeting issue, some time before it begins.
 
