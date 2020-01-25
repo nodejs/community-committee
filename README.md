@@ -114,7 +114,6 @@ In an effort to be more concise and distribute our knowledge, we use labels on i
 The Community Committee is an autonomous committee that collaborates alongside the [TSC] and whose governance is strongly influenced by the [TSC]'s example. See [GOVERNANCE.md](./GOVERNANCE.md) to learn more about the group's evolving structure and [CONTRIBUTING.md](./CONTRIBUTING.md) for guidance about the expectations for all contributors to this project.
 
 ### Community Committee Members
-* [amiller-gh] - **Adam Miller** &lt;adam@mobilize.app&gt;
 * [AhmadAwais] – **Ahmad Awais** &lt;me@AhmadAwais.com&gt;
 * [bnb] - **Tierney Cyren** &lt;hello@bnb.im&gt; **Community Committee Chair**
 * [keywordnew] - **Manil Chowdhury** &lt;manil.chowdhury@gmail.com&gt;
@@ -142,6 +141,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [hackygolucky] - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
 * [bamieh] - **Ahmad Bamieh** &lt;ahmadbamieh@gmail.com&gt;
 * [williamkapke] - **William Kapke** &lt;will@kap.co&gt;
+* [amiller-gh] - **Adam Miller** &lt;adam@mobilize.app&gt;
 
 <!-- Source for Markdown links included in this document -->
 [CommComm]:                    https://github.com/nodejs/community-committee
