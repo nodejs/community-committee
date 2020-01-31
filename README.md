@@ -96,7 +96,7 @@ and have the support needed.
 | Community Events          | Patrick Heneise| [nodejs/community-events]|Repository Archived                               |
 | Badges                    | [amiller-gh]   | [nodejs/badges]     | On pause until design is refined in website-redesign  |
 | Open-source Friday        | ?              | https://github.com/nodejs/community-committee/issues/180 | No clear project |
-| User Feedback             | [joesepi]      | [nodejs/user-feedback]| [Moved to OpenJS](openjsf/user-feedback)            |
+| User Feedback             | [dshaw]        | [nodejs/user-feedback]| [Moved to OpenJS](https://github.com/openjsf/user-feedback)|
 
 
 ## Labels for Issues and PRs
