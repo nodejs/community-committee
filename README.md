@@ -54,6 +54,7 @@ A review of the initiatives will be a standing item on the Community Committee a
 | Mentorship              | [Bamieh]                      |                 | [nodejs/mentorship]             |
 | Social Media Delegates  | [bnb]                         |                 | [nodejs/social-media-delegates] |
 | Node.js Collection      | [waleedashraf]                |                 | [nodejs/nodejs-collection]      |
+| Examples                | [bnb]                         |                 | 
 | Outreach                | [AhmadAwais]                  |                 | [nodejs/outreach]               |
 | Website Redesign        | [amiller-gh] and [keywordnew] |                 | [nodejs/nodejs.dev]             |
 | Enterprise User Feeback | Ahmad Nassri                  | [mhdawson]      | [nodejs/user-feedback]          |
@@ -169,3 +170,4 @@ The Community Committee is an autonomous committee that collaborates alongside t
 [nodejs/evangelism]:             https://github.com/nodejs/evangelism
 [nodejs/community-events]:       https://github.com/nodejs/community-events
 [nodejs/social-media-delegates]: https://github.com/nodejs/social-media-delegates
+[nodejs/examples]:               https://github.com/nodejs/examples
