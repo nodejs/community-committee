@@ -69,7 +69,7 @@ A review of the initiatives will be a standing item on the Community Committee a
 | How I Got Into Node       | ?                 | https://github.com/nodejs/community-committee/issues/138   |
 | Node.js People Everywhere | ?                 | https://github.com/nodejs/community-committee/issues/184   |
 | This week in Core         | ?                 | https://github.com/nodejs/community-committee/issues/148   |
-| User Feedback             |                   | [nodejs/user-feedback]                                     |
+
 
 # Completed / Retired
 
@@ -80,6 +80,7 @@ A review of the initiatives will be a standing item on the Community Committee a
 | Community Events          | Patrick Heneise| [nodejs/community-events]|Repository Archived                               |
 | Badges                    | [amiller-gh]   | [nodejs/badges]     | On pause until design is refined in website-redesign  |
 | Open-source Friday        | ?              | https://github.com/nodejs/community-committee/issues/180 | No clear project |
+| User Feedback             | [dshaw]        | [nodejs/user-feedback]| [Moved to OpenJS](https://github.com/openjs-foundation/user-feedback)|
 
 
 ## Labels for Issues and PRs
