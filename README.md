@@ -28,14 +28,6 @@ To **get started** with contributing, you should read the [Contributing Guidelin
 
 If you're interested in participating in the Community Committee directly, you're more than welcome to join via the Zoom link posted in our bi-weekly meeting issues.
 
-## Meetings
-
-Community Committee meetings are broadcast via Zoom. The join link is published in the meeting's respective issue. Meeting times are coordinated to optimize for contributor timezones.
-
-Current meeting cadence is every other week on Thursdays.  Please check the [Node.js Project calendar](https://nodejs.org/calendar) for next scheduled meeting.  Also, the [issues](https://github.com/nodejs/community-committee/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+%22Node.js+Foundation+Community+Committee+Meeting%22) section of this repo will include a CommComm meeting issue, some time before it begins.
-
-We stream our conference call straight to YouTube so anyone can listen to it live, it should start playing at https://www.youtube.com/c/nodejs+foundation/live when we turn it on. There's usually a short cat-herding time at the start of the meeting and then occasionally we have some quick private business to attend to before we can start recording and streaming. Please be patient, and it should show up.
-
 ## Strategic Initiatives
 
 Initiatives are projects that the Community Committee and the broader community members are collaborating on to enable Node.js across the ecosystem.
@@ -82,17 +74,13 @@ A review of the initiatives will be a standing item on the Community Committee a
 | Open-source Friday        | ?              | https://github.com/nodejs/community-committee/issues/180 | No clear project |
 | User Feedback             | [dshaw]        | [nodejs/user-feedback]| [Moved to OpenJS](https://github.com/openjs-foundation/user-feedback)|
 
+## Meetings
 
-## Labels for Issues and PRs
+Community Committee meetings are broadcast via Zoom. The join link is published in the meeting's respective issue. Meeting times are coordinated to optimize for contributor timezones.
 
-In an effort to be more concise and distribute our knowledge, we do our best to use labels on issues to give context on their status. Here's a guide to how we use labels:
+Current meeting cadence is every other week on Thursdays.  Please check the [Node.js Project calendar](https://nodejs.org/calendar) for next scheduled meeting.  Also, the [issues](https://github.com/nodejs/community-committee/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+%22Node.js+Foundation+Community+Committee+Meeting%22) section of this repo will include a CommComm meeting issue, some time before it begins.
 
-- `initiative-` prefix: Belonging to or about an initiative that follows the prefix.
-- `waiting-on-` prefix: This indicates that we're waiting on a group for input/feedback.
-- `type-` prefix: Denotes what kind of discussion is happening – a request, an open discussion, a problem, etc.
-- `-agenda` suffix: Denotes that an issue will be included in the agenda of the initiative or WG pririor to the suffix.
-- `good-first-issue`: Issues that are a good place to start contributing to the Node.js Community Committee
-- `mentor-available`: Issues that have a mentor available to help out
+We stream our conference call straight to YouTube so anyone can listen to it live, it should start playing at https://www.youtube.com/c/nodejs+foundation/live when we turn it on. There's usually a short cat-herding time at the start of the meeting and then occasionally we have some quick private business to attend to before we can start recording and streaming. Please be patient, and it should show up.
 
 ## Governance and Current Members
 
