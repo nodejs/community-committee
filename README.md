@@ -1,6 +1,6 @@
 # Community Committee
 
-The Community Committee is a top-level committee in the Node.js Project focused on community-facing efforts.
+The Community Committee is a top-level committee in the Node.js Project focused on community-facing efforts. For current objectives, read [our OKR].
 
 For more details read the [Community Committee Charter].
 
@@ -48,16 +48,16 @@ A review of the initiatives will be a standing item on the Community Committee a
 
 ### Current Initiatives
 
-|       Initiative        |          Champion(s)          | CommComm Liason |              Link               |
-| ----------------------- | ----------------------------- | --------------- | ------------------------------- |
-| i18n                    | [obensource]                  |                 | [nodejs/i18n]                   |
-| Mentorship              | [Bamieh]                      |                 | [nodejs/mentorship]             |
-| Social Media Delegates  | [bnb]                         |                 | [nodejs/social-media-delegates] |
-| Node.js Collection      | [waleedashraf]                |                 | [nodejs/nodejs-collection]      |
-| Examples                | [bnb]                         |                 | 
-| Outreach                | [AhmadAwais]                  |                 | [nodejs/outreach]               |
-| Website Redesign        | [amiller-gh] and [keywordnew] |                 | [nodejs/nodejs.dev]             |
-| Enterprise User Feeback | Ahmad Nassri                  | [mhdawson]      | [nodejs/user-feedback]          |
+|       Initiative        |          Champion(s)          | CommComm Liason |              Link               | OKR |
+| ----------------------- | ----------------------------- | --------------- | ------------------------------- | - |
+| i18n                    | [obensource]                  |                 | [nodejs/i18n]                   | |
+| Mentorship              | [Bamieh]                      |                 | [nodejs/mentorship]             | |
+| Social Media Delegates  | [bnb]                         |                 | [nodejs/social-media-delegates] | |
+| Node.js Collection      | [waleedashraf]                |                 | [nodejs/nodejs-collection]      | |
+| Examples                | [bnb]                         |                 |                                 | |
+| Outreach                | [AhmadAwais]                  |                 | [nodejs/outreach]               | |
+| Website Redesign        | [amiller-gh] and [keywordnew] |                 | [nodejs/nodejs.dev]             | [website-redesign objectives] |
+| Enterprise User Feeback | Ahmad Nassri                  | [mhdawson]      | [nodejs/user-feedback]          | |
 
 ### In Need of Champion
 
@@ -132,6 +132,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 [CommComm]:                    https://github.com/nodejs/community-committee
 [Community Committee Charter]: https://github.com/nodejs/community-committee/blob/master/Community-Committee-Charter.md
 [TSC]:                         https://github.com/nodejs/TSC
+[our OKR]:                     https://github.com/nodejs/community-committee/blob/master/OKR.md
 
 [amiller-gh]:       https://github.com/amiller-gh
 [amorelandra]:      https://github.com/Amorelandra
@@ -172,3 +173,5 @@ The Community Committee is an autonomous committee that collaborates alongside t
 [nodejs/community-events]:       https://github.com/nodejs/community-events
 [nodejs/social-media-delegates]: https://github.com/nodejs/social-media-delegates
 [nodejs/examples]:               https://github.com/nodejs/examples
+
+[website-redesign objectives]:   https://github.com/nodejs/nodejs.dev/blob/master/OKR.md
