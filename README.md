@@ -56,7 +56,7 @@ A review of the initiatives will be a standing item on the Community Committee a
 | Node.js Collection      | [waleedashraf]                |                 | [nodejs/nodejs-collection]      | |
 | Examples                | [bnb]                         |                 |                                 | |
 | Outreach                | [AhmadAwais]                  |                 | [nodejs/outreach]               | |
-| Website Redesign        | [amiller-gh] and [keywordnew] |                 | [nodejs/nodejs.dev]             | [website-redesign objectives] |
+| Website Redesign        | [amiller-gh] and [keywordnew] |                 | [nodejs/nodejs.dev]             | [website-redesign OKR] |
 | Enterprise User Feeback | Ahmad Nassri                  | [mhdawson]      | [nodejs/user-feedback]          | |
 
 ### In Need of Champion
