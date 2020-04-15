@@ -80,7 +80,7 @@ A review of the initiatives will be a standing item on the Community Committee a
 | Badges                    | [amiller-gh]   | [nodejs/badges]     | On pause until design is refined in website-redesign  |
 | Open-source Friday        | ?              | https://github.com/nodejs/community-committee/issues/180 | No clear project |
 | User Feedback             | [dshaw]        | [nodejs/user-feedback]| [Moved to OpenJS](https://github.com/openjs-foundation/user-feedback)|
-| Enterprise User Feedback  | [AhmadNassri]  | [mhdawson]          | [nodejs/user-feedback]                                |
+| Enterprise User Feedback  | [AhmadNassri]  | [nodejs/user-feedback]| Repository archived                                 |
 
 
 ## Labels for Issues and PRs
