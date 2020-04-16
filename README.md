@@ -57,7 +57,6 @@ A review of the initiatives will be a standing item on the Community Committee a
 | Examples                | [bnb]                         |                 |                                 | |
 | Outreach                | [AhmadAwais]                  |                 | [nodejs/outreach]               | |
 | Website Redesign        | [amiller-gh] and [keywordnew] |                 | [nodejs/nodejs.dev]             | [website-redesign OKR] |
-| Enterprise User Feeback | Ahmad Nassri                  | [mhdawson]      | [nodejs/user-feedback]          | |
 
 ### In Need of Champion
 
@@ -81,6 +80,7 @@ A review of the initiatives will be a standing item on the Community Committee a
 | Badges                    | [amiller-gh]   | [nodejs/badges]     | On pause until design is refined in website-redesign  |
 | Open-source Friday        | ?              | https://github.com/nodejs/community-committee/issues/180 | No clear project |
 | User Feedback             | [dshaw]        | [nodejs/user-feedback]| [Moved to OpenJS](https://github.com/openjs-foundation/user-feedback)|
+| Enterprise User Feedback  | [AhmadNassri]  | [nodejs/user-feedback]| Repository archived                                 |
 
 
 ## Labels for Issues and PRs
@@ -137,6 +137,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 [amiller-gh]:       https://github.com/amiller-gh
 [amorelandra]:      https://github.com/Amorelandra
 [AhmadAwais]:       https://github.com/AhmadAwais
+[AhmadNassri]:      https://github.com/AhmadNassri
 [ashleygwilliams]:  https://github.com/ashleygwilliams
 [bamieh]:           https://github.com/bamieh
 [bnb]:              https://github.com/bnb
