@@ -48,7 +48,7 @@ A review of the initiatives will be a standing item on the Community Committee a
 | Node.js Collection      | [waleedashraf]                |                 | [nodejs/nodejs-collection]      | |
 | Examples                | [bnb]                         |                 | [nodejs/examples]               | |
 | Outreach                | [AhmadAwais]                  |                 | [nodejs/outreach]               | |
-| Website Redesign        | [amiller-gh] and [keywordnew] |                 | [nodejs/nodejs.dev]             | [website-redesign OKR] |
+| Website Redesign        | [amiller-gh] and [keywordnew] |                 | [nodejs/nodejs.dev]             | [nodejs.dev/objectives-key-results] |
 
 ### In Need of Champion
 
@@ -163,4 +163,4 @@ The Community Committee is an autonomous committee that collaborates alongside t
 [nodejs/social-media-delegates]: https://github.com/nodejs/social-media-delegates
 [nodejs/examples]:               https://github.com/nodejs/examples
 
-[website-redesign objectives]:   https://github.com/nodejs/nodejs.dev/blob/master/OKR.md
+[nodejs.dev/objectives-key-results]:   https://github.com/nodejs/nodejs.dev/blob/master/OKR.md
