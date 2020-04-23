@@ -62,7 +62,7 @@ A review of the initiatives will be a standing item on the Community Committee a
 | This week in Core         | ?                 | https://github.com/nodejs/community-committee/issues/148   |
 
 
-# Completed / Retired
+### Completed / Retired
 
 | Initiative                | Champion       | Links               | Notes                                                 |
 |---------------------------|----------------|---------------------|-------------------------------------------------------|
