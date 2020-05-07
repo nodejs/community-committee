@@ -1,6 +1,6 @@
 # Community Committee
 
-The Community Committee is a top-level committee in the Node.js Project focused on community-facing efforts. For current objectives, read [our OKR].
+The Community Committee is a top-level committee in the Node.js Project focused on community-facing efforts. For current objectives, read [our OKRs].
 
 For more details read the [Community Committee Charter].
 
@@ -20,13 +20,13 @@ The Community Committee is tasked with growing and sustaining the Node.js Commun
 Before you get started, here's a broad outline of the Community Committee's governance structure:
 
 - **Community Committee:** meta-level admin concerns, cross-cutting with other groups like the Node.js TSC, OpenJS Foundation CPC, and Working Groups
-  - **Initiatives:** focused on specific tasks, independent from the Community Committee but sharing what they're doing in Community Committee bi-weekly meetings.
+  - **Initiatives:** focused on specific tasks, independent from the Community Committee but sharing what they're doing in the Community Committee's [bi-weekly meetings][meeting-search].
 
-As seen here, most of the community work that immediately affects the project is done within the numerous **initiatives**. We recommend checking the [list of initiatives](#strategic-initiatives) below and getting involved with one that you find interesting! If nothing suits your fancy and you have concrete ideas, open an issue here! We can help to point you in the right direction.
+As seen here, most of the community work that immediately affects the project is done within the numerous **initiatives**. We recommend checking the [list of initiatives](#strategic-initiatives) below and getting involved with one that you find interesting! If nothing is particularly interesting to you and you have concrete ideas, [open an issue][open-an-issue] here! We can help to point you in the right direction.
 
 To **get started** with contributing, you should read the [Contributing Guidelines](./CONTRIBUTING.md) document. This document details the roles you can take on. It also includes a guide to contributing and links to `good first issue`s where we're looking for help.
 
-If you're interested in participating in the Community Committee directly, you're more than welcome to join via the Zoom link posted in our bi-weekly meeting issues.
+If you're interested in participating in the Community Committee directly, you're more than welcome to join via the Zoom link posted in our [bi-weekly meeting][meeting-search] issues.
 
 ## Strategic Initiatives
 
@@ -40,14 +40,13 @@ A review of the initiatives will be a standing item on the Community Committee a
 
 ### Current Initiatives
 
-|       Initiative        |          Champion(s)          | CommComm Liason |              Link               | OKR |
-| ----------------------- | ----------------------------- | --------------- | ------------------------------- | - |
-| i18n                    | [obensource]                  |                 | [nodejs/i18n]                   | |
-| Mentorship              | [Bamieh]                      |                 | [nodejs/mentorship]             | |
-| Social Media Delegates  | [bnb]                         |                 | [nodejs/social-media-delegates] | |
-| Node.js Collection      | [waleedashraf]                |                 | [nodejs/nodejs-collection]      | |
-| Examples                | [bnb]                         |                 | [nodejs/examples]               | |
-| Outreach                | [AhmadAwais]                  |                 | [nodejs/outreach]               | |
+|       Initiative        |          Champion(s)          | CommComm Liason |              Link               |                 OKR                 |
+| ----------------------- | ----------------------------- | --------------- | ------------------------------- | ----------------------------------- |
+| i18n                    | [obensource]                  |                 | [nodejs/i18n]                   |                                     |
+| Mentorship              | [Bamieh]                      |                 | [nodejs/mentorship]             |                                     |
+| Node.js Collection      | [waleedashraf]                |                 | [nodejs/nodejs-collection]      |                                     |
+| Examples                | [bnb]                         |                 | [nodejs/examples]               |                                     |
+| Outreach                | [AhmadAwais]                  |                 | [nodejs/outreach]               |                                     |
 | Website Redesign        | [keywordnew]                  |                 | [nodejs/nodejs.dev]             | [nodejs.dev/objectives-key-results] |
 
 ### In Need of Champion
@@ -64,23 +63,24 @@ A review of the initiatives will be a standing item on the Community Committee a
 
 ### Completed / Retired
 
-| Initiative                | Champion       | Links               | Notes                                                 |
-|---------------------------|----------------|---------------------|-------------------------------------------------------|
-| Education                 | [hackygolucky] | [nodejs/education]  | Absorbed by the Website Redesign Initiative           |
-| Evangelism WG             | [bnb]          | [nodejs/evangelism] | Responsibilities absorbed by CommComm                 |
-| Community Events          | Patrick Heneise| [nodejs/community-events]|Repository Archived                               |
-| Badges                    | [amiller-gh]   | [nodejs/badges]     | On pause until design is refined in website-redesign  |
-| Open-source Friday        | ?              | https://github.com/nodejs/community-committee/issues/180 | No clear project |
-| User Feedback             | [dshaw]        | [nodejs/user-feedback]| [Moved to OpenJS](https://github.com/openjs-foundation/user-feedback)|
-| Enterprise User Feedback  | [AhmadNassri]  | [nodejs/user-feedback]| Repository archived                                 |
+| Initiative                | Champion        | Links                           | Notes                                                 |
+|---------------------------|-----------------|---------------------------------|-------------------------------------------------------|
+| Badges                    | [amiller-gh]    | [nodejs/badges]                 | On pause until design is refined in website-redesign  |
+| Community Events          | Patrick Heneise | [nodejs/community-events]       | Repository Archived                                   |
+| Education                 | [hackygolucky]  | [nodejs/education]              | Absorbed by the Website Redesign Initiative           |
+| Enterprise User Feedback  | [AhmadNassri]   | [nodejs/user-feedback]          | Repository archived                                   |
+| Evangelism WG             | [bnb]           | [nodejs/evangelism]             | Responsibilities absorbed by CommComm                 |
+| Open-source Friday        | ?               | [#180][]                        | No clear project                                      |
+| Social Media Delegates    | [bnb]           | [nodejs/social-media-delegates] |                                                       |
+| User Feedback             | [dshaw]         | [nodejs/user-feedback]          | [Moved to OpenJS][openjs-foundation/user-feedback]    |
 
 ## Meetings
 
 Community Committee meetings are broadcast via Zoom. The join link is published in the meeting's respective issue. Meeting times are coordinated to optimize for contributor timezones.
 
-Current meeting cadence is every other week on Thursdays.  Please check the [Node.js Project calendar](https://nodejs.org/calendar) for next scheduled meeting.  Also, the [issues](https://github.com/nodejs/community-committee/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+%22Node.js+Foundation+Community+Committee+Meeting%22) section of this repo will include a CommComm meeting issue, some time before it begins.
+Current meeting cadence is every other week on Thursdays.  Please check the [Node.js Project calendar][calendar] for next scheduled meeting.  Also, the [issues][meeting-search] section of this repo will include a CommComm meeting issue, some time before it begins.
 
-We stream our conference call straight to YouTube so anyone can listen to it live, it should start playing at https://www.youtube.com/c/nodejs+foundation/live when we turn it on. There's usually a short cat-herding time at the start of the meeting and then occasionally we have some quick private business to attend to before we can start recording and streaming. Please be patient, and it should show up.
+We stream our conference call straight to YouTube so anyone can listen to it live, it should start playing on the [Node.js YouTube channel][youtube] when we turn it on. There's usually a short cat-herding time at the start of the meeting and then occasionally we have some quick private business to attend to before we can start recording and streaming. Please be patient, and it should show up.
 
 ## Governance and Current Members
 
@@ -120,8 +120,20 @@ The Community Committee is an autonomous committee that collaborates alongside t
 [CommComm]:                    https://github.com/nodejs/community-committee
 [Community Committee Charter]: https://github.com/nodejs/community-committee/blob/master/Community-Committee-Charter.md
 [TSC]:                         https://github.com/nodejs/TSC
-[our OKR]:                     https://github.com/nodejs/community-committee/blob/master/OKR.md
 
+<!-- useful repo links -->
+[our OKRs]:       https://github.com/nodejs/community-committee/blob/master/OKR.md
+[meeting-search]: https://github.com/nodejs/community-committee/issues?q=is%3Aissue+is%3Aopen+%22Node.js+Community+Committee+Meeting%22+
+[open-an-isse]:   https://github.com/nodejs/community-committee/issues/new
+[calendar]:       https://nodejs.org/calendar
+[youtube]:        https://www.youtube.com/c/nodejs+foundation/live
+
+
+<!-- random but necessary links-->
+[#180]:                              https://github.com/nodejs/community-committee/issues/180
+[openjs-foundation/user-feedback]:   https://github.com/openjs-foundation/user-feedback
+
+<!-- profiles of humans -->
 [amiller-gh]:       https://github.com/amiller-gh
 [amorelandra]:      https://github.com/Amorelandra
 [AhmadAwais]:       https://github.com/AhmadAwais
@@ -149,7 +161,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 [williamkapke]:     https://github.com/williamkapke
 [nebrius]:          https://github.com/nebrius
 
-
+<!-- repo links -->
 [nodejs/badges]:                 https://github.com/nodejs/badges
 [nodejs/i18n]:                   https://github.com/nodejs/i18n
 [nodejs/mentorship]:             https://github.com/nodejs/mentorship
@@ -163,4 +175,5 @@ The Community Committee is an autonomous committee that collaborates alongside t
 [nodejs/social-media-delegates]: https://github.com/nodejs/social-media-delegates
 [nodejs/examples]:               https://github.com/nodejs/examples
 
-[nodejs.dev/objectives-key-results]:   https://github.com/nodejs/nodejs.dev/blob/master/OKR.md
+<!-- initiative OKR links -->
+[nodejs.dev/objectives-key-results]: https://github.com/nodejs/nodejs.dev/blob/master/OKR.md
