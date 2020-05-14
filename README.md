@@ -84,7 +84,7 @@ We stream our conference call straight to YouTube so anyone can listen to it liv
 
 ## Governance and Current Members
 
-The Community Committee is an autonomous committee that collaborates alongside the [TSC] and whose governance was strongly influenced by the [TSC]'s example. See [GOVERNANCE.md](./GOVERNANCE.md) to learn more about the group's evolving structure and [CONTRIBUTING.md](./CONTRIBUTING.md) for guidance about the expectations for all contributors to this project.
+The Community Committee is an autonomous committee that collaborates alongside the [TSC] and whose governance was strongly influenced by the [TSC]'s example. See [governance documentation](./governance) to learn more about the group's evolving structure and [CONTRIBUTING.md](./CONTRIBUTING.md) for guidance about the expectations for all contributors to this project.
 
 ### Community Committee Members
 * [AhmadAwais] – **Ahmad Awais** &lt;me@AhmadAwais.com&gt;
