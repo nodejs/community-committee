@@ -43,7 +43,7 @@ A review of the initiatives will be a standing item on the Community Committee a
 |       Initiative        |          Champion(s)          | CommComm Liason |              Link               |                 OKR                 |
 | ----------------------- | ----------------------------- | --------------- | ------------------------------- | ----------------------------------- |
 | i18n                    | [obensource]                  |                 | [nodejs/i18n]                   |                                     |
-| Mentorship              | [Bamieh]                      |                 | [nodejs/mentorship]             |                                     |
+| Mentorship              | [DavidGuttman]                |                 | [nodejs/mentorship]             |                                     |
 | Node.js Collection      | [waleedashraf]                |                 | [nodejs/nodejs-collection]      |                                     |
 | Examples                | [bnb]                         |                 | [nodejs/examples]               |                                     |
 | Outreach                | [AhmadAwais]                  |                 | [nodejs/outreach]               |                                     |
@@ -143,6 +143,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 [bnb]:              https://github.com/bnb
 [keywordnew]:       https://github.com/keywordnew
 [codeekage]:        https://github.com/codeekage
+[DavidGuttman]:     https://github.com/davidguttman
 [dshaw]:            https://github.com/dshaw
 [gr2m]:             https://github.com/gr2m
 [hackygolucky]:     https://github.com/hackygolucky
