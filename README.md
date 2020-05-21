@@ -95,6 +95,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [mhdawson] - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt;
 * [obensource] - **Ben Michel** &lt;benpmichel@gmail.com&gt;
 * [waleedashraf] - **Waleed Ashraf** &lt;waleedashrafhere@gmail.com&gt;
+* [rachelnicole] - **Rachel White** &lt;loveless@gmail.com&gt;
 
 
 ### Community Committee Emeriti
@@ -105,7 +106,6 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [gr2m] - **Gregor Martynus** &lt;nodejs.commcomm@martynus.net&gt;
 * [amorelandra] - **Emily Rose** &lt;nexxy@symphonysubconscious.com&gt;
 * [msmichellegar] - **Michelle Garrett** &lt;msmichellegar@gmail.com&gt;
-* [rachelnicole] - **Rachel White** &lt;loveless@gmail.com&gt;
 * [refack] - **Refael Ackermann** &lt;refack@gmail.com&gt;
 * [JemBijoux] - **Jem Bezooyen** &lt;jem@hipmedia.ca&gt; **Community Committee Secretary**
 * [Tiriel] - **Benjamin Zaslavsky** &lt;benjamin.zaslavsky@gmail.com&gt;
