@@ -150,6 +150,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 [JemBijoux]:        https://github.com/JemBijoux
 [joesepi]:          https://github.com/joesepi
 [jpwesselink]:      https://github.com/jpwesselink
+[larson-carter]:     https://github.com/larson-carter
 [mhdawson]:         https://github.com/mhdawson
 [msmichellegar]:    https://github.com/msmichellegar
 [MylesBorins]:      https://github.com/MylesBorins
