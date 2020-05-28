@@ -96,7 +96,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [obensource] - **Ben Michel** &lt;benpmichel@gmail.com&gt;
 * [waleedashraf] - **Waleed Ashraf** &lt;waleedashrafhere@gmail.com&gt;
 * [rachelnicole] - **Rachel White** &lt;loveless@gmail.com&gt;
-* [larson-carter - **Larson Carter** &lt;larsoncarter@blazermail.net&gt;
+* [larson-carter] - **Larson Carter** &lt;larsoncarter@blazermail.net&gt;
 
 
 ### Community Committee Emeriti
