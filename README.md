@@ -124,7 +124,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 <!-- useful repo links -->
 [our OKRs]:       https://github.com/nodejs/community-committee/blob/master/OKR.md
 [meeting-search]: https://github.com/nodejs/community-committee/issues?q=is%3Aissue+is%3Aopen+%22Node.js+Community+Committee+Meeting%22+
-[open-an-isse]:   https://github.com/nodejs/community-committee/issues/new
+[open-an-issue]:   https://github.com/nodejs/community-committee/issues/new
 [calendar]:       https://nodejs.org/calendar
 [youtube]:        https://www.youtube.com/c/nodejs+foundation/live
 
