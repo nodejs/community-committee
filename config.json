@@ -1,0 +1,12 @@
+{
+  "httpHeaders": [
+    {
+      "urls": [
+        "https://github.com"
+      ],
+      "headers": {
+        "Authorization": "Bearer ${{ secrets.GITHUB_TOKEN }}",
+      }
+    }
+  ]
+}
