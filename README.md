@@ -89,7 +89,6 @@ The Community Committee is an autonomous committee that collaborates alongside t
 ### Community Committee Members
 * [AhmadAwais] – **Ahmad Awais** &lt;me@AhmadAwais.com&gt;
 * [bnb] - **Tierney Cyren** &lt;hello@bnb.im&gt; **Community Committee Chair**
-* [keywordnew] - **Manil Chowdhury** &lt;manil.chowdhury@gmail.com&gt;
 * [codeekage] - **Agiri Abraham Jr.** &lt;agiriabrahamjunior@nodejs.africa&gt;
 * [joesepi] - **Joe Sepi** &lt;joesepi@gmail.com&gt; **Community Committeee CPC Representative**
 * [mhdawson] - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt;
@@ -115,6 +114,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [williamkapke] - **William Kapke** &lt;will@kap.co&gt;
 * [amiller-gh] - **Adam Miller** &lt;adam@mobilize.app&gt;
 * [dshaw] - **Dan Shaw** &lt;dshaw@dshaw.com&gt;
+* [keywordnew] - **Manil Chowdhury** &lt;manil.chowdhury@gmail.com&gt;
 
 <!-- Source for Markdown links included in this document -->
 [CommComm]:                    https://github.com/nodejs/community-committee
