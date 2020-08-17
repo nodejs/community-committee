@@ -12,8 +12,28 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
+    - run: |
+        cat <<EOF > config.json
+        {
+          "ignorePatterns": [
+          {
+            "pattern": "^http://github.com/${{ github.repository }}/tree/.*/meetings/.*"
+          }
+          ],
+          "httpHeaders": [
+            {
+              "urls": [
+                "https://github.com"
+              ],
+              "headers": {
+                "Authorization": "Bearer ${{ secrets.GITHUB_TOKEN }}",
+              }
+            }
+          ]
+        }
+        EOF
+
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
       with:
         use-verbose-mode: 'yes'
         config-file: 'config.json'
-
