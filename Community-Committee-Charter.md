@@ -74,7 +74,13 @@ For internal project decisions, Collaborators shall operate under Lazy Consensus
 
 The CommComm follows a Consensus Seeking decision making model. When an agenda item has appeared to reach a consensus the moderator will ask "Does anyone object?" as a final call for dissent from the consensus.
 
-If an agenda item cannot reach a consensus a CommComm member can call for either a closing vote or a vote to table the issue to the next meeting. The call for a vote must be seconded by a majority of the CommComm or else the discussion will continue. Simple majority wins.
+If an agenda item cannot reach a consensus a CommComm member can call for a closing vote (assumes enough CommComm members in the meeting), a vote to table the issue to the next meeting, or a vote to be conducted asynchronously through a system to be chosen by the CommComm. The call for a vote is approved if none of the CommComm members in the meeting object to it.
+
+### Section 7.1. Immediate Votes
+
+For time-sensitive issues where reaching consensus asynchronously fails, CommComm members may call for a vote through the CommComm issue tracker. A compelling reason must be provided on why calling for a vote can't wait until the next meeting. The issue must remain open for 24 hours before starting the vote process. If there are any objections to having a vote, the issue will be discussed in the next meeting (where a regular vote can be called).
+
+Except for how they are called, immediate votes follow the same rules as regular votes.
 
 ## Section 8. Roles
 
