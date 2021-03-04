@@ -35,9 +35,6 @@ To begin contributing to working groups and initiatives, start participating!
 Attend the meetings of the working group or initiative, investigate issues tagged
 as `good first issue`, open issues and pull requests, or provide insight via GitHub.
 
-Individuals can open an issue asking to be an invited Guest to CommComm meetings. You
-can find a great example of such an issue [here](https://github.com/nodejs/community-committee/issues/142)!
-
 ## Collaborators
 
 CommComm Collaborators are active contributors with write access to the repo(s)
