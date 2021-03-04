@@ -13,3 +13,4 @@ jobs:
         with:
           paths: "**/*.md"
           markdown: true
+          retry: true
