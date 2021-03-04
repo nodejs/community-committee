@@ -3,6 +3,7 @@ on:
     branches:
       - master
   pull_request:
+  workflow_dispatch:
 name: Linkinator CI
 jobs:
   linkinator:
