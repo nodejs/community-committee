@@ -103,10 +103,10 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [jpwesselink] - **JP Wesselink** &lt;jpwesselink@gmail.com&gt;
 * [oe] - **Olivia Hugger** &lt;olivia@fastmail.com&gt;
 * [gr2m] - **Gregor Martynus** &lt;nodejs.commcomm@martynus.net&gt;
-* [amorelandra] - **Emily Rose** &lt;nexxy@symphonysubconscious.com&gt;
+* [AkashaThone] - **Akasha Thorne** &lt;nexxy@symphonysubconscious.com&gt;
 * [msmichellegar] - **Michelle Garrett** &lt;msmichellegar@gmail.com&gt;
 * [refack] - **Refael Ackermann** &lt;refack@gmail.com&gt;
-* [JemBijoux] - **Jem Bezooyen** &lt;jem@hipmedia.ca&gt; **Community Committee Secretary**
+* [jemjam] - **Jem Bezooyen** &lt;jem@hipmedia.ca&gt; **Community Committee Secretary**
 * [Tiriel] - **Benjamin Zaslavsky** &lt;benjamin.zaslavsky@gmail.com&gt;
 * [nebrius] - **Bryan Hughes** &lt;bryan@nebri.us&gt; **Community Committee Chairperson**
 * [hackygolucky] - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
@@ -135,7 +135,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 
 <!-- profiles of humans -->
 [amiller-gh]:       https://github.com/amiller-gh
-[amorelandra]:      https://github.com/Amorelandra
+[AkashaThone]:      https://github.com/AkashaThorne
 [AhmadAwais]:       https://github.com/AhmadAwais
 [AhmadNassri]:      https://github.com/AhmadNassri
 [ashleygwilliams]:  https://github.com/ashleygwilliams
@@ -147,7 +147,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 [dshaw]:            https://github.com/dshaw
 [gr2m]:             https://github.com/gr2m
 [hackygolucky]:     https://github.com/hackygolucky
-[JemBijoux]:        https://github.com/JemBijoux
+[jemjam]:        https://github.com/jemjam
 [joesepi]:          https://github.com/joesepi
 [jpwesselink]:      https://github.com/jpwesselink
 [mhdawson]:         https://github.com/mhdawson
