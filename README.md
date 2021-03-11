@@ -1,8 +1,6 @@
 # Community Committee
 
-The Community Committee is a top-level committee in the Node.js Project focused on community-facing efforts. For current objectives, read [our OKRs].
-
-For more details read the [Community Committee Charter].
+The Community Committee is a top-level committee in the Node.js Project focused on community-facing efforts. For details on how we operated, read the [Community Committee Charter].
 
 ## Why does the Community Committee exist?
 
@@ -122,7 +120,6 @@ The Community Committee is an autonomous committee that collaborates alongside t
 [TSC]:                         https://github.com/nodejs/TSC
 
 <!-- useful repo links -->
-[our OKRs]:       https://github.com/nodejs/community-committee/blob/master/OKR.md
 [meeting-search]: https://github.com/nodejs/community-committee/issues?q=is%3Aissue+is%3Aopen+%22Node.js+Community+Committee+Meeting%22+
 [open-an-issue]:   https://github.com/nodejs/community-committee/issues/new
 [calendar]:       https://nodejs.org/calendar
