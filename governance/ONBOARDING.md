@@ -11,7 +11,8 @@ Community Committee members are held to following the [Membership Policy](https:
 * Many CommComm **Strategic Initiatives** operate in their own repositories. A list of active initiatives can be found in the main [README](./README.md).
 
 ## Travel Fund
-There is a [travel fund](https://github.com/openjs-foundation/cross-project-council/blob/main/project-resources/MEMBER_TRAVEL_FUND.md) available to contributors to Node.js, including members of the Community Committee. There are a few criteria before travel fund requests can be merged, so please be sure to read the [MEMBER_TRAVEL_FUND.md](https://github.com/openjs-foundation/cross-project-council/blob/main/project-resources/MEMBER_TRAVEL_FUND.md) document fully.
+
+There is a [travel fund](https://github.com/openjs-foundation/cross-project-council/blob/main/project-resources/MEMBER_TRAVEL_FUND.md) available to all contributors to the Node.js project, in addition to all collaborators on OpenJS Foundation projects.
 
 ## Project processes, practices, and conventions
 The Node.js project has adopted open source practices to organize our efforts, interactions, and complete administrative duties related to our work. What follows is a quick guide to how we do things, to get you started!

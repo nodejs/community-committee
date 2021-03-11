@@ -141,6 +141,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 [keywordnew]:       https://github.com/keywordnew
 [codeekage]:        https://github.com/codeekage
 [DavidGuttman]:     https://github.com/davidguttman
+[designmoreweb]:    https://github.com/designmoreweb
 [dshaw]:            https://github.com/dshaw
 [gr2m]:             https://github.com/gr2m
 [hackygolucky]:     https://github.com/hackygolucky
