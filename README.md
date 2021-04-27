@@ -87,7 +87,6 @@ The Community Committee is an autonomous committee that collaborates alongside t
 ### Community Committee Members
 * [AhmadAwais] – **Ahmad Awais** &lt;me@AhmadAwais.com&gt;
 * [bnb] - **Tierney Cyren** &lt;hello@bnb.im&gt; **Community Committee Chair**
-* [codeekage] - **Agiri Abraham Jr.** &lt;agiriabrahamjunior@nodejs.africa&gt;
 * [joesepi] - **Joe Sepi** &lt;joesepi@gmail.com&gt; **Community Committeee CPC Representative**
 * [mhdawson] - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt;
 * [obensource] - **Ben Michel** &lt;benpmichel@gmail.com&gt;
@@ -97,6 +96,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 
 ### Community Committee Emeriti
 * [ashleygwilliams] - **Ashley Williams** &lt;ashley666ashley@gmail.com&gt;
+* [codeekage] - **Agiri Abraham Jr.** &lt;agiriabrahamjunior@nodejs.africa&gt;
 * [MylesBorins] - **Myles Borins** &lt;myles.borins@gmail.com&gt;
 * [jpwesselink] - **JP Wesselink** &lt;jpwesselink@gmail.com&gt;
 * [oe] - **Olivia Hugger** &lt;olivia@fastmail.com&gt;
