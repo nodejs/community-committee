@@ -42,7 +42,6 @@ A review of the initiatives will be a standing item on the Community Committee a
 | ----------------------- | ----------------------------- | --------------- | ------------------------------- | ----------------------------------- |
 | i18n                    | [obensource]                  |                 | [nodejs/i18n]                   |                                     |
 | Mentorship              | [DavidGuttman]                |                 | [nodejs/mentorship]             |                                     |
-| Node.js Collection      | [waleedashraf]                |                 | [nodejs/nodejs-collection]      |                                     |
 | Examples                | [bnb]                         |                 | [nodejs/examples]               |                                     |
 | Outreach                | [AhmadAwais]                  |                 | [nodejs/outreach]               |                                     |
 | Website Redesign        | [designmoreweb]               | [obensource]    | [nodejs/nodejs.dev]             | [nodejs.dev/objectives-key-results] |
@@ -68,6 +67,7 @@ A review of the initiatives will be a standing item on the Community Committee a
 | Education                 | [hackygolucky]  | [nodejs/education]              | Absorbed by the Website Redesign Initiative           |
 | Enterprise User Feedback  | [AhmadNassri]   | [nodejs/user-feedback]          | Repository archived                                   |
 | Evangelism WG             | [bnb]           | [nodejs/evangelism]             | Responsibilities absorbed by CommComm                 |
+| Node.js Collection        | [waleedashraf]  | [nodejs/nodejs-collection]      | Inactive                                              |
 | Open-source Friday        | ?               | [#180][]                        | No clear project                                      |
 | Social Media Delegates    | [bnb]           | [nodejs/social-media-delegates] |                                                       |
 | User Feedback             | [dshaw]         | [nodejs/user-feedback]          | [Moved to OpenJS][openjs-foundation/user-feedback]    |
