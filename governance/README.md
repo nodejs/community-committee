@@ -35,9 +35,6 @@ To begin contributing to working groups and initiatives, start participating!
 Attend the meetings of the working group or initiative, investigate issues tagged
 as `good first issue`, open issues and pull requests, or provide insight via GitHub.
 
-Individuals can open an issue asking to be an invited Guest to CommComm meetings. You
-can find a great example of such an issue [here](https://github.com/nodejs/community-committee/issues/142)!
-
 ## Collaborators
 
 CommComm Collaborators are active contributors with write access to the repo(s)
@@ -99,11 +96,9 @@ That should happen continuously on GitHub and be handled by the larger
 group of Collaborators.
 
 Any community member or contributor can ask that something needs to be reviewed
-by the CommComm by logging a GitHub issue. Any Collaborator, CommComm member, or the
-meeting chair can bring the issue to the CommComm's attention by applying the
-`cc-review` label. If consensus-seeking among CommComm members fails for a
-particular issue, it may be added to the CommComm meeting agenda by adding the
-`cc-agenda` label.
+by the CommComm by logging a GitHub issue. Any Collaborator, CommComm member.
+If consensus-seeking among CommComm members fails for a particular issue, it
+may be added to the CommComm meeting agenda by adding the `cc-agenda` label.
 
 The CC will elect from amongst voting CC members a CC Chairperson to work on building an agenda for CC meetings and a CC Director to represent
 the CC to the Board for a term of one year according to the Node.js Foundation’s By-laws. The Chair and Director may be (but are not required to be)
