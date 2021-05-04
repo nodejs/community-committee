@@ -38,14 +38,6 @@ A review of the initiatives will be a standing item on the Community Committee a
 
 ### Current Initiatives
 
-|       Initiative        |          Champion(s)          | CommComm Liason |              Link               |                 OKR                 |
-| ----------------------- | ----------------------------- | --------------- | ------------------------------- | ----------------------------------- |
-| i18n                    | [obensource]                  |                 | [nodejs/i18n]                   |                                     |
-| Mentorship              | [DavidGuttman]                |                 | [nodejs/mentorship]             |                                     |
-| Node.js Collection      | [waleedashraf]                |                 | [nodejs/nodejs-collection]      |                                     |
-| Examples                | [bnb]                         |                 | [nodejs/examples]               |                                     |
-| Outreach                | [AhmadAwais]                  |                 | [nodejs/outreach]               |                                     |
-| Website Redesign        | [designmoreweb]               | [obensource]    | [nodejs/nodejs.dev]             | [nodejs.dev/objectives-key-results] |
 
 ### In Need of Champion
 
@@ -160,19 +152,16 @@ The Community Committee is an autonomous committee that collaborates alongside t
 [williamkapke]:     https://github.com/williamkapke
 [nebrius]:          https://github.com/nebrius
 
-<!-- repo links -->
+
 [nodejs/badges]:                 https://github.com/nodejs/badges
 [nodejs/i18n]:                   https://github.com/nodejs/i18n
 [nodejs/mentorship]:             https://github.com/nodejs/mentorship
 [nodejs/nodejs-collection]:      https://github.com/nodejs/nodejs-collection
 [nodejs/outreach]:               https://github.com/nodejs/outreach
 [nodejs/user-feedback]:          https://github.com/nodejs/user-feedback
-[nodejs/nodejs.dev]:             https://github.com/nodejs/nodejs.dev
+
 [nodejs/education]:              https://github.com/nodejs/education
 [nodejs/evangelism]:             https://github.com/nodejs/evangelism
 [nodejs/community-events]:       https://github.com/nodejs/community-events
 [nodejs/social-media-delegates]: https://github.com/nodejs/social-media-delegates
-[nodejs/examples]:               https://github.com/nodejs/examples
 
-<!-- initiative OKR links -->
-[nodejs.dev/objectives-key-results]: https://github.com/nodejs/nodejs.dev/blob/master/OKR.md
