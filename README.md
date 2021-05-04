@@ -39,6 +39,7 @@ A review of the initiatives will be a standing item on the Community Committee a
 ### Current Initiatives
 
 
+
 ### In Need of Champion
 
 | Initiative                | Previous Champion | Links                                                      |
