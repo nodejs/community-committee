@@ -1,6 +1,6 @@
 #  Community Committee
 
-The Community Committee is a top-level committee in the Node.js Project focused on community-facing efforts. For details on how we operated, read the [Community Committee Charter].
+
 
 ## Why does the Community Committee exist?
 
@@ -60,7 +60,7 @@ A review of the initiatives will be a standing item on the Community Committee a
 | Education                 | [hackygolucky]  | [nodejs/education]              | Absorbed by the Website Redesign Initiative           |
 | Enterprise User Feedback  | [AhmadNassri]   | [nodejs/user-feedback]          | Repository archived                                   |
 | Evangelism WG             | [bnb]           | [nodejs/evangelism]             | Responsibilities absorbed by CommComm                 |
-| Node.js Collection        | [waleedashraf]  | [nodejs/nodejs-collection]      | Inactive                                              |
+
 | Open-source Friday        | ?               | [#180][]                        | No clear project                                      |
 | Social Media Delegates    | [bnb]           | [nodejs/social-media-delegates] |                                                       |
 | User Feedback             | [dshaw]         | [nodejs/user-feedback]          | [Moved to OpenJS][openjs-foundation/user-feedback]    |
@@ -113,8 +113,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 [TSC]:                         https://github.com/nodejs/TSC
 
 <!-- useful repo links -->
-[meeting-search]: https://github.com/nodejs/community-committee/issues?q=is%3Aissue+is%3Aopen+%22Node.js+Community+Committee+Meeting%22+
-[open-an-issue]:   https://github.com/nodejs/community-committee/issues/new
+
 [calendar]:       https://nodejs.org/calendar
 [youtube]:        https://www.youtube.com/c/nodejs+foundation/live
 
@@ -153,6 +152,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 [williamkapke]:     https://github.com/williamkapke
 [nebrius]:          https://github.com/nebrius
 
+
 [nodejs/badges]:                 https://github.com/nodejs/badges
 [nodejs/i18n]:                   https://github.com/nodejs/i18n
 [nodejs/mentorship]:             https://github.com/nodejs/mentorship
@@ -163,3 +163,4 @@ The Community Committee is an autonomous committee that collaborates alongside t
 [nodejs/evangelism]:             https://github.com/nodejs/evangelism
 [nodejs/community-events]:       https://github.com/nodejs/community-events
 [nodejs/social-media-delegates]: https://github.com/nodejs/social-media-delegates
+
