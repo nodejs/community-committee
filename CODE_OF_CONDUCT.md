@@ -1,4 +1,4 @@
-Code of Conduct
+# Code of Conduct
 
 The Community Committee and its initiatives are committed to upholding the Node.js Code of Conduct.
 
