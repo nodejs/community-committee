@@ -1,4 +1,4 @@
-# Node.js Community Committee Contributing Guide 1.1
+#  Node.js Community Committee Contributing Guide 1.1
 
 **First things first:** If you're unsure of anything, please _don't hesitate to ask a question in a discussion or create an issue_. Nobody will be upset with you; we'll always try to include you in the work you care about. The worst that can happen is that you'll be politely asked to change something. Any kind of contribution, no matter how big or small, helps!
 
