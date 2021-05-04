@@ -12,7 +12,7 @@ Community Committee regarding maintaining the code, documentation, and issues.
 Collaborators should be familiar with the guidelines for new
 contributors in [CONTRIBUTING.md](https://github.com/nodejs/community-committee/blob/master/CONTRIBUTING.md) and also
 understand the project governance model as outlined in
-[GOVERNANCE.md](https://github.com/nodejs/community-committee/blob/master/GOVERNANCE.md).
+[GOVERNANCE.md](https://github.com/nodejs/community-committee/tree/main/governance).
 
 ## Issues and Pull Requests
 
