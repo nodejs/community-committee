@@ -1,4 +1,4 @@
-# Community Committee Charter
+#  Community Committee Charter
 
 ## Section 1. Guiding Principle.
 
