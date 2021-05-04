@@ -1,0 +1,40 @@
+Time
+UTC Thu 29-Apr-2021 16:00 (04:00 PM):
+
+Timezone	Date/Time
+US / Pacific	Thu 29-Apr-2021 09:00 (09:00 AM)
+US / Mountain	Thu 29-Apr-2021 10:00 (10:00 AM)
+US / Central	Thu 29-Apr-2021 11:00 (11:00 AM)
+US / Eastern	Thu 29-Apr-2021 12:00 (12:00 PM)
+EU / Western	Thu 29-Apr-2021 17:00 (05:00 PM)
+EU / Central	Thu 29-Apr-2021 18:00 (06:00 PM)
+EU / Eastern	Thu 29-Apr-2021 19:00 (07:00 PM)
+Moscow	Thu 29-Apr-2021 19:00 (07:00 PM)
+Chennai	Thu 29-Apr-2021 21:30 (09:30 PM)
+Hangzhou	Fri 30-Apr-2021 00:00 (12:00 AM)
+Tokyo	Fri 30-Apr-2021 01:00 (01:00 AM)
+Sydney	Fri 30-Apr-2021 02:00 (02:00 AM)
+Or in your local time:
+
+https://www.timeanddate.com/worldclock/fixedtime.html?msg=Node.js+Foundation+Community%20Committee+Meeting+2021-04-29&iso=20210429T1600
+or https://www.wolframalpha.com/input/?i=04PM+UTC%2C+Apr+29%2C+2021+in+local+time
+Links
+Minutes Google Doc: https://docs.google.com/document/d/1I2DO3YBQAulWaiCTQTESA4gzaLsTqOp5Pt9gr_mnN7I/edit
+Agenda
+Extracted from cc-agenda labelled issues and pull requests from the nodejs org prior to the meeting.
+
+nodejs/TSC
+Moderation Team Certification #1014
+Invited
+CommComm Members: @nodejs/community-committee
+Observers/Guests
+Feel free to follow along on the YouTube live stream, or attend meeting as a guest
+by calling in to Zoom, using the links below. If you will be attending as a guest,
+please comment on this issue to let us know you'll be joining.
+
+Notes
+The agenda comes from issues labelled with cc-agenda across all of the repositories in the nodejs org. Please label any additional issues that should be on the agenda before the meeting starts.
+
+Joining the meeting
+Link for participants: https://zoom.us/j/95198277339
+For those who just want to watch: https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ
