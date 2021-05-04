@@ -1,8 +1,6 @@
-# Community Committee
+#  Community Committee
 
-The Community Committee is a top-level committee in the Node.js Project focused on community-facing efforts. For current objectives, read [our OKRs].
-
-For more details read the [Community Committee Charter].
+The Community Committee is a top-level committee in the Node.js Project focused on community-facing efforts. For details on how we operated, read the [Community Committee Charter].
 
 ## Why does the Community Committee exist?
 
@@ -103,10 +101,10 @@ The Community Committee is an autonomous committee that collaborates alongside t
 * [jpwesselink] - **JP Wesselink** &lt;jpwesselink@gmail.com&gt;
 * [oe] - **Olivia Hugger** &lt;olivia@fastmail.com&gt;
 * [gr2m] - **Gregor Martynus** &lt;nodejs.commcomm@martynus.net&gt;
-* [amorelandra] - **Emily Rose** &lt;nexxy@symphonysubconscious.com&gt;
+* [AkashaThone] - **Akasha Thorne** &lt;nexxy@symphonysubconscious.com&gt;
 * [msmichellegar] - **Michelle Garrett** &lt;msmichellegar@gmail.com&gt;
 * [refack] - **Refael Ackermann** &lt;refack@gmail.com&gt;
-* [JemBijoux] - **Jem Bezooyen** &lt;jem@hipmedia.ca&gt; **Community Committee Secretary**
+* [jemjam] - **Jem Bezooyen** &lt;jem@hipmedia.ca&gt; **Community Committee Secretary**
 * [Tiriel] - **Benjamin Zaslavsky** &lt;benjamin.zaslavsky@gmail.com&gt;
 * [nebrius] - **Bryan Hughes** &lt;bryan@nebri.us&gt; **Community Committee Chairperson**
 * [hackygolucky] - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
@@ -122,7 +120,6 @@ The Community Committee is an autonomous committee that collaborates alongside t
 [TSC]:                         https://github.com/nodejs/TSC
 
 <!-- useful repo links -->
-[our OKRs]:       https://github.com/nodejs/community-committee/blob/master/OKR.md
 [meeting-search]: https://github.com/nodejs/community-committee/issues?q=is%3Aissue+is%3Aopen+%22Node.js+Community+Committee+Meeting%22+
 [open-an-issue]:   https://github.com/nodejs/community-committee/issues/new
 [calendar]:       https://nodejs.org/calendar
@@ -135,7 +132,7 @@ The Community Committee is an autonomous committee that collaborates alongside t
 
 <!-- profiles of humans -->
 [amiller-gh]:       https://github.com/amiller-gh
-[amorelandra]:      https://github.com/Amorelandra
+[AkashaThone]:      https://github.com/AkashaThorne
 [AhmadAwais]:       https://github.com/AhmadAwais
 [AhmadNassri]:      https://github.com/AhmadNassri
 [ashleygwilliams]:  https://github.com/ashleygwilliams
@@ -144,10 +141,11 @@ The Community Committee is an autonomous committee that collaborates alongside t
 [keywordnew]:       https://github.com/keywordnew
 [codeekage]:        https://github.com/codeekage
 [DavidGuttman]:     https://github.com/davidguttman
+[designmoreweb]:    https://github.com/designmoreweb
 [dshaw]:            https://github.com/dshaw
 [gr2m]:             https://github.com/gr2m
 [hackygolucky]:     https://github.com/hackygolucky
-[JemBijoux]:        https://github.com/JemBijoux
+[jemjam]:        https://github.com/jemjam
 [joesepi]:          https://github.com/joesepi
 [jpwesselink]:      https://github.com/jpwesselink
 [mhdawson]:         https://github.com/mhdawson
