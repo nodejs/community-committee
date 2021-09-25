@@ -1,4 +1,4 @@
-# Community Committee
+#Community Committee
 
 The Community Committee is a top-level committee in the Node.js Foundation focused on community-facing efforts.
 
