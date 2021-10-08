@@ -1,3 +1,7 @@
+# This Committee is Retired ❤️
+
+The Node.js Community Committee has been retired. You can find the blog post with details [here](https://nodejs.org/en/blog/announcements/retiring-the-node-js-community-committee/).
+
 # Community Committee
 
 The Community Committee is a top-level committee in the Node.js Project focused on community-facing efforts. For details on how we operated, read the [Community Committee Charter].
